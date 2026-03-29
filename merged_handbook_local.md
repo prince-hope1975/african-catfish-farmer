@@ -69,60 +69,49 @@ recording, or otherwise, without the prior written permission of the publisher.
 13.0
 
 ISBN 978-90-830137-3-2 Forew
-
-Intro
+Introduction 17
 
 TABLE OF CONTENTS
 
-The available sources of water 27 189
+The available sources of water 27
 
-Fish culture systems 201
+Fish culture systems 37
 
-Choice of materials for fish farms, sizes, shapes and numbers Integrated farming 209
+Choice of materials for fish farms, sizes, shapes and numbers 75
 
-How to set up a fish farm Appendices
+Integrated farming 87
 
-Feed and feeding Glossary
+How to set up a fish farm 97
 
-37 Word of thanks
+Feed and feeding 117
 
-75 217
+Catfish diseases 147
 
-87 237
+Fish farm management 189
 
-97 243
+Catfish marketing 201
 
-Reproduction of the African catfish 117
+Economics of catfish farming 209
+
+Appendices 217
+
+Glossary 237
+
+Word of thanks 243
 
 FOREWORD
 
-Catfish diseases
+Today's world of fish farming is filled with lots of theories from so-called experts, and this often challenges our success in fish farming.
 
-Fish farm management Today's world of fish farming, filled with lots of theories of so-called experts, challenges
+We need to remember that some people in this world are doing the right thing, by getting the required amount of water, which is the most important factor, the required quantity and quality of fish feed, and other essentials for farming, and getting their results.
 
-Catfish marketing our success in fish farming.
+One of the main things that Willy Fleuren, my boss and mentor, loves to say is, "Do the right things, stop cutting corners."
 
-Economics of catfish farming
+This book you are holding is the result of Willy Fleuren's long-time experience in building and installing hatcheries, grow-out systems, and fish farm management in both Africa and other parts of the world.
 
-147 We need to remember that some people in this world are doing the right thing, by getting the required amount of water which is the most important factor, the required quantity and quality of fish feed and other essentials for farming, and getting their results.
+As I travelled and worked with him, both in Nigeria and other countries in Africa, over the years I saw the benefits of doing the right thing in fish farming.
 
-One of the main subjects that Willy Fleuren, my boss and mentor, loves to say is, "Do the
-
-right things, stop cutting corners."
-
-This book you are holding is the result of Willy Fleuren's long time experience in building and installing hatcheries, grow-out systems, and fish farm management in both Africa and
-
-other parts of the world.
-
-As I travelled and worked with him, both in Nigeria and other countries of Africa, over the years I saw the benefits of doing the right thing in fish farming.
-
-This legacy edition of Willy Fleuren's book, filled with special added contents, is a valuable
-
-gift for the present and the future generation of fish farmers and also for students of
-
-aquaculture and fisheries in Africa and beyond, to answer their hunger and desire for the
-
-right practical techniques of profitable fish farming and management.
+This legacy edition of Willy Fleuren's book, filled with special added content, is a valuable gift for the present and future generations of fish farmers and also for students of aquaculture and fisheries in Africa and beyond, to answer their hunger and desire for the right practical techniques of profitable fish farming and management.
 
 By Wale Olabode, Aquagarden,
 
@@ -148,75 +137,27 @@ Aquaculture is the production of aquatic organisms such as shrimps, fish, shellf
 
 and seaweeds. In Nigeria however, aquaculture is almost limited to fish farming only.
 
-The species which are suitable to farm in Nigeria, are limited too. Depending on the biology of the species, market, availability of seed and suitable feeds, I consider three species to be feasible for farming in Nigeria: African catfish (Clarias gariepinus), Tilapia (Oreochromis niloticus) and Carp (Cyprinus carpio). From these three species the vast
+The species suitable for farming in Nigeria are limited too. Depending on the biology of the species, the market, the availability of seed, and suitable feeds, I consider three species to be feasible for farming in Nigeria: African catfish (Clarias gariepinus), tilapia (Oreochromis niloticus), and carp (Cyprinus carpio). Of these three species, the vast majority of production is African catfish, also called the walking catfish or barbel, the local name in South Africa. In this handbook I focus only on the production of African catfish, because it has wide acceptance in Nigeria, it grows very quickly, and it can be economically farmed in small-scale enterprises with relatively low investment. On the African continent fish farming is not widespread. There are only two countries that have really developed fish farming: Egypt and Nigeria. Egypt is mainly focused on tilapia production, and Nigeria is mainly focused on African catfish production.
 
-majority of the production is of African catfish also called the walking catfish or barbel,
+In the early days after Nigerian independence, "fish farming" and "fishing" were mixed-up terms, but they have totally different meanings. Fish farming is done in a controlled water body, where fish are stocked and fed deliberately. After a growing period, the fish are harvested in a controlled manner to easily crop them. Fishing is catching fish in natural water bodies with seine nets, fish traps, angling, and other fishing equipment. What is caught is always a surprise. The term "fisheries" actually covers both activities.
 
-the local name in South Africa. In this handbook I only focus on the production of African catfish, because it has a wide acceptance in Nigeria, it grows very quickly and it can be economically farmed in small scale enterprises with relatively low investments. On the African continent fish farming is not widespread. There are only two countries
+In the early seventies the first pioneers started real fish farming, driven by a growing population and increased prices for fish. They, however, faced a serious problem: the know-how for fish farming was not available, and good quality feeds and seed were very scarce.
 
-which really have developed fish farming: Egypt and Nigeria. Egypt is mainly focusing
+In the eighties fish farming started to change through the introduction of new farming techniques, which resulted in increased fingerling production of catfish and the introduction of imported starter feed.
 
-on tilapia production and Nigeria is mainly focusing on African catfish production.
+In the nineties fish farming really started to boom and the RAS (recirculation aquaculture system) was introduced. This system is highly intensive and does not need much space. You can actually farm successfully in the middle of town. Awareness of fish farming increased exponentially, and already a thousand fish farmers had started their own farms. However, in the rush to start, many farmers stopped their farming activities as fast as they had started them and lost a lot of money. Till today we see many newcomers, and still many of them end up disappointed and leave this volatile agribusiness. This handbook is hopefully a tool for anybody who wants to start a fish farm, and an inspiration to gain the knowledge to get started on a solid foundation, so there will be no dropout.
 
-In the early days after the Nigerian independence, 'fish farming' and 'fishing' were mixed up terms, but they have a totally different meaning. Fish farming is done in a controlled water body, fish are stocked and fed deliberately. After a growing period,
+That is why this book is full of examples, formats, and calculations. I realise that the prices of materials, fish feeds, fish, energy, and other costs will fluctuate over time and by location. That does not mean that the book will be outdated in the years to come, because the formulas used in this book are universal. You can just fill in the current prices to get a customised outcome and draw actual conclusions.
 
-the fish are harvested in a controlled manner to easily crop the fish. Fishing is catching
+After the millennium the government positively interfered in the agric sector. Agric loans were developed with single-digit interest rates. However, only big companies and companies that are well connected to the banks were benefiting from those loans. Also, imported agric equipment, including equipment for fish farming, can be imported duty-free.
 
-fish in natural water bodies with seine nets, fish traps, angling and other fishing equipment. What is caught is always a surprise. The term 'fisheries' is actually covering both activities.
+There are restrictions on the import of frozen fish, and importers cannot acquire CBN funds for importation of frozen fish. The import of frozen tilapia and frozen catfish is completely forbidden; however, frozen tilapia is still coming in via the Republic of Benin. All this has stimulated the growth of fish farming in Nigeria. Nowadays frozen fish is very expensive.
 
-In the early seventies the first pioneers started with real fish farming, driven by a
+The present administration takes diversification of the economy very seriously and is concentrating on the agric sector as a sector that can absorb a lot of unemployed youth and increase the sustainability of the food supply for the rapidly growing population.
 
-growing population and increased prices for fish. They however faced a serious problem: the know-how for fish farming was not available and good quality feeds and seeds were very scarce.
+The government has created a good platform for the fish industry, and multinationals have come to Nigeria to invest heavily in commercial state-of-the-art feed mills.
 
-In the eighties fish farming started to change through the introduction of new farming
-
-techniques, which resulted in increased fingerling production of catfish, and the
-
-introduction of imported starter feed.
-
-In the nineties fish farming really started to boom and the RAS (recirculation aqua culture system) was introduced. This system is highly intensive and does not need
-
-much space. You actually can farm successfully in the middle of town. The awareness
-
-of fish farming increased exponentially and already a thousand fish farmers had started their own farm. However, in the rush of starting, many farmers stopped their farming activities as fast as they had started them and lost a lot of money. Till today we see many newcomers, and still many of them end up disappointed and leave this volatile
-
-agribusiness. This handbook is hopefully a tool for anybody who wants to start a fish
-
-## 100
-
-introduction
-
-farm, and an inspiration to gain the knowledge to get started on a solid foundation, farm, and an inspiration to gain the knowledge to get started on a solid foundation,
-
-so there will be no drop out.so there will be no drop out.
-
-That is why this book is full of examples, formats and calculations. I realise that the That is why this book is full of examples, formats and calculations. I realise that the
-
-prices of materials, fish feeds, fish, energy and other costs will fluctuate in time and prices of materials, fish feeds, fish, energy and other costs will fluctuate in time and location. That doesn't mean that the book will be outdated in the years to come, location. That doesn't mean that the book will be outdated in the years to come, because the formulas used in this book are universal. You can just fill in the current because the formulas used in this book are universal. You can just fill in the current prices to get a customized outcome and draw actual conclusions.prices to get a customized outcome and draw actual conclusions.
-
-After the millennium the government positively interfered in the Agric sector. Agric After the millennium the government positively interfered in the Agric sector. Agric loans were developed with single digit interest rates. However only big companies and loans were developed with single digit interest rates. However only big companies and companies which are well connected to the banks, were benefiting from those loans. companies which are well connected to the banks, were benefiting from those loans. Also, imported agric equipment, including for fish farming, can be imported duty-free. Also, imported agric equipment, including for fish farming, can be imported duty-free.
-
-There are restrictions on the import of frozen fish and importers cannot acquire CBN There are restrictions on the
-
-## import of frozen fish and importers cannot acquire CBN
-
-funds for importation of frozen fish. The import of frozen tilapia and frozen catfish funds for importation of frozen fish. The import of frozen tilapia and frozen catfish is completely forbidden, however frozen tilapia is still dripping in via The Republic of is completely forbidden, however frozen tilapia is still dripping in via The Republic of Benin. All this has stimulated the growth of fish farming in Nigeria. Nowadays frozen Benin. All this has stimulated the growth of fish farming in Nigeria. Nowadays frozen fish is very expensive.fish is very expensive.
-
-The present administration takes diversification of the economy very seriously and is The present administration takes diversification of the economy very seriously and is
-
-concentrating on the agric sector being a sector that can absorb a lot of unemployed concentrating on the agric sector being a sector that can absorb a lot of unemployed youth and increase the sustainability of the food supply for the untamed growing youth and increase the sustainability of the food supply for the untamed growing population.population.
-
-The government has created a good platform for the fish industry and multinationals The government has created a good platform for the fish industry and multinationals
-
-have come to Nigeria to invest heavily in commercial state-of-the-art feed mills.have come into Nigeria to invest heavily in commercial state-of-the-art feed mills.
-
-Catfish farming can be carried out in almost any state of the country. Claiming this, Catfish farming can be carried out in almost any state of the country. Claiming this, the the production of catfish is actually primarily based in the south west of Nigeria production of catfish is actually primarily based in the south west of Nigeria (Figure 1). The Northern states have less water available, whereas some states, such as (Figure 1). The Northern states have less water available, whereas some states, such as
-
-Taraba State (highland) and Plateau State, have enough water, but the climate is too Taraba State (highland) and Plateau State, have enough water, but the climate is too
-
-cold for profitable catfish farming. The east and south-south are provided with good cold for profitable catfish farming. The east and south-south are provided with good
-
-opportunities to farm fish but are not so developed yet.opportunities to farm fish but are not so developed yet.
+Catfish farming can be carried out in almost any state of the country. That said, production of catfish is actually primarily based in the south-west of Nigeria (Figure 1). The northern states have less water available, whereas some states, such as Taraba State (highland) and Plateau State, have enough water, but the climate is too cold for profitable catfish farming. The east and south-south are provided with good opportunities to farm fish but are not yet so developed.
 
 <div style='text-align: center;'><img src='images/img_006.png' alt='OCR图片'/></div>
 
@@ -226,65 +167,27 @@ MAP RANKING STATES IN NIGERIA WITH HIGHEST PRODUCTION OF CATFISH
 
 Figure 1. The ranking of states based on the level of catfish production.
 
-Nigeria is blessed with a lot of water bodies: 264 medium and large dams with acombined storage capacity of 33 billion cubic metres of water. The dams can be usedfor pumping water into the fish farms or for direct farming by putting cages in thedam.
+Nigeria is blessed with a lot of water bodies: 264 medium and large dams with a combined storage capacity of 33 billion cubic metres of water. The dams can be used for pumping water into fish farms or for direct farming by putting cages in the dam.
 
 The demand for fish in Nigeria is around 7 kg/ capita per year, but the recommended
 
 rate is 12 kg/capita per year. Fish production in Nigeria is hovering around 200,000 tons; the domestic catch is 450,000 tons, the remaining fish, which forms the bulk, is still imported.
 
-## 1.2 ??????????
+## 1.2 Reasons why fish farms don't succeed
 
-First of all, fish farms shouldn't fail because there is no market for catfish. The market
-
-for catfish is big and still growing, although in some areas they produce a lot of catfish
-
-but they don't eat as much. So, they are marketing it to other areas in the country. For
-
-introduction
-
-example, in the Ibadan region a lot of fish is produced and transported to Abuja and Lagos by road. Marketing is part of the business and if totally neglected, it will result in very low sales prices. This makes it difficult to make a profit. Therefore, fish farms
-
-should have a regular supply of fish to be able to satisfy the customer on a regular
-
-basis. However, some farms sell their produced fish only two or three times a year. In this way you cannot build any customer relationship! In general, small producers have more problems selling their fish than the big producers.
+First of all, fish farms should not fail because there is no market for catfish. The market for catfish is big and still growing, although in some areas they produce a lot of catfish but do not eat as much. So they market it to other areas in the country. For example, in the Ibadan region a lot of fish is produced and transported by road to Abuja and Lagos. Marketing is part of the business, and if it is totally neglected, it will result in very low sales prices. This makes it difficult to make a profit. Therefore, fish farms should have a regular supply of fish to be able to satisfy customers on a regular basis. However, some farms sell their fish only two or three times a year. In this way you cannot build any customer relationship. In general, small producers have more problems selling their fish than big producers.
 
 ## The location is not appropriate for fish production
 
-Many fish farmers underestimate the water consumption. Their conception is to fill theMany fish farmers underestimate the water consumption. Their conception is to fill the tanks and keep them full from growth cycle till harvest. It's not like that; read chapter tanks and keep them full from growth cycle till harvest. It's not like that; read chapter 3 for more information. In order to keep the water quality within acceptable levels, 3 for more information. In order to keep the water quality within acceptable levels, you have to flush on a daily basis, preferably 24/7 and even increase it as the fish are you have to flush on a daily basis, preferably 24/7 and even increase it as the fish are
+Many fish farmers underestimate water consumption. Their idea is to fill the tanks and keep them full from the growth cycle till harvest. It is not like that; read Chapter 3 for more information. In order to keep the water quality within acceptable levels, you have to flush on a daily basis, preferably 24/7, and even increase it as the fish gain weight. Using boreholes for grow-out, which is the last stage of the growth cycle, is in many areas of Nigeria not really profitable for medium- and large-scale production.
 
-gaining weight. Using boreholes for grow-out, which is the last stage of the growth gaining weight. Using boreholes for grow-out, which is the last stage of the growth
+A borehole can work only on a small scale, and production is limited to only 1,000 kg per month. Of course, there are always exceptions. In the region of Benin City, you will see good working boreholes with very large capacity (20 to 30 m3 per hour) and clean water. Normally the supply of water should come from a river, stream, or dam with availability of water throughout the year.
 
-cycle, is in many areas of Nigeria not really profitable for medium and large-scale cycle, is in many areas of Nigeria not really profitable for medium and large-scale production.production.
+Some farms are based so far away from civilisation that it is a challenge to get there. Customers will be discouraged from coming to buy fish in such an area. The roads are very bad, security is almost absent, and no infrastructure is available.
 
-A borehole can work only on a small scale, and the production is limited to only 1000 kg per month. Of course, there are always exceptions. In the region of Benin City, you A borehole can work only on a small scale, and the production is limited to only 1000
+Some fish farms are not equipped with any way to drain water out of the farm. This is the same misconception as not having any water to flush, because of the perception that the ponds must be kept full. Solutions to drain the water into the soil cannot work because soon you will have a lagoon on your land. If you by all means want to drain onto your property, you will need 1,000 m2 for each ton per annum of production. For a production of 50 tons per annum, this is already 5 ha of land.
 
-will see good working boreholes with very large capacity (20 - 30 mkg per month. Of course, there are always exceptions. In the region of Benin City, you 3 per hour) and
-
-clean water. Normally the supply of water should come from a river, stream or dam will see good working boreholes with very large capacity (20 - 30 m$ 3 $ per hour) and
-
-clean water. Normally the supply of water should come from a river, stream or dam with availability of water throughout the year.
-
-with availability of water throughout the year.
-
-Some farms are based so far away from civilisation, that it is a challenge to get there.Some farms are based so far away from civilisation, that it is a challenge to get there.
-
-Customers will be discouraged to come and buy fish in such an area.Customers will be discouraged to come and buy fish in such an area.
-
-The roads are very bad, security is almost absent and no infrastructure is available. The roads are very bad, security is almost absent and no infrastructure is available.
-
-Some fish farms are not equipped with any way to drain water out of the farm. This is Some fish farms are not equipped with any way to drain water out of the farm. This isthe same misconception as not having any water to flush, because of the perception the same misconception as not having any water to flush, because of the perception
-
-that the ponds must be kept full. Solutions to drain the water into the soil cannot work that the ponds must be kept full. Solutions to drain the water into the soil cannot work
-
-because soon you will have a lagoon on your land. If you by all means want to drain because soon you will have a lagoon on your land. If you by all means want to drain onto your property, you will need 1000 monto your property, you will need 1000 $ m_{22} $ for each ton/annum of production. For a for each ton/annum of production. For a production of 50 tons per annum, this is already 5 ha of land.production of 50 tons per annum, this is already 5 ha of land.
-
-If your farm is located far from residential areas, you will have to provide good If your farm is located far from residential areas, you will have to provide good
-
-accommodation for key staff. If you do not, the staff will not be comfortable to work, accommodation for key staff. If you do not, the staff will not be comfortable to work, and you won't get good staff with dedication and motivation. Most investors don't wantand you won't
-
-get good staff with dedication and motivation. Most investors don't want to invest in accommodation because it's not related to production. Accommodation is to invest in accommodation because it's not related to production. Accommodation is something which will be implemented if profit is made. But for staff to suffer and staysomething which will be implemented if profit is made. But for staff to suffer and stay
-
-24/7 on the farm is not realistic. You will end up having no results at all.24/7 on the farm is not realistic. You will end up having no results at all.
+If your farm is located far from residential areas, you will have to provide good accommodation for key staff. If you do not, the staff will not be comfortable to work, and you will not get good staff with dedication and motivation. Most investors do not want to invest in accommodation because it is not related to production. Accommodation is something that will be implemented only if profit is made. But for staff to suffer and stay 24/7 on the farm is not realistic. You will end up having no results at all.
 
 <div style='text-align: center;'><img src='images/img_008.png' alt='OCR图片'/></div>
 
@@ -374,61 +277,29 @@ Have in mind your storage facility, the ease of keeping your feed and materials 
 
 Chapter 1
 
-There is no supervision and the recruitment of staff is not taken There is no supervision and the recruitment of staff is not taken seriouslyseriously
+## There is no supervision and the recruitment of staff is not taken seriously
 
-The farm is ready to launch; you start employing people with fish farm qualifications and now it's time for you to relax and wait for the results to come. Unfortunately, it doesn't work he farm is ready to launch; you start employing people with fish farm qualifications and this way. The farm needs intensive supervision. You have to show the staff that the farm now it's time for you to relax and wait for the results to come. Unfortunately, it doesn't work is very important to you and that you are eager to get and see results. Supervision doesn't this way. The farm needs intensive supervision. You have to show the staff that the farm is very important to you and that you are eager to get and see results. Supervision doesn't mean to put fear into the staff when things are not going as they should. Supervision mean to put fear into the staff when things are not going as they should.
+The farm is ready to launch; you start employing people with fish farm qualifications and now it is time for you to relax and wait for the results to come. Unfortunately, it does not work this way. The farm needs intensive supervision. You have to show the staff that the farm is very important to you and that you are eager to get and see results. Supervision does not mean putting fear into the staff when things are not going as they should.
 
-Supervision means guiding and coaching the staff day by day, encouraging them to do the work with passion and helping them to solve the problems on the way instead of blaming them means guiding and coaching the staff day by day, encouraging them to do the work with passion and helping them to solve the problems on the way instead of blaming them for mistakes. If the farm is managed by fear, the staff will start to hide all the mistakes for mistakes. If the farm is managed by fear, the staff will start to hide all the mistakes happening on the farm and they will do eye service. It divides staff members and blame is pointed in all directions instead of putting heads together to solve problems. If a farm happening on the farm and they will do eye service. It divides staff members and blame is pointed in all directions instead of putting heads together to solve problems. If a farm is running smoothly and production is ongoing, it's a mutual effort and not a one-man's is running smoothly and production is ongoing, it's a mutual effort and not a one-man's achievement. Teamwork is the key to success at your farm. Pay your staff well, don't turn them into beggars.achievement. Teamwork is the key to success at your farm. Pay your staff well, don't turn them into beggars.
+Supervision means guiding and coaching the staff day by day, encouraging them to do the work with passion, and helping them solve problems along the way instead of blaming them for mistakes. If the farm is managed by fear, the staff will start to hide all the mistakes happening on the farm and they will do eye service. It divides staff members and blame is pointed in all directions instead of putting heads together to solve problems. If a farm is running smoothly and production is ongoing, it is a mutual effort and not a one-man achievement. Teamwork is the key to success on your farm. Pay your staff well; do not turn them into beggars.
 
-Another mistake many farmers make is to rush things as soon as the farm is ready to start.
+Another mistake many farmers make is to rush things as soon as the farm is ready to start. The investment has to be paid back as soon as possible and the investor wants to see fish in all the ponds from day one. It does not work this way. First you run the facility without fish for a couple of days to be sure that the entire infrastructure is working fine: boreholes, pumps, generator, solar, et cetera. The broodstock is already conditioned and doing fine. If you start with juveniles, you start with one or two ponds, not with all the ponds at the same time. You should have a production plan and not deviate from it.
 
-The investment has to be paid back as soon as possible and the investor wants to see fish Another mistake many farmers make is to rush things as soon as the farm is ready to start. The investment has to be paid back as soon as possible and the investor wants to see fish in all the ponds from day one. It doesn't work this way; first you start to run the facility in all the ponds from day one. It doesn't work this way; first you start to run the facility
+When you employ staff for the farm, it is not necessary to look for very experienced fish farmers. Instead, look at skills such as willingness and ability to learn, honesty, ability to work in a team, and passion for the job. If you can find these kinds of people, you will certainly enjoy them as long as you supervise them and give them incentives when the farm is making progress. Try to find out about the background of the staff you are employing; get references and guarantors, home address, et cetera. The staff you recruit should be aware of the rules and regulations on the farm. They should know that any issue of theft is taken to the police. Be careful not to give them a very narrow job description. A farm cannot operate if the staff are not cooperative in all the farm issues involved, because the job description gives them excuses for not doing things.
 
-without fish for a couple of days to be sure that the entire infrastructure is working fine boreholes, pumps, generator, solar etcetera. The brood stock is already conditioned and without fish for a couple of days to be sure that the entire infrastructure is working fine: boreholedoing fine. If you start with juveniles, you start up with one or two ponds, not with all the s, pumps, generator, solar et cetera. The brood stock is already conditioned and doing fine. If you start with juveniles, you start up with one or two ponds, not with all the ponds at the same time. You have a production plan and you don't deviate from it ponds at the same time. You have a production plan and you don't deviate from it.
+## Lack of funding
 
-When you employ staff for the farm, it's not necessary to look for very experienced fish When you employ staff for the farm, it's not necessary to look for very experienced fish farmers, instead look at skills such as willingness and ability to learn, honesty, ability to work in a team and having a passion for the job. If you can find these kinds of people, farmers, instead look at skills such as willingness and ability to learn, honesty, ability to you certainly will enjoy them as long as you supervise them and give them incentives when work in a team and having a passion for the job. If you can find these kinds of people, you certainly will enjoy them as long as you supervise them and give them incentives when the farm is making progress. Try to find out about the background of the staff you are the farm is making progress. Try to find out about the background of the staff you are employing, get references and guarantors, home address et cetera. The staff you recruited, employing, get references and guarantors, home address etcetera. The staff you recruited, should be aware of the rules and the regulations on the farm. They should be aware that any issue of theft is taken to the police. Be careful not to give them a very narrow job should be
-
-aware of the rules and the regulations on the farm. They should be aware that description. A farm cannot operate if the staff are not cooperative in all the farm issues any issue of theft is taken to the police. Be careful not to give them a very narrow job description. A farm cannot operate if the staff are not cooperative in all the farm issues involved, because the job description gives them excuses for not doing things.involved, because the job description gives them excuses for not doing things.
-
-Lack of fundingLack of fundingThings will go wrong if the funding is not sufficient to complete the investments and/or the working capital runs out before the first sales. The investor/owner will start to cut Things will go wrong if the funding is not sufficient to complete the investments and/corners and will be pressurized to get quick results. He will also put a lot of pressure on hisor the working capital runs out before the first sales. The investor/owner will start to cut corners and will be pressurized to get quick results. He will also put a lot of pressure on his
-
-## 16
-
-introduction
-
-staff; demanding results which are unrealistic. Quick results are usually very bad results and more misery. It can kill the farm from the beginning. Build a farm you can afford and have a realistic cash flow programme to back up what you want to do.
+Things will go wrong if the funding is not sufficient to complete the investments and/or the working capital runs out before the first sales. The investor or owner will start to cut corners and will be pressured to get quick results. He will also put a lot of pressure on his staff, demanding results that are unrealistic. Quick results are usually very bad results and lead to more misery. It can kill the farm from the beginning. Build a farm you can afford and have a realistic cash-flow programme to back up what you want to do.
 
 ## Theft
 
-Some years ago, I was called by a farmer who was using the feed I was selling to him.Some years ago, I was called by a farmer who was using the feed I was selling to him. He was very disappointed in the performance of the feed; the fsh were not growing. He was very disappointed in the performance of the feed; the fsh were not growing. I went to visit the farm and couldn't trace the problem. It seemed that the feed I went to visit the farm and couldn't trace the problem. It seemed that the feed
+Some years ago, I was called by a farmer who was using the feed I was selling to him. He was very disappointed in the performance of the feed; the fish were not growing. I went to visit the farm and could not trace the problem. It seemed that the feed was not stolen and the fish were not stolen either, since the records and sales were showing all the results and the stocked fish were retrieved at harvest minus the recorded mortality. The fish were just very small but did not look malnourished. I left the farm and felt bad for him, but I knew we were overlooking something. Two months later he called me and told me what was going on. The manager of the farm was taking out the big fish in the evening but was smart enough to replace them with smaller fish to keep up with the number of fish, which was guarded so anxiously. He apologised for accusing the feed of being so bad and told me: "If Nigerians use their smart brains in a positive way and not for 419, Nigeria would be a better place!"
 
-was not stolen and the fsh were not stolen either, since the records and the sales was not stolen and the fsh were not stolen either, since the records and the sales
+Unfortunately, theft is a big issue on many farms and it starts from lack of supervision and lack of good management. Most likely there are no standard operational procedures (SOPs) and everybody on the farm does what he likes. In this type of environment, it is very tempting to start stealing because nobody knows what exactly is going on at the farm. Theft will not be spotted quickly. To be honest, even if you give your staff good salaries, it will not avoid theft in the long term.
 
-were showing all the results and the stocked fsh were retrieved at harvest minus were showing all the results and the stocked fsh were retrieved at harvest minus the recorded mortality. The fsh were just very small but didn't look malnourished. I the recorded mortality. The fsh were just very small but didn't look malnourished. I left the farm and felt bad for him, but I knew we were overlooking something. Two left the farm and felt bad for him, but I knew we were overlooking something. Two months later he called me and told me what was going on. The manager of the farm months later he called me and told me what was going on. The manager of the farm
+Commitment and passion to do a good job are the virtues you have to create in your staff. Give them the feeling that it is their own farm and that the destiny of the farm and their future are in their own hands. An environment where you start shouting at staff and threaten to sack them if they do not perform will certainly result in stealing. Their minds are already out of the farm. As the manager you have to create a team spirit in your staff; in this way anybody who wants to do harm to the farm will be spotted and corrected before theft starts. If the staff are set up against each other, it will certainly lead to bad results. Be sure that the people you bring together can also work together as a team.
 
-was taking out the big fsh in the evening but was smart enough to replace them was taking out the big fsh in the evening but was smart enough to replace them
-
-with smaller fsh to keep up with the number of fsh which was guarded so anxiously. with smaller fsh to keep up with the number of fsh which was guarded so anxiously. He apologized for accusing the feed being so bad and told me: "if Nigerians use their He apologized for accusing the feed being so bad and told me: "If Nigerians use their smart brains in a positive way and not for 419, Nigeria would be a better place!"smart brains in a positive way and not for 419, Nigeria would be a better place!"
-
-Unfortunately, theft is a big issue in many farms and it starts from lack of supervision Unfortunately, theft is a big issue in many farms and it starts from lack of supervision
-
-and lack of good management. Most likely there are no standard operational procedures and lack of good management. Most likely there are no standard operational procedures (SOP) and everybody in the farm does what he likes. In this type of environment, it's very (SOP) and everybody in the farm does what he likes. In this type of environment, it's very tempting to start stealing because nobody knows what exactly is going on at the farm. tempting to start stealing because nobody knows what exactly is going on at the farm. Theft will not be spotted quickly. To be honest, even if you give your staff good salaries, it Theft will not be spotted quickly. To be honest, even if you give your staff good salaries, it
-
-will not avoid any theft on the long term.will not avoid any theft on the long term.
-
-Commitment and passion to do a good job are the virtues you have to create in your Commitment and passion to do a good job are the virtues you have to create in your staff. Give them the feeling that it's their own farm
-
-and that the destiny of the farm and staff. Give them the feeling that it's their own farm and that the destiny of the farm and their future is in their own hands. An environment where you start shouting at staff and their future is in their own hands. An environment where you start shouting on staff and threaten to sack them if they don't perform, will certainly result in stealing. Their minds are threaten to sack them if they don't perform, will certainly result in stealing. Their minds are
-
-already out of the farm. As the manager you have to create a team spirit in your staff; in already out of the farm. As the manager you have to create a team spirit in your staff; in
-
-this way anybody who wants to do harm to the farm will be spotted and corrected before this way anybody who wants to do harm to the farm will be spotted and corrected before theft starts. If the staff are set up against each other, it will certainly lead to bad results. Be theft starts. If the staff are set up against each other, it will certainly lead to bad results. Be sure that the people you bring together can also work together as a team.sure that the people you bring together can also work together as a team.
-
-Some owners like to put people together who actually do not match; they believe the Some owners like to put people together who actually do not match; they believe the Some owners like to put people together who actually do not match; they believe the
-
-workers will control each other and it will reduce or avoid theft. I don't think this is the workers will control each other and it will reduce or avoid theft. I don't think this is the workers will control each other and it will reduce or avoid theft. I don't think this is the
-
-right way, it will lead to bad results. People who don't like each other will always like to seeright way, it will lead to bad results. People who don't like each other will always like to see right way, it will lead to bad results. People who don't like each other will always like to see the other person's downfall. That means bad results at the farm, which will be blamed on the other person's downfall. That means bad results at the farm which will be blamed on the other person's downfall. That means bad results at the farm which will be blamed on one person only. Before you know it, the staff start blaming each other, instead of putting one person only. Before you know it, the staff start blaming each other, instead of putting their heads together to solve problems and get results.their heads together to solve problems and get results.their heads together to solve problems and get results.
+Some owners like to put people together who actually do not match; they believe the workers will control each other and it will reduce or avoid theft. I do not think this is the right way. It will lead to bad results. People who do not like each other will always like to see the other person's downfall. That means bad results at the farm, which will be blamed on one person only. Before you know it, the staff start blaming each other instead of putting their heads together to solve problems and get results.
 
 <div style='text-align: center;'><img src='images/img_009.png' alt='OCR图片'/></div>
 
@@ -450,57 +321,21 @@ Some of the theft can be a one-man activity but stealing fish or other products 
 
 on qualifications and integrity not on sentiment. Never employ people you cannot sack.
 
-Fish farming is not a retirement job
+## Fish farming is not a retirement job
 
 For many people this will not be the information they want to read.
 
-Many fish farmers, who start their business, have a retirement background. The main
-
-reason for that is that they have the money to start and plan ahead to start a fish farm the
-
-moment they are retired, having already invested in a plot of land some years before. Most of these retirees had a job as civil servant or office worker. Their work experience doesn't really fit the qualifications to be a fish farmer. Fish farming is a way of life and you need to be very committed in order to get profitable results. Neglecting the farm for a couple
-
-of days can give a drawback of many months. Most retirees rely on the people they hire,
-
-but you have to be a front soldier yourself in order to push your staff to be a front soldier too. After some time, it's getting worse; the drive has vanished and the fish farmers are not coming to the farm as frequently as before. The road is bad and other obligations are coming in. The farm will be visited only once a week accompanied by some phone calls
-
-to find out what is going on at the farm. Now the farm is managed and supervised by a
-
-weekend-farmer or even worse by a telephone-farmer. This farm is doomed to die and will never make any money. The staff are frustrated, no investments are made anymore and the farm, once a-dream-come-true, has become a painful ulcer and a drain of money.
-
-## C
+Many fish farmers who start their business have a retirement background. The main reason for that is that they have the money to start and plan ahead to start a fish farm the moment they retire, having already invested in a plot of land some years before. Most of these retirees had jobs as civil servants or office workers. Their work experience does not really fit the qualifications needed to be a fish farmer. Fish farming is a way of life and you need to be very committed in order to get profitable results. Neglecting the farm for a couple of days can cause a setback of many months. Most retirees rely on the people they hire, but you have to be a front soldier yourself in order to push your staff to be front soldiers too. After some time it gets worse; the drive has vanished and the fish farmers are not coming to the farm as frequently as before. The road is bad and other obligations are coming in. The farm will be visited only once a week, accompanied by some phone calls to find out what is going on at the farm. Now the farm is managed and supervised by a weekend farmer, or even worse, by a telephone farmer. This farm is doomed to die and will never make any money. The staff are frustrated, no investments are made anymore, and the farm, once a dream come true, has become a painful ulcer and a drain on money.
 
 ## 2
 
 THE BIOLOGY OF THE AFRICAN SHARPTOOTH CATFISH
 
-2. 1 THE SPECIES OF CATFISH AND THEIR GEOGRAPHICAL
+## 2.1 The species of catfish and their geographical distribution
 
-DISTRIBUTION
+In nature there are over 3,000 species of catfish and you can find them on almost every continent. The size of catfish species can vary from less than 1 cm to over 2 m long. What all catfish have in common is the absence of scales and the presence of barbels, although they differ in number and size. Some of the catfish species are cultured and are important food fish for human beings, for example the African sharptooth catfish (Clarias gariepinus), the European catfish (Silurus glanis), and the American catfish (Ictalurus punctatus). Other catfish species are very beautiful, colourful, and greatly appreciated as ornamental fish in aquaria and ponds.
 
-2. 3 FISH ARE COLD-BLOODED ANIMALS
-
-Chapter 2
-
-2. 1 THE SPECIES OF CATFISH AND THEIR GEOGRAPHICAL
-
-DISTRIBUTION
-
-In nature there are over 3000 species of catfish and you can find them on almost every
-
-continent. The size of catfish species can vary from less than 1 cm to over 2 m long. What all catfish have in common is the absence of scales and the presence of barbels, although they differ in number and size. Some of the catfish species are cultured and are important food fish for human beings, for example the African sharptooth catfish (Clarias gariepinus),
-
-the European catfi sh (Silurus glanis) and the American catfi sh (Ictalurus punctatus). Other
-
-catfi sh species are very beautiful, colourful and greatly appreciated as ornamental fi sh in
-
-aquaria and ponds.
-
-The African sharptooth catfish belongs to the family of Claridae and has its geographical
-
-distribution over the whole continent of Africa Because of their importance as food fish,
-
-African sharptooth catfish are exported to Asia as well as to South America and Europe where they are cultured and grown for human consumption. Their natural habitats are tropical swamps, lakes and rivers, preferably slow-moving water. If the water body dries up, they can even survive in the mud until the next rainy season.
+The African sharptooth catfish belongs to the family Clariidae and has its geographical distribution over the whole continent of Africa. Because of its importance as a food fish, African sharptooth catfish is exported to Asia as well as to South America and Europe where it is cultured and grown for human consumption. Its natural habitats are tropical swamps, lakes, and rivers, preferably slow-moving water. If the water body dries up, it can even survive in the mud until the next rainy season.
 
 ## 2.2 BIOLOGICAL DESCRIPTION
 
@@ -514,7 +349,7 @@ bacteria. Always be careful not to damage or reduce the slime of the skin, other
 
 will certainly get problems which can cause fish mortality.
 
-## MouthMouth
+## Mouth
 
 With its wide mouth, the African sharptooth catfish has the ability to feed on a variety With its wide mouth, the African sharptooth catfish has the ability to feed on a variety
 
@@ -584,13 +419,11 @@ The gill rakers at the back of the branchial arches serve as filters for feeding
 
 vegetable matter and invertebrates (Figure 3b).
 
-Anus and urogenital system
+## Anus and urogenital system
 
 In both sexes of catfish, the urogenital opening is situated at a papilla just behind the anus.
 
-The sex difference is visible when the fish reach 200 g.The papilla of the male is long and
-
-ends in a tip. The female papilla is circular (Figure 4).
+The sex difference is visible when the fish reach 200 g. The papilla of the male is long and ends in a tip. The female papilla is circular (Figure 4).
 
 <div style='text-align: center;'><img src='images/img_012.png' alt='OCR图片'/></div>
 
@@ -598,17 +431,9 @@ Figure 4. Sexual differentiation between male and female of the African sharptoo
 
 manual for the culture of the African catfish by W.J.A.R. Viveen et al.).
 
-The biology of the African sharptooth catfish
+## 2.3 Fish are cold-blooded animals
 
-2. 3 FISH ARE COLD-BLOODED ANIMALS
-
-## 24
-
-A cold-blooded animal or ectotherm, like all fish are, does not have an internal mechanism
-
-to regulate body temperature. Instead, it relies on solar energy captured by the
-
-environment. Catfish will always have a body temperature which is equal to the ambient water temperature. The internal activity of the fish, called its metabolism, increases with increasing water temperature, but it has an optimal range. For the African sharptooth catfish the optimal body temperature varies between 25 and $ 3 0^{\circ} \mathrm{C} $
+A cold-blooded animal or ectotherm, like all fish, does not have an internal mechanism to regulate body temperature. Instead, it relies on solar energy captured by the environment. Catfish will always have a body temperature that is equal to the ambient water temperature. The internal activity of the fish, called its metabolism, increases with increasing water temperature, but it has an optimal range. For the African sharptooth catfish, the optimal body temperature varies between 25 and 30 degrees C.
 
 So, cold-blooded means that a fish is not internally generating energy to regulate its
 
@@ -618,25 +443,21 @@ At our farm, we always take into consideration the temperature of the water and 
 
 <div style='text-align: center;'><img src='images/img_013.png' alt='OCR图片'/></div>
 
-## 2
-
 ## 3
 
-## THE AVAILABLE SOURCES OF WATER
+THE AVAILABLE SOURCES OF WATER
 
-3. 1 INTRODUCTION
+3.1 Introduction
 
-3. 2 WATER FROM A RIVER OR STREAM
+3.2 Water from a river or stream
 
-3. 4 WATER FROM AN AQUIVER
+3.3 Water from a dam or lake
 
-3. 5 WATER FROM A WELL
+3.4 Water from an aquifer
 
-3. 3 WATER FROM A DAM OR LAKE
+3.5 Water from a well
 
-3. 6 CITY COUNCIL WATER
-
-Chapter 3
+3.6 City council water
 
 ## 3.1 INTRODUCTION
 
@@ -676,10 +497,6 @@ because this pollution weakens their immune system. As a result, bacterial infec
 
 polluted, but this can be different for other regions in Nigeria.
 
-## 28
-
-The available sources of water
-
 Most rivers in Nigeria become very turbid with every rainfall. The volume of water increases rapidly and decreases rapidly. It's a sign of erosion. The
 
 land does not hold any water; all rainwater goes straight into the river via gullies and man-made gutters. Top soil and laterite
@@ -690,33 +507,13 @@ only way to stop this erosion. Rivers in dense forests don't have this problem, 
 
 water turbidity is not affected so much by rain in such areas.
 
-If river water is used as a source of water, there should be provision for an 'intake'. 'This is If river water is used as a source of water, there should be provision for an 'intake'. 'This is
-
-a place where you are able to pump the water out of the river into a reservoir. The intake a place where you are able to pump the water out of the river into a reservoir. The intake
-
-should be chosen carefully and should definitely be located above the highest level to which should be chosen carefully and should definitely be located above the highest level to which the water can raise during extreme rainfall. The intake should also be installed at a the water can raise during extreme rainfall. The 'intake' should also be installed at a location on the riverbank where the river is deep and the water is close, even during the dry season. location on the riverbank where the river is deep and the water
-
-is close, even during the dry season. This way a very long suction hose is avoided. If a permanent structure is built This way a very long suction hose is avoided. If a permanent structure is built for the intake,
-
-look for locations which have rocks on the bottom of the river, so that the concrete structure, for the intake, look for locations which have rocks on the bottom of the river, so that the
-
-concrete structure built on top of this, has a good and solid foundation. If the farm is small, built on top of this, has a good and solid foundation. If the farm is small, you can choose a more flexible option: such as a small petrol water pump with a suction hose. For your own you can choose a more flexible option, such as a small petrol water pump with a suction hose. For your own convenience, the pump can be placed on the riverbank every day and convenience, the pump can be placed on the riverbank every day and taken away every night. The water from the river can be pumped directly into the fish pond, but the preferable taken away every night. The water from the river can be pumped directly into the fish
-
-pond, but the preferable option is to create an overhead reservoir/tank for collection of the option is to create an overhead reservoir/tank for collection of the river water. From this
-
-reservoir the water can flow to the fish ponds by gravity (Figure 5).river water. From this reservoir the water can flow to the fish ponds by gravity (Figure 5).
+If river water is used as a source of water, there should be provision for an intake. This is a place where you are able to pump the water out of the river into a reservoir. The intake should be chosen carefully and should definitely be located above the highest level to which the water can rise during extreme rainfall. The intake should also be installed at a location on the riverbank where the river is deep and the water is close, even during the dry season. This way a very long suction hose is avoided. If a permanent structure is built for the intake, look for locations that have rocks on the bottom of the river, so that the concrete structure built on top of this has a good and solid foundation. If the farm is small, you can choose a more flexible option, such as a small petrol water pump with a suction hose. For your own convenience, the pump can be placed on the riverbank every day and taken away every night. The water from the river can be pumped directly into the fish pond, but the preferable option is to create an overhead reservoir or tank for collection of the river water. From this reservoir the water can flow to the fish ponds by gravity (Figure 5).
 
 <div style='text-align: center;'><img src='images/img_014.png' alt='OCR图片'/></div>
 
 Figure 5. Water, which is pumped from a river or stream to the reservoir, flows to the pond by gravity.
 
-Pumping the water from the river into the reservoir or straight to the fish ponds, can be Pumping the water from the river into the reservoir or straight to the fish ponds, can be done either by electrical, petrol or diesel pumps. The choice depends on the availability of done either by electrical, petrol or diesel pumps. The choice depends on the availability of electrical power. If there is no electrical power available, a generator has to produce the electrical power. If there is no electrical power available, a generator has to produce the
-
-power for the electrical pump. In this case it is preferable to power the water pump directly power for the electrical pump. In this case it is preferable to power the water pump directly
-
-with petrol or diesel (Photo 1). Diesel pumps are preferable to petrol pumps, but when the with petrol or diesel. Diesel pumps are preferable to petrol pumps, but when the size of
-
-the farm is small, you will most likely go for a petrol water pump.size of the farm is small, you will most likely go for a petrol water pump.
+Pumping the water from the river into the reservoir or straight to the fish ponds can be done either by electrical, petrol, or diesel pumps. The choice depends on the availability of electrical power. If there is no electrical power available, a generator has to produce the power for the electrical pump. In this case it is preferable to power the water pump directly with petrol or diesel (Photo 1). Diesel pumps are preferable to petrol pumps, but when the size of the farm is small, you will most likely go for a petrol water pump.
 
 <div style='text-align: center;'><img src='images/img_015.png' alt='OCR图片'/></div>
 
@@ -764,17 +561,7 @@ than in rivers. Furthermore, it's easier to make an intake at a dam than at a ri
 
 Dams are usually deep which makes it easy to create a good intake.
 
-Most dams have a pipeline, from which the water falls back into the river, to be used
-
-Electricity generated by water turbines
-
-Irrigation purposes
-
-Controlling the flow of the river
-
-for drinking water stations, turbines and irrigation purposes. This pipeline can supply water by gravity because the level of the land behind the dam is 10 to 50 m lower. This pipeline can also be used for fish farms and saves a lot of money, because pumping the water into the ponds is not necessary. Also, a reservoir is not needed in this case; the
-
-(Figure 6).
+Most dams have a pipeline from which the water falls back into the river, to be used for drinking water stations, electricity generated by water turbines, irrigation purposes, and controlling the flow of the river. This pipeline can supply water by gravity because the level of the land behind the dam is 10 to 50 m lower. This pipeline can also be used for fish farms and saves a lot of money, because pumping the water into the ponds is not necessary. Also, a reservoir is not needed in this case; the farm can be gravity-fed (Figure 6).
 
 <div style='text-align: center;'><img src='images/img_019.png' alt='OCR图片'/></div>
 
@@ -792,35 +579,15 @@ running costs.
 
 ## 3.4 WATER FROM AN AQUIFER
 
-Underground water can be tapped by drilling a borehole. Depending on the location,
+Underground water can be tapped by drilling a borehole. Depending on the location, depth, and size of the borehole, the yield of water varies from 1 m3/hour to as much as 50 m3/hour. In order to drill a borehole, a survey is first required to find out the most suitable position for drilling. Underground water is nothing less than collected rainwater, which flows via the permeable soil into the aquifers. Aquifers are underground layers of water-bearing rock. This process has been going on for centuries. Some of our groundwater can be as old as 1,000 years. In recent years, due to urbanisation, the rapid increase in the number of boreholes is depleting underground water rapidly. Fish farmers can use borehole or underground water, but only for the first stages of fish farming, from the hatchery to the post-juvenile stage (see Appendix 1), in order not to deplete the reserves of underground water for future generations.
 
-depth and size of the borehole, the yield of water varies from 1 m $ ^{3} $ /hour to as much as 50
-
-m $ _{3} $ /hour. In order to drill a borehole, first a survey is required to find out the most suitable position for drilling. Underground water is nothing less than collected rainwater which flows via the permeable soil into the aquifers. Aquifers are underground layers of water-
-
-bearing rock. This process has been going on for centuries. Some of our groundwater can
-
-underground (borehole) water rapidly. Fish farmers can use of boreholes is depleting the underground (borehole) water rapidly. Fish farmers can use borehole or underground water, but only for the first stages of fish farming, from the borehole or underground water, but only for the first stages of fish farming, from the
-
-hatchery to the post-juvenile stage (see Appendix 1 for the catfish growth stages), in order hatchery to the post-juvenile stage (see Appendix 1), in order not to deplete the reserves
-
-of underground water for future generations.not to deplete the reserves of underground water for future generations.
-
-What are the constraints of boreholes in general?
-
-The available sources of water
-
-be as old as 1000 years. In recent years, due to urbanisation, a rapid increase in the number be as old as 1000 years. In recent years, due to urbanisation, a rapid increase in the number of boreholes is depleting the
+## What are the constraints of boreholes in general?
 
 A company drilling boreholes will never guarantee the yield and the quality of the
 
 water, but will ask you to pay at least 70% upfront.
 
-In most areas of Nigeria boreholes give only a moderate yield of less than
-
-5 m $ ^{3} $ /hour. With this yield a small grow-out farm is possible but it can never serve
-
-a medium or large fish farm.
+In most areas of Nigeria boreholes give only a moderate yield of less than 5 m3/hour. With this yield a small grow-out farm is possible, but it can never serve a medium or large fish farm.
 
 Pumping with a borehole pump takes quite a lot of electrical power. In addition,
 
@@ -854,43 +621,29 @@ only possible as long as you allow the chlorine to escape within 24 to 48 hours.
 
 The borehole drilled on your land should always be located far away from waste disposal
 
-## Chapter 3
+areas and soakaways. Keep the environment where your borehole is situated as clean as possible. Test the quality of the borehole water every two years for chemical content and at least once a year for coliforms, which are bacteria of faecal origin that indicate the presence of other pathogenic bacteria. Also clean your water reservoir at least four times a year to avoid growth of unwanted bacteria and algae, and remove silt deposits from the bottom.
 
-areas and soakaways. Keep the environment where your borehole is situated, as clean as possible. Test the quality of the borehole water every two years for chemical content and at least once a year for coliforms, which are bacteria of faecal origin which indicates the
-
-presence of other pathogenic bacteria. Also clean your water reservoir at least four times
-
-a year to avoid growth of unwanted bacteria and algae and remove silt deposits from the
-
-## 3.5 WATER FORM A WELL
+## 3.5 WATER FROM A WELL
 
 A well is an open pit, dug into the earth, deep enough to reach the groundwater level. The water can be pumped or taken out with a basket and rope. The yield of a well is limited and only considered useful for domestic use, not for fish farming.
 
 ## 3.6 CITY COUNCIL WATER
 
-City council water cannot really be a reliable source of water for fish farming. Also, the City council water cannot really be a reliable source of water for fish farming. Also, the
-
-water is chlorinated and toxic for the fish if it's used directly from the tap. The chlorine water is chlorinated and toxic for the fish if it's used directly from the tap. The chlorine
-
-causes the slime on the skin to dissolve which will definitely kill the fish. Chlorine however causes the slime on the skin to dissolve which will definitely kill the fish. Chlorine however is a gas. When the water is exposed to air and light, the chlorine will evaporate within one is a gas. When the water is exposed to air and light, the chlorine will evaporate within one day after which you can use the water for fish farming.day; after which you can use the water for fish farming.
-
-## C
+City council water cannot really be a reliable source of water for fish farming. Also, the water is chlorinated and toxic to fish if it is used directly from the tap. The chlorine causes the slime on the skin to dissolve, which will definitely kill the fish. Chlorine, however, is a gas. When the water is exposed to air and light, the chlorine will evaporate within one day, after which you can use the water for fish farming.
 
 ## 4
 
 FISH CULTURE SYSTEMS
 
-4. 1 FLOW-THROUGH SYSTEMS
+4.1 Flow-through systems
 
-4. 2 RECIRCULATION SYSTEMS
+4.2 Recirculation systems
 
-4. 3 CAGE SYSTEMS
+4.3 Cage systems
 
-4. 4 EXTENSIVE POND CULTURES
+4.4 Extensive pond cultures
 
-## 4.5 BACKYARD FARMING
-
-Chapter 4
+4.5 Backyard farming
 
 ## 4.1 FLOW-THROUGH SYSTEMS
 
@@ -944,7 +697,7 @@ level increases every day, flushing has to take place preferably on a daily basi
 
 Fish culture systems
 
-Parameters that will change the equation of 1 kg of feed to $ 1. 4 \mathrm{m}_{3} $ of water:
+Parameters that will change the equation of 1 kg of feed to 1.4 m3 of water:
 
 Overfeeding: the feed is not being eaten completely by the fish, polluting the water
 
@@ -962,17 +715,15 @@ Example 1. How to calculate the flush rate for fish of 0.5 kg?
 
 Suppose we have 1000 fish, having an average weight of 0.5 kg each. If we feed 10 kg (2% of biomass) of feed in a day, how many litres of water do we need to flush?
 
-Recall that for every 1 kg of feed, we need to flush about 1.4 m $ ^{3} $ of water.
+Recall that for every 1 kg of feed, we need to flush about 1.4 m3 of water.
 
 Hence, we need to have a flushing regime of
 
-= 10 kg /day x 1.4 m $ ^{3} $ /kg
+= 10 kg/day x 1.4 m3/kg
 
-=14 m3/day
+= 14 m3/day
 
-The fish can be stocked in 10 m $ _{3} $ of water (100 pieces/m $ _{3} $ ) or 20 m $ _{3} $ of water (50
-
-pieces/m $ _{3} $ ) or 100 m $ _{3} $ of water (10 pieces/m $ _{3} $ ). All options will work because catfish are
+The fish can be stocked in 10 m3 of water (100 pieces/m3) or 20 m3 of water (50 pieces/m3) or 100 m3 of water (10 pieces/m3). All options will work because catfish are
 
 very flexible when it comes to stocking ratio, but the flushing has to be 14 m3/day for all pond sizes. The same fish will grow, but when they become bigger, they subsequently need more feed, which means that the flushing rate should be adjusted.
 
@@ -980,11 +731,11 @@ Example 2. How to calculate the flush rate for fish of 1 kg?
 
 Suppose we have 1000 fish, having an average weight of 1 kg and they are fed 15 kg per day (1.5% of the biomass). What would be the flushing regime (rate)?
 
-Recall that for every 1 kg of feed, we need to flush about 1.4 $ m_{3} $ of waste water. Hence, for feeding 15 kg in a day, we would need to flush
+Recall that for every 1 kg of feed, we need to flush about 1.4 m3 of waste water. Hence, for feeding 15 kg in a day, we would need to flush
 
-= 15 kg/day x 1.4 m $ ^{3} $ /kg
+= 15 kg/day x 1.4 m3/kg
 
-## = 21 m3/day
+= 21 m3/day
 
 As you can see, when the fish get bigger, the flushing rate increases drastically.
 
@@ -996,9 +747,7 @@ fishes' need for feed has really increased. The flushing rate has to increase dr
 
 farmers and it's all due to poor water management.
 
-Chapter 4
-
-Efficiency of flushing water
+## Efficiency of flushing water
 
 The efficiency of flushing a concrete tank, pond or any other tank varies from the way you do it. If the tank is full and flushing is done by causing the water to overflow, your
 
@@ -1014,7 +763,7 @@ Figure 8. Flushing or draining the water from a pond or tank.
 
 Replacing the water has one disadvantage!
 
-Replacing the water from a pond completely or almost completely, is very effi cient in terms
+Replacing the water from a pond completely or almost completely is very efficient in terms
 
 of improving the water quality straight away, but it will stress the fish, which can lead to increased mortality and higher feed conversion rates. This practice is done by many farmers; they allow the water to get completely bad and smelly, resulting in fish hanging at the surface not eating well and mortality increasing, before they change the water
 
@@ -1036,13 +785,13 @@ Example 3. Why does spreading the production and the sales over the
 
 year have more advantages than selling twice a year?
 
-Suppose that the production is 10,000 kg catfis sh a year.
+Suppose that the production is 10,000 kg of catfish a year.
 
-Then the total water consumption for that year $ = 1 0, 0 0 0 \times1. 4 \mathrm{m}_{2}=1 4. 0 0 0 \mathrm{m}_{2} $
+Then the total water consumption for that year = 10,000 x 1.4 m3 = 14,000 m3.
 
-Case 1. If the production is spread over 12 months (approximately 830 kg/month) the consumption of water is equal to the maximum 14,000 $ m_{3} $ /365 days = 38 $ m_{3} $ /day or 1.6 $ m_{3} $ /hour.
+Case 1. If the production is spread over 12 months (approximately 830 kg/month), the consumption of water is equal to the maximum 14,000 m3 / 365 days = 38 m3/day or 1.6 m3/hour.
 
-Case 2. If the production is done in two cycles of 5,000 kg, we will need the same quantity of water in a year as in case 1, but we have a peak consumption at the selling point, which is around 105 $ m_{3} $ /day or 4.4 $ m_{3} $ / hour: 5000 kg of fish before sales get 1.5% of bodyweight: 75 kg. The ratio is 1.4 $ m_{3} $ /kg of feed. So the water
+Case 2. If the production is done in two cycles of 5,000 kg, we will need the same quantity of water in a year as in Case 1, but we have a peak consumption at the selling point, which is around 105 m3/day or 4.4 m3/hour. This is because 5,000 kg of fish before sales get 1.5% of body weight, which is 75 kg of feed. The ratio is 1.4 m3/kg of feed. So the water consumption at that point is 75 x 1.4 = 105 m3/day.
 
 The consumption of water at this point is three times higher than if we spread the production on a monthly basis. Hence, spreading the production over the year has many more advantages, which will be discussed in other chapters.
 
@@ -1052,39 +801,25 @@ Suppose a farm has a capacity of 10 tons (10,000 kg) production of catfish a yea
 
 First, we have to calculate the water usage (consumption) in the fish farm.
 
-Secondly, we calculate the flow rate of the pump which pumps the water to the reservoir. A fi sh farm ideally needs a constant supply of water. The only way to achieve this is by a water reservoir.
+Secondly, we calculate the flow rate of the pump that pumps the water to the reservoir. A fish farm ideally needs a constant supply of water. The only way to achieve this is by a water reservoir.
 
 We know that 1 kg of production needs 1.25 kg of feed (feed conversion rate is 1.25).
 
 This will be further explained in chapter 7, which deals with feed.
 
-Flushing of water: 1.4 m $ ^{3} $ per kg of feed fed.
+Flushing of water: 1.4 m3 per kg of feed fed.
 
 Total feed per year required for this production is 10,000 x 1.25 kg of feed = 12,500 kg.
 
-Total water required according to the former equation: $ 1 2, 5 0 0 \mathrm{x} 1. 4 \mathrm{m}_{3}= 1 7, 5 0 0 \mathrm{m}_{3} $
+Total water required according to the former equation: 12,500 x 1.4 m3 = 17,500 m3 in a year.
 
-in a year.
+Total water required per day is 17,500 m3 / 365 = 48 m3, or 2 m3/hour. Suppose the pump has a flow rate of 6 m3/hour. We need 8 hours of pumping to supply the daily need for water: 8 hours x 6 m3/hour = 48 m3.
 
-Total water required per day is 17,500 $ m_{3} / 365=48 m_{3} $ or 2 $ m_{3} / $ hour. Suppose the pump has a flow rate of 6 $ m_{3} / $ hour, we need 8 hours of pumping to supply the daily need for
+During 8 hours, water can be pumped to the reservoir and to the fish ponds at the same time. Sixteen m3 goes to the fish ponds, and the remaining 32 m3 flows into the reservoir. The storage reservoir should be exactly 32 m3, but with some margin it could have a size of 40 m3 (4 tanks of 10 m3).
 
-water: 8 hours x 6 m $ _{3} $ /hour = 48 m $ _{3} $ .
+The logic behind this equation is that when the supply to the reservoir is high (flow rate), the number of hours to supply the daily requirement is limited, which means the storage capacity has to be bigger. On the other hand, if the flow rate is 2 m3/hour, you do not need a reservoir, because the supply is equal to the consumption. When the pumps stop, there would be no water in the reservoir at all.
 
-Chapter 4
-
-During 8 hours water can be pumped to the reservoir and to the fish ponds at the During 8 hours water can be pumped to the reservoir and to the fish ponds at the same time. 16 msame time. 16 m $ ^{33} $ goes to the fish ponds, and the remainder 32 mgoes to the fish ponds, and the remainder 32 m $ ^{33} $ , flows into the flows into the reservoir. The storage reservoir should be exactly 32 mreservoir. The storage reservoir should be exactly 32 m $ ^{33} $ , but with some
-
-margin it ,but with some margin it
-
-could have the size of 40 mcould have the size of 40 $ m_{33} $ (4 tanks of 10 m (4 tanks of 10 $ m_{33} $ ).
-
-The logic behind this equation is that, when the supply to the reservoir is high (flow rate), The logic behind this equation is that, when the supply to the reservoir is high (flow the number of hours to supply the daily requirement is limited, which means that the rate), the number of hours to supply the daily requirement is limited, which means storage capacity has to be bigger. On the other hand, if the flow rate is 2 mthat the storage capacity has to be bigger. On the other hand, if the flow rate is 2 s/hour, you
-
-don't need a reservoir, because the supply is equal to the consumption. When the pumps m/hour, you don't need a reservoir, because the supply is equal to the consumption.
-
-stop, there would be no water in the reservoir at all. When the pumps stop there would be no water in the reservoir at all.
-
-Many farmers think that a big reservoir enables you to start a big farm,but that's a Many farmers think that a big reservoir requires a lot of water and a lot of buffer but that's a wrong assumption. A reservoir is only useful if the supply exceeds the demand. If the wrong assumption. A reservoir is only useful if the supply exceeds the demand. If the
+Many farmers think that a big reservoir enables you to start a big farm, but that is a wrong assumption. A reservoir is only useful if the supply exceeds the demand. If the
 
 demand is higher than the supply, it's a simple fact that your farm is not well balanced.demand is higher than the supply, it's a simple fact that your farm is not well balanced.
 
@@ -1102,27 +837,15 @@ have a well-designed drain which is easy to manage (Figure 9).
 
 Figure 9. Three ways to drain a pond.
 
-The inlet to the pond should be via a pipeline which is connected to the reservoir, directed.
+The inlet to the pond should be via a pipeline connected to the reservoir, directed to the ponds and controlled by a valve.
 
-to the ponds and controlled by a valve.
-
-In many farms the inlet and outlet (the drain) of the ponds are too small. As a result, the In many farms the inlet and outlet (the drain) of the ponds are too small. As a result, the water will not be drained and filled quickly. The main inlet and outlet pipes for ponds of water will not be drained and filled quickly. The main inlet and outlet pipes for ponds of
-
-20 m20m $ ^{33} $ or more, should have a diameter of 4 inches or 110 mm. or more, should have a diameter of 4 inches or 110 mm. The drainage should also The drainage should also
-
-have a diameter of 4 inches or 110 mm.have a diameter of 4 inches or 110 mm.
+In many farms the inlet and outlet (the drain) of the ponds are too small. As a result, the water will not be drained and filled quickly. The main inlet and outlet pipes for ponds of 20 m3 or more should have a diameter of 4 inches or 110 mm. The drainage should also have a diameter of 4 inches or 110 mm.
 
 Ponds can be built completely dug into the ground, half way dug into the ground or completely on top of the ground. All depends on the drainage. The drainage should go by gravity. Pumping out the water to flush the tank, is not an option and should be avoided
 
 by all means.
 
-## Chapter 4
-
-One exception to this matter: ponds constructed in marshlands, can only be drained by pumping out the water. Fresh water automatically comes in from underground and an intake is not required. During the rainy season this process is very quickly, in
-
-the dry season recovering water takes time. These ponds can only run extensively,
-
-but it's possible and feasible. Emptying the ponds during the rainy season is difficult though, because fish get left behind in the mud and interfere with the next stocking.
+One exception to this matter: ponds constructed in marshlands can only be drained by pumping out the water. Fresh water automatically comes in from underground and an intake is not required. During the rainy season this process is very quick; in the dry season, recovering water takes time. These ponds can only run extensively, but it is possible and feasible. Emptying the ponds during the rainy season is difficult though, because fish get left behind in the mud and interfere with the next stocking.
 
 The waste water of the ponds can be directed to a lower collection reservoir (settling
 
@@ -1142,73 +865,29 @@ it can break. In the case of plastic lined ponds, the pond liner will be lifted 
 
 keep the plastic ponds full of water, even if there are no fish inside.
 
-Roofing the ponds; concrete ponds in particular
+## Roofing the ponds, concrete ponds in particular
 
-Many farmers like to roof concrete ponds.I believe this just adds to the investment costs without any benefits. Farmers believe that the direct sunlight will increase the
+Many farmers like to roof concrete ponds. I believe this just adds to the investment costs without any benefits. Farmers believe that direct sunlight will increase the water temperature to a level that will harm the fish. In concrete tanks the water temperature does not increase very rapidly though. When you flush on a daily basis, which is necessary, the incoming fresh water will reduce the water temperature to levels below 30 degrees C. An additional benefit of having no roof over the pond is the growth of green algae. Green algae are really beneficial to catfish; they like this green environment and are less susceptible to bacterial diseases. Catfish grow even more quickly in green water compared to clear water. Additionally, the ammonium levels in green water will also reduce, because algae take in the ammonium. As a result, the flushing rate can even be lower than in fish ponds with a roof. With a roof, algal production is inhibited because sunlight cannot penetrate the water directly.
 
-water temperature to a level which will harm the fish. In concrete tanks the water
+There is, however, one exception to not roofing the fish tanks. That is when you use polyethylene (plastic) tanks. These tanks are mostly used to grow juveniles to post-juveniles (see Appendix 1). If situated on a floor in the sun, the water inside the plastic tank can become over 35 degrees C, which is too high for the fish. When plastic tanks are used, it is advisable to roof them to prevent exposure to direct sunlight. Covering the top of the tank with banana leaves is a cheaper and effective option to avoid high water temperatures.
 
-temperature does not increase very rapidly though. When you flush on a daily basis, which is necessary, the incoming fresh water will reduce the water temperature to levels below 30 $ ^{\circ} \mathrm{C} $ . An additional benefit of having no roof over the pond, is the growth of green algae. Green algae are really beneficial to the catfish; they like this
+## Water level in a pond
 
-green environment and are less susceptible to bacterial diseases. Catfish grow even
-
-more quickly in green water compared to clear water. Additionally, the ammonium levels in green water will also reduce, because algae take in the ammonium. As a result, the flushing rate can even be lower than in fish ponds with a roof. With a roof the algal production is inhibited because sunlight cannot penetrate the water
-
-directly.
-
-Fish culture systems
-
-There is however one exception to not roofing the fish tanks. That is when you use There is however one exception to not roofing the fish tanks. That is when you use polyethylene (plastic) tanks. These tanks are mostly used to grow juveniles to post-juveniles polyethylene (plastic) tanks. These tanks are mostly used to grow juveniles to post-juveniles (see Appendix 1 for the growth stages of catfish). If situated on a floor in the sun, the water (see Appendix 1). If situated on a floor in the sun, the water inside the plastic tank can
-
-inside the plastic tank can become over 35 $ ^{\circ} \mathrm{C} $ which is too high for the fish. When plastic become over 35 $ ^{\circ} \mathrm{C} $ which is too high for the fish. When plastic tanks are used, it is advisable
-
-tanks are used, it is advisable to roof them to prevent exposure to direct sunlight. Covering to roof them to prevent exposure to direct sunlight. Covering the top of the tank with banana leaves is a cheaper and also an effective option to avoid high water temperatures.the top of the tank with banana leaves is a cheaper and also an effective option to avoid high
-
-water temperatures.
-
-Water level in a pond
-
-The water level in ponds should not be less than 100 cm.Many farmers however have water Water level in a pond
-
-The water level in ponds should not be less than 100 cm.Many farmers however have water levels of 30 to 40 cm or even less. This causes unnecessary stress to the catfish because the exposure to sunlight is high; in addition, the fish cannot hide and the temperature levels of 30 to 40 cm or even less. This causes unnecessary stress to the catfish because the exposure to sunlight is high; in addition, the fish cannot hide and the temperature fluctuations fluctuations in ponds with a low water level are also large.in ponds with a low water level are also large.
+The water level in ponds should not be less than 100 cm. Many farmers, however, have water levels of 30 to 40 cm or even less. This causes unnecessary stress to the catfish because exposure to sunlight is high; in addition, the fish cannot hide and the temperature fluctuations in ponds with a low water level are also large.
 
 ## Pipes
 
-The pipes for drainage and overflow used in concrete ponds, should be of premium quality. Pipes
+The pipes for drainage and overflow used in concrete ponds should be of premium quality. Use only high-pressure pipes of 10 bar. The bottom drain should end with a socket, so that you can put a standpipe inside it. To improve the connection between the PVC and the concrete, you should sandpaper the sockets and the pieces of pipe to be put in the concrete. After sandpapering, put PVC glue on the sockets and attach fine sand. This way, the connection between the pipe and the concrete will be strong and without any leakage. If your underground piping leaks at the connections, it will be very hard to fix. Besides, the leakage will eventually weaken the ground underneath and destroy your pond. So, do not minimise costs when it comes to pipes and fittings for your concrete system. It is a long-term investment. The size of the pipes needed is related to the stages of the growth cycle of the fish. In grow-out ponds the size should be 110 mm diameter or more, for pre- and on-growing 75 mm, and for juvenile production 50 mm. If the pipes are too small, they will not allow you to flush and supply on time, and they can easily become clogged up.
 
-The pipes for drainage and overflow used in concrete ponds, should be of premium quality. Use only high-pressure pipes of 10 bar. The bottom drain should end with a socket, so that you can put a standpipe inside it. To improve the connection between the PVC and Use only high-pressure pipes of 10 bar. The bottom drain should end with a socket, so that you can put a standpipe inside it. To improve the connection between the PVC and the concrete, you should sandpaper the sockets and the pieces of pipe to be put in the
+## Construction of a reservoir
 
-concrete. After sandpapering, put PVC-glue on the sockets and attach fine sand. This way, the concrete, you should sandpaper the sockets and the pieces of pipe to be put in the
-
-concrete. After sandpapering, put PVC-glue on the sockets and attach fine sand. This way, the connection between the pipe and the concrete will be
-
-strong, and without any leakage. If your underground piping leaks at the connections, it will be very hard to fix. Besides, the the connection between the pipe and the concrete will be strong, and without any leakage. If your underground piping leaks at the connections, it will be very hard to fix. Besides, the leakage will eventually weaken the ground underneath and destroy your pond. So, don't minimise costs when it comes to pipes and fittings for your concrete system. it's a long-leakage will eventually weaken the ground underneath and destroy your pond. So, don't
-
-term investment.minimise costs when it comes to pipes and fittings for your concrete system. it's a long-term
-
-investment.The size of the pipes needed is related to the stages of the growth cycle of the fish. In grow-out ponds the size should be 110 mm diameter or more, for pre- and on-growing 75 The size of the pipes needed is related to the stages of the growth cycle of the fish. In growout ponds the size should be 110 mm diameter or more, for pre- and on-growing 75 mm, mm, and for juvenile production 50 mm. If the pipes are too small, they will not allow you to flush and supply on time and they can easily become clogged up.and for juvenile production 50 mm. If the pipes are too small, they will not allow you to flush
-
-and supply on time and they can easily become clogged up.
-
-Construction of a reservoir
-
-Construction of a reservoir Reservoirs should be built at least two metres higher than the upper level of the fish pond. This allows the water to flow by gravity from the reservoir to the fish pond. Reservoirs should be built
-
-at least two metres higher than the upper level of the fish pond. This allows the water to flow by gravity from the reservoir to the fish pond.A reservoir can be built in many ways. Depending on the size, you can choose plastic
-
-A reservoir can be built in many ways. Depending on the size, you can choose plastic tanks on tanks on a scaffolding (the biggest are 10 m $ ^{3} $ /each) or a block wall pond on a higher level
-
-a scaffolding (the biggest are 10 mof the terrain (Photo 3). Using stone pitching or plastic lining to build the reservoir is also each) or a block wall pond on a higher level of the terrain possible (Photo 4). If you have a big property, it is important to do a good survey on your (Photo 3). Using stone pitching or plastic lining to build the reservoir is also possible (Photo 4). If you have a big property, it is important to do a good survey on your land to ensure that land to ensure that you build the reservoir on the right spot, which should be at least two metres higher than the upper level of the fish pond, and as central as possible to avoid an you build the reservoir on the right spot, which should be at least two metres higher than the
-
-excessive number of pipes. upper level of the fish pond, and as central as possible to avoid an excessive number of pipes.
+Reservoirs should be built at least two metres higher than the upper level of the fish pond. This allows the water to flow by gravity from the reservoir to the fish pond. A reservoir can be built in many ways. Depending on the size, you can choose plastic tanks on a scaffolding, with the biggest being 10 m3 each, or a block wall pond on a higher level of the terrain (Photo 3). Using stone pitching or plastic lining to build the reservoir is also possible (Photo 4). If you have a big property, it is important to do a good survey on your land to ensure that you build the reservoir on the right spot, which should be at least two metres higher than the upper level of the fish pond and as central as possible to avoid an excessive number of pipes.
 
 <div style='text-align: center;'><img src='images/img_023.png' alt='OCR图片'/></div>
 
-## Chapter 4
-
 The piping from the reservoir to the fish pond has to be done with good quality PVC or polyethylene pipe. The diameter of the supply pipe from the reservoir to the fish pond varies with the stages of the growth cycle: for hatcheries a minimum of 50 mm is required,
 
-for grow-out the diameter should be at least 110 mm.Depending on the farm size and the
+for grow-out the diameter should be at least 110 mm. Depending on the farm size and the
 
 distance to be covered by the piping, the size of the pipes will increase to 160 mm, 200 mm or even 250 mm. A qualified engineer has to provide you with the dimensions of the piping system, taking into consideration the flow rates, levels and distances.
 
@@ -1298,11 +977,9 @@ Since it's a very intensive system, you can secure it and control theft much bet
 
 Because the majority of the water is recycled, the farm can run with one or two good boreholes, making the farm independent of other sources, such as a river or a dam.
 
-Fish culture systems
+## Why are recirculation systems not popular anymore?
 
-Why are recirculation systems not popular anymore?
-
-Although many farmers started very enthusiastically with recirculation systems, evaluation Although many farmers started very enthusiastically with recirculation systems, evaluation of the systems in 2018 shows that over 90% of them have left the recirculation system and of the systems in 2018 shows that over 90% of them have left the recirculation system and closed down the farm or run the system as a flow-through system.closed down the farm, or run the system as a flow-through system.
+Although many farmers started very enthusiastically with recirculation systems, evaluation of the systems in 2018 shows that over 90% of them have left the recirculation system and closed down the farm, or run the system as a flow-through system.
 
 Nigeria has not improved when it comes to a stable power supply. Running a generator any time power failure occurs, is very challenging. Therefore, farms mostly run the recirculation system with power on and off, but then it is not a recirculation system anymore; you can
 
@@ -1328,7 +1005,7 @@ competitive.
 
 The water purification system for the recirculation system is not available in Nigeria, so it has to be imported. Because the naira has become very weak against the euro and the dollar, these items became very expensive.
 
-There is however one exception when it comes to running a recirculation system for fish.
+There is, however, one exception when it comes to running a recirculation system for fish.
 
 That is when it is used for hatchery operations. Hatchery recirculation systems are very effective and competitive.
 
@@ -1340,43 +1017,35 @@ That is when it is used for hatchery operations. Hatchery recirculation systems 
 
 Photo 6. A recirculation system for an African catfish hatchery.
 
-Fish culture systems
-
-The operation of a recirculation system and its principles
+## The operation of a recirculation system and its principles
 
 Because a recirculation system works well for hatcheries, I will explain more about the operation of recirculation systems and their principles.
 
 The following equation can be used:
 
-In order to design a recirculation system for fish,
-
-## we have to know the type of waste and
-
-the quantity of waste a fish produces. The waste of the fish starts to build up from feeding
-
-onwards.
+In order to design a recirculation system for fish, we have to know the type of waste and the quantity of waste a fish produces. The waste of the fish starts to build up from feeding onwards.
 
 Growth (of the fish) = input (feed) - output (waste)
 
-Feed-------feed intake and feed loss
+Feed -> feed intake and feed loss
 
-Feed intake----digestible fraction and faeces
+Feed intake -> digestible fraction and faeces
 
-Digestible fraction--------metabolic fraction and ammonium (urine)
+Digestible fraction -> metabolic fraction and ammonium (urine)
 
-Metabolic fraction----growth and respiration losses (carbon dioxide and heat)
+Metabolic fraction -> growth and respiration losses (carbon dioxide and heat)
 
 The fish waste is: uneaten feed, faeces, urine in the form of ammonium, carbon dioxide
 
 and heat.
 
-1 kg of feed will result in the following waste (based on dry matter): 1 kg of feed will result in the following waste (based on dry matter):
+1 kg of feed will result in the following waste, based on dry matter:
 
-135 g of faeces- 135 g of faeces
+135 g of faeces
 
-43 g of ammonium-nitrogen (most of it in a soluble form). 43 g of ammonium-nitrogen (most of it in a soluble form)
+43 g of ammonium-nitrogen, most of it in a soluble form
 
-9 g of phosphate (most of it in the faeces) 9 g of phosphate (most of it in the faeces)
+9 g of phosphate, most of it in the faeces
 
 The waste is valuable for other agric purposes but the problem is, it is packed in a lot of
 
@@ -1390,29 +1059,19 @@ becomes toxic for the fish. In the flow-through system we simply flush it out be
 
 water becomes toxic, but in a recirculation system we apply a purification system and reuse the water.
 
-3 processes for dealing with fish waste:
+Three processes for dealing with fish waste:
 
-1. Sedimentation of the waste water in order to separate the suspended solids (faeces) from the water and drain this fraction out of the system. If the solids stay in the water, they will cause anaerobic processes which produce toxic gases, for example
-
-$ \mathrm{H}_{2} \mathrm{S} $ . Excessive bacterial growth and solids in
-
-suspension also have a negative impact
-
-on the gills of the fish. Filtration is another way to reduce the suspended solids.
-
-Chapter 4
+1. Sedimentation of the waste water in order to separate the suspended solids (faeces) from the water and drain this fraction out of the system. If the solids stay in the water, they will cause anaerobic processes which produce toxic gases, for example H2S. Excessive bacterial growth and solids in suspension also have a negative impact on the gills of the fish. Filtration is another way to reduce the suspended solids.
 
 <div style='text-align: center;'><img src='images/img_032.png' alt='OCR图片'/></div>
 
-Nitrification of ammonium by bacterial processes in order to eliminate ammonium and change it into nitrate, which is not toxic for the fish. High ammonium levels in combination with a high pH can cause severe damage to the slime and skin of the fish. If the slime and
+2. Nitrification of ammonium by bacterial processes in order to eliminate ammonium and change it into nitrate, which is not toxic for the fish. High ammonium levels in combination with a high pH can cause severe damage to the slime and skin of the fish. If the slime and skin of a fish are affected, it will certainly die.
 
-skin of a fish are affected, it will certainly die.
+3. Removal of carbon dioxide from the water to the air by degassing. High carbon dioxide levels are toxic for fish. They make them sluggish. The fish can suffocate and eventually die.
 
-Removal of the carbon dioxide from the water to the air by degassing. High carbon dioxide levels are toxic for fish. They make them sluggish. The fish can suffocate and eventually die.
+## Systems to facilitate the waste processes
 
-Systems to facilitate the waste processes
-
-Sedimentation tank
+## Sedimentation tank
 
 Sedimentation is a relatively easy process. The flow rate in the sedimentation tank (Photo 7) is slow and allows the particles which are heavier than water, to settle before flowing out. As
 
@@ -1424,7 +1083,7 @@ the salt levels will not keep on increasing but stay in balance. A good sediment
 
 reduce the load of fish waste by 50%. A sedimentation tank can also include bacterial processes such as denitrification. This occurs when oxygen levels in the tank are close to zero and the organic load (faeces) is eaten by bacteria which in their turn produce nitrogen gas out of nitrate.
 
-- Equation $ 2 \mathrm {N O} _ {- 3} + 1 2 \mathrm {H} _ {4} ? \mathrm {N} _ {2} + 6 \mathrm {H} _ {2} \mathrm {O} $
+[UNCLEAR OCR: denitrification equation]
 
 <div style='text-align: center;'><img src='images/img_033.png' alt='OCR图片'/></div>
 
