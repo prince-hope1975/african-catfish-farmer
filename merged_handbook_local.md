@@ -1117,17 +1117,7 @@ Chemical equation: 2NOChemical equation: $ 2 \mathrm {N O} + \mathrm {O} _ {2 2}
 
 What you need to know about this process is the following:
 
-Converting ammonium in nitrate is a two-step process. The intermediary nitrite is a very
-
-toxic metabolite which can kill the fish. Nitrate is not toxic for fish even in concentrations
-
-as high as 500 mg/l. But nitrite already kills small catfish at a level of 3 to 4 mg/l. When the biofiltration unit is not well developed, the water will always contain high levels of nitrite which can only be neutralised by flushing the water. The nitrification process makes the water acid. In a situation in which the borehole water has no buffer, it is advisable to
-
-add sodium bicarbonate to the water from time to time to keep the pH at 7 (neutral). The
-
-bacteria doing this job, need a surface area they can attach to (substrate) and enough
-
-## 4
+Converting ammonium into nitrate is a two-step process. The intermediary nitrite is a very toxic metabolite which can kill the fish. Nitrate is not toxic for fish even in concentrations as high as 500 mg/l. But nitrite already kills small catfish at a level of 3 to 4 mg/l. When the biofiltration unit is not well developed, the water will always contain high levels of nitrite which can only be neutralised by flushing the water. The nitrification process makes the water acidic. In a situation in which the borehole water has no buffer, it is advisable to add sodium bicarbonate to the water from time to time to keep the pH at 7 (neutral). The bacteria doing this job need a surface area they can attach to (substrate) and enough oxygen.
 
 <div style='text-align: center;'><img src='images/img_034.png' alt='OCR图片'/></div>
 
@@ -1137,27 +1127,17 @@ Photo 8. A biofiltration unit.
 
 Photo 9. Different filter media.
 
-Fish culture systems
+## What you should know about filter media
 
-What you should know about filter media:
-
-- The material from which the filter media is made (Photo 9), has to be non-toxic for fish.
-
-The surface area has to be large (200 mThe surface area has to be large $ ( 2 0 0 \mathrm{m}_{2 2} / \mathrm{m} / \mathrm{m}_{2 3} ) $ ,but should be open enough for self-),but should be open enough for self-
-
-cleaning. Excess bacteria on the media should be washed out with the water that cleaning. Excess bacteria on the media should be washed out with the water that
-
-flows through it. For example, a stone bed is a good medium in the beginning, but flows through it. For example, a stone bed is a good medium in the beginning, but when bacteria start to grow on it, it will clog completely, which will very difficult to when bacteria start to grow on it, it will clog completely, which will be very difficult to clean.clean.
-
-Air and water have to pass through the media easily so that exchange of carbon
-
-dioxide and oxygen can take place efficiently.
+- The material from which the filter media is made (Photo 9) has to be non-toxic for fish.
+- The surface area has to be large, around 200 m2/m3, but should be open enough for self-cleaning. Excess bacteria on the media should be washed out with the water that flows through it. For example, a stone bed is a good medium in the beginning, but when bacteria start to grow on it, it will clog completely, which will be very difficult to clean.
+- Air and water have to pass through the media easily so that exchange of carbon dioxide and oxygen can take place efficiently.
 
 The biofilters can be set up as a dry filter system; the water is pumped through the filter as a rain shower. Or, the biofilter unit is a submergible filter and the oxygen is supplied by an air
 
 pump.
 
-Extra note on nitrite intoxication
+## Extra note on nitrite intoxication
 
 Small fish like fry are extremely sensitive to high nitrite levels. The first signs of intoxication are sluggish behaviour and hanging at the surface of the water. Their appetite reduces and after some hours or a day the first mortality is recorded. If not properly addressed, most of the fry
 
@@ -1165,29 +1145,17 @@ die within 48 hours. Concentrations already start to be toxic at 2 to 3 mg/l. Wh
 
 a recirculation system for a catfish hatchery, you need to use a test kit to test the nitrite level in the water regularly.
 
-When the catfish are bigger and the nitrite level suddenly rises, the fingerlings or juveniles can die very quickly too. This is accompanied by a very specific sign. The blood of the fish gets
+When the catfish are bigger and the nitrite level suddenly rises, the fingerlings or juveniles can die very quickly too. This is accompanied by a very specific sign: the blood of the fish gets brownish. This is because haemoglobin in the blood binds to the nitrite, which results in the blood turning brown. This also explains the toxicity of nitrite, because it makes the transport of oxygen in the blood almost impossible and the fish will suffocate.
 
-brownish. This is because of the reaction between the blood and the nitrite. The haemoglobin
-
-This also explains the toxicity of nitrite, because it makes the transport of oxygen in the blood almost impossible and the fish will suffocate.
-
-2 remedies are possible:
-
-in the blood binds to the nitrite which results in the blood turning brown.
+Two remedies are possible:
 
 1. Changing the water with clean borehole water in order to reduce the concentration of nitrite drastically.
 
-Adding 3 kg of sodium chloride (industrial salt) per $ \mathrm{m_{3}} $ of water to neutralise the nitrite
+2. Adding 3 kg of sodium chloride (industrial salt) per m3 of water to neutralise the nitrite and reduce its binding capacity to haemoglobin.
 
-and reduce its binding capacity to haemoglobin.
+You can also add the salt after flushing. Combining the remedies makes them even more effective. Safe levels of nitrite for catfish are below 1.5 mg/l. Check every day and adjust on a daily basis if necessary. Industrial salt should always be available as standard material in a hatchery.
 
-You can also add the salt after flushing. Combining the remedies makes them even more effective. Safe levels of nitrite for catfish are below 1.5 mg/ 1. Check every day and adjust on a daily basis if necessary. Industrial salt should always be available as standard material in a
-
-hatchery!
-
-Chapter 4
-
-Degassing unit in order to remove carbon dioxide
+## Degassing unit in order to remove carbon dioxide
 
 When the fish metabolise, they produce carbon dioxide. This gas will partly be dissolved in the water which causes a problem at high concentrations. Carbon dioxide tends to make the
 
@@ -1199,27 +1167,17 @@ No special unit is needed, because a properly functioning biofiltration unit wil
 
 take care of degassing the water.
 
-UV-filtration unit (UV = ultraviolet)
+## UV-filtration unit (UV = ultraviolet)
 
 The UV-filtration unit reduces the level of pathogenic bacteria in the water. A UV-light provides
 
-ultraviolet rays which kill bacteria by changing their DNA (Photo 10). However, UV-light is
-
-dangerous for your eyes, so never look at UV-light when it is on UV-rays only work when the water is transparent, allowing them to pass through, and if the flow rate of the water is in line with the capacity of the UV-light. The filtration unit should be cleaned and its functioning should be checked
-
-after every cycle. In hatcheries it can be especially helpful to keep a healthy
-
-environment for the catfish fry. The UV-system should be configured in such a way that, after
-
-the water has gone through the sedimentation system, it is free from particles when it passes
-
-through the UV-filtration unit.
+ultraviolet rays which kill bacteria by changing their DNA (Photo 10). However, UV light is dangerous for your eyes, so never look at UV light when it is on. UV rays only work when the water is transparent, allowing them to pass through, and if the flow rate of the water is in line with the capacity of the UV light. The filtration unit should be cleaned and its functioning should be checked after every cycle. In hatcheries it can be especially helpful to keep a healthy environment for the catfish fry. The UV system should be configured in such a way that, after the water has gone through the sedimentation system, it is free from particles when it passes through the UV filtration unit.
 
 <div style='text-align: center;'><img src='images/img_036.png' alt='OCR图片'/></div>
 
-Photo 10. AUV-filtration unit.
+Photo 10. A UV-filtration unit.
 
-Starting up a recirculation system
+## Starting up a recirculation system
 
 A brand-new recirculation system has no bacteria inside the filter. The good thing is that bacteria will move in spontaneously the moment you run the system and fish
 
@@ -1243,21 +1201,9 @@ harmful for the fish; as a matter of fact, catfish like to swim in this tea colo
 
 reduces stress and helps to prevent diseases.
 
-If the water in the recirculation system is foaming, it is a sign of pollution by dissolved If the water in the recirculation system is foaming, it is a sign of pollution by dissolved
+If the water in the recirculation system is foaming, it is a sign of pollution by dissolved proteins in the water. This is not really a problem, but it shows that the water purification system can barely cope with the pollution. If there is excessive bacterial growth on the filter media, it is a sign that the system is overloaded. It can also be a sign of overfeeding. Uneaten feed has to be decomposed by bacteria which are different from the nitrifying bacteria. As a matter of fact, they will occupy all the space and nitrification does not take place any more. This process, called mineralisation, consumes a lot of oxygen and produces excess bacterial sludge. This process will be enhanced when the sedimentation filter is overloaded and not cleaned regularly.
 
-proteins in the water. This is not really a problem, but it shows that the water purification proteins in the water. It is not really a problem, but it shows that the water purification
-
-system can barely cope with the pollution. If there is excessive bacterial growth on the system can barely cope with the pollution. If there is excessive bacterial growth on the filter media, it is a sign that the system is overloaded. It can also be a sign of overfeeding. filter media, it is a sign that
-
-the system is overloaded. It can also be a sign of overfeeding. Uneaten feed has to be decomposed by bacteria which are different from the nitrifying Uneaten feed has to be decomposed by bacteria which are different from the nitrifying bacteria. As a matter of fact, they will occupy all the space and nitrification doesn't bacteria. As a matter of fact, they will occupy all the space and nitrification doesn't take
-
-place any more. This process, called mineralisation, consumes a lot of oxygen and produces take place any more. This process called mineralisation, consumes a lot of oxygen and
-
-produces excess bacterial sludge. This process will be enhanced when the sedimentation excess bacterial sludge. This process will be enhanced when the sedimentation filter is
-
-overloaded and not cleaned regularly.filter is overloaded and not cleaned regularly.
-
-Medication and recirculation systems
+## Medication and recirculation systems
 
 In a recirculation system you can medicate the fish, but depending on the medicine or
 
@@ -1266,8 +1212,6 @@ chemicals you use, this can affect the performance of the biofilter.
 Treatment with chemicals, such as formalin and potassium permanganate, will kill some of the bioflora on the filter media. After treatment, extra flushing is required to keep the levels of ammonium and nitrite low. Normally the bacterial mass will return within
 
 a week.
-
-Chapter 4
 
 Other medicines, such as antibiotics, usually have no effect at all on the bioflora of the media. They specifically kill the pathogens and not the bacteria in the filter.
 
@@ -1337,35 +1281,23 @@ a back-up with alternative sources of power, which increase the price of running
 
 on electricity.
 
-What are the alternative sources of power?
+## What are the alternative sources of power?
 
-## Generator
-
-Battery pack with inverter
-
-Battery pack with inverter and solar panels
+- Generator
+- Battery pack with inverter
+- Battery pack with inverter and solar panels
 
 The cost of running a generator is almost three times higher than getting the electricity
 
 from the PHCN. It is not only the diesel or petrol consumption, but also the maintenance needed to keep the generator working all the time, which adds seriously to the cost of producing electricity.
 
-I believe that in order to run a hatchery with recirculation systems, you need all the sources
-
-## PHCN
-
-Generator (Figure 11)
-
-Battery pack with inverter and solar panels (Figure 12)
-
-## 4
-
-Chapter 4
+I believe that in order to run a hatchery with recirculation systems, you need all the sources: PHCN, generator (Figure 11), and battery pack with inverter and solar panels (Figure 12).
 
 Light
 
 <div style='text-align: center;'><img src='images/img_037.png' alt='OCR图片'/></div>
 
-Figure 11.Figure 11. A generator or light (PHCN-power) in action. A generator or light in action.
+Figure 11. A generator or light (PHCN power) in action.
 
 where
 
@@ -1376,8 +1308,6 @@ A.C > alternating current
 Light
 
 C.O > change over
-
-## gen or light in action
 
 Load Farm
 
@@ -1393,61 +1323,24 @@ In a normal situation when PHCN-power is available for four to five hours a day 
 
 standalone system for solar, and promise you will always have power from the solar system;
 
-Fish culture systems
+that is not going to happen. Sooner or later you will have no electricity at all and will be desperately looking for a generator:
 
-that is not going to happen. Sooner or later you will have no electricity at all and will be that is not going to happen. Sooner or later you will have no
+- The weather situation can be bad for a couple of days, especially during the rainy season.
+- The cables which connect the solar panels together can become faulty by melting or partial contact.
+- The cable connection between the batteries can become bad.
+- Problems with the inverter occur.
+- During the rainy season the PHCN supply is less stable.
+- One of the batteries gets bad and, if they have been placed in series, all the batteries of that battery bank cannot supply current.
 
-desperately looking for a generator.desperately looking for a generator:
+The solar system should provide electricity for the recirculation systems and the borehole only. The borehole system should be switched on during the hours the sun is shining brightly and the batteries have already been charged well enough, when there is power from the PHCN or when the generator is working.
 
-The weather situation can be bad for a couple of days, especially during the rainy season.The weather situation can be bad for
+The borehole can have a solar-driven pump installed. When the output of the pump is high enough to get enough water during the daytime to also supply for the night, then it is a good option. The capacity of the reservoir has to be calculated and should be big enough to store water for 16 hours of consumption. When there is not enough sunlight available, complications and shortage of water can occur, because the pump will only work on DC and not on AC. So a generator or electricity from the PHCN cannot be used to power it, because they provide AC. In this case, it is advisable to have two boreholes available, one on solar power and one on conventional power as a standby for the worst-case scenario.
 
-a couple of days, especially during the rainy season.
+## About solar power in general
 
-The cables which connect the solar panels together, can become faulty by melting or The cables which connect the solar panels together, can become faulty by melting or partial contact.partial contact.
+Solar systems that have been installed well (Photos 11 and 12) are relatively maintenance-free and reliable. The shelf life of the various components varies from twenty years for the solar panel, ten years for the inverter, to five years on average for the battery pack. The shelf life of the battery pack depends on how it is used and where it is placed; batteries should be installed in a ventilated, cool, dry area. The inverter too should not be placed in the hatchery building, where it is hot and humid, but in a well-ventilated room. It is always advisable to place the inverter and the battery pack as close together as possible.
 
-The cable connection between the batteries can become bad.The cable connection between the batteries can become bad.
-
-Problems with the inverter occur. Problems with the inverter occur.
-
-During the rainy season the PHCN supply is less stable.During the rainy season the PHCN-supply is less stable.
-
-One of the batteries gets bad and, if they have been placed in series, all the batteries of One of the batteries gets bad and, if they have been placed in series, all the batteries of that battery bank cannot supply current. that battery bank cannot supply current.
-
-systems and the borehole only. The solar system should provide electricity for the recirculation systems and the borehole only.
-
-The borehole system should be switched on during the hours the sun is shining brightly and The borehole system should be switched on during the hours the sun is shining brightly and the
-
-battery has already been charged well enough, when there is power from the PHCN or when the batteries have already been charged well enough, when there is power from the PHCN or
-
-when the generator is working.the generator is working.
-
-The borehole can have a solar driven pump installed. When the output of the pump is high The borehole can have a solar driven pump installed. When the output of the pump is high
-
-enough to get enough water during the day time to also supply for the night, then it is a good enough to get enough water during the day time to also supply for the night, then it is a good
-
-option. The capacity of the reservoir has to be calculated and should be big enough to store option. The capacity of the reservoir has to be calculated and should be big enough to store water for 16 hours consumption. When there is not enough sunlight available complications water for 16 hours consumption. When there is not enough sunlight available, complications and shortage of water can occur because the pump will only work on DC and not on AC. So, and shortage of water can occur, because the pump will only work on DC and not on AC. So, a generator or electricity from the PHCN
-
-cannot be used to power it, because they provide a generator or electricity from the PHCN cannot be used to power it, because they provide
-
-AC. In this case, it's advisable to have two boreholes available one on solar power and one on AC. In this case, it's advisable to have two boreholes available, one on solar power and one on
-
-conventional power as a standby for the worst-case scenario.conventional power as a standby for the worst-case scenario.
-
-About solar power in generalAbout solar power in general
-
-Solar systems that have been installed well (Photos 11 and 12), are relatively maintenance free Solar systems that have been installed well (Photos 11 and 12), are relatively maintenance free
-
-and reliable. The shelf life of the various components varies from twenty years for the solar and reliable. The shelf life of the various components varies from twenty years for the solar
-
-panel, ten years for the inverter to five years on average for the battery pack. The shelf life of panel, ten years for the inverter to five years on average for the battery pack. The shelf life of the battery pack depends on how it is used and where it is placed; batteries should be installed the battery pack depends on how it is used and where it is placed; batteries should be installed in a ventilated cool, dry area. The inverter too should not be placed in the hatchery building, in a ventilated cool, dry area. The inverter too should not be placed in the hatchery building, where it is hot and humid, but in a well-ventilated room. It is always advisable to place the where it is
-
-hot and humid, but in a well-ventilated room. It is always advisable to place the
-
-inverter and the battery as close together as possible.inverter and the battery pack as close together as possible.
-
-The solar panels should be put on the roof, with more than 5 cm space between the roof and The solar panels should be put on the roof, with more than 5 cm space between the roof and the panels, in order not to accumulate heat. If the panels are too close to the roof, they get the panels, in order not to accumulate heat. If the panels are too close to the roof, they get very hot. As a result, the cables can melt and the efficiency and life span of the solar panels very hot. As a result, the cables can melt and the efficiency and life span of the solar panels decrease. In many cases the solar panels are first of all placed on scaffolding and not straight decrease. In many cases the solar panels are first of all placed on scaffolding and not straight
-
-onto the roof.onto the roof.
+The solar panels should be put on the roof, with more than 5 cm space between the roof and the panels, in order not to accumulate heat. If the panels are too close to the roof, they get very hot. As a result, the cables can melt and the efficiency and lifespan of the solar panels decrease. In many cases the solar panels are first placed on scaffolding and not straight onto the roof.
 
 Buy your solar system from a company with a proven track record. It is also advisable to buy it from a dealer who is close to your site, so that after sales service can be offered in time and when needed.
 
@@ -1465,9 +1358,7 @@ The number of batteries should be enough to store the energy that is needed to
 
 overcome the period in the evening, night and early morning. The size of the battery is expressed in Ah. When the battery is 12 volts, the capacity of the battery expressed in Ah can be multiplied with the voltage (V) to yield the capacity in watts (W).
 
-Example 5. How to calculate the required solar system capacity? Suppose you have 16 batteries of 200 Ah and the voltage is 12 V. Formula: P = V x A. Total capacity in watts: 16 x 200 x 12 = 38,400 W or 38.4
-
-kWh.
+Example 5. How to calculate the required solar system capacity? Suppose you have 16 batteries of 200 Ah and the voltage is 12 V. Formula: P = V x A. Total capacity in watts: 16 x 200 x 12 = 38,400 Wh or 38.4 kWh.
 
 Assume the consumption of the farm is 1.5 kWh, you can run this farm on battery for circa 20 hours (30 kWh), because it is not advisable to run the battery
 
@@ -1477,11 +1368,7 @@ totally flat. Normally the inverter will shut down when the battery drops below
 
 Assume you have a solar system and the farm takes 1.5 kWh 24/7.
 
-The total consumption in a day is 1.5 kWh x 24=36 kWh. The solar system
-
-works approximately 8 hours on full capacity and should be able to produce 12
-
-kWh in this time, in the meantime being able to store 24 kWh in the batteries.
+The total consumption in a day is 1.5 kWh x 24 = 36 kWh. The solar system works approximately 8 hours on full capacity and should be able to produce 12 kWh in this time, in the meantime being able to store 24 kWh in the batteries.
 
 So, the capacity of the solar system should be approximately 5 kW per hour in order to take care of the farm 24/7.
 
@@ -1493,7 +1380,11 @@ The golden rule is that the current through the wires should not exceed 100 A. I
 
 why you will see the inverters using a higher voltage, when the capacity increases.
 
-Capacity of inventer: 1000 W = 83 A x 12 VCapacity of inverter: 1000 W = 83 A x 12 VCapacity of inventer: 2000 W = 83 A x 24 VCapacity of inverter: 2000 W =83 A x 24 VCapacity of inventer: 4000 W = 83 A x 48 VCapacity of inverter: 4000 W =83 A x 48 V
+Capacity of inverter: 1000 W = 83 A x 12 V
+
+Capacity of inverter: 2000 W = 83 A x 24 V
+
+Capacity of inverter: 4000 W = 83 A x 48 V
 
 Fish culture systems
 
@@ -1547,8 +1438,6 @@ There are two ways to get the cages fixed:
 
 2. The cages are connected to the shore with rope.
 
-## Chapter 4
-
 The first connection is the most difficult one, because the anchoring has to be done according to the size and number of the cages, the weather conditions and the current of the water in the dam or the lake. The best place for cages is where the optimal water
 
 exchange occurs and the water is very deep. In the case of a dam, the best place for putting
@@ -1569,7 +1458,7 @@ can be accessed by a jetty. This construction makes it easy to harvest and feed 
 
 because the cages are situated close by the shore.
 
-Feeding floating feed in a cage?
+## Feeding floating feed in a cage
 
 Floating feed is advisable when cages are used. Sinking feed which is not directly eaten, will
 
@@ -1581,19 +1470,9 @@ feed cannot drift away to open water (Figure 14).
 
 Figure 14. A feed collar to avoid floating feed to drift away.
 
-Fish culture systems
+## Size of fish and stocking density in floating cage
 
-Size of fish and stocking density in floating cage
-
-Catfish should not be stocked in cages when they are very small. Their size should be at Catfish should not be stocked in cages when they are very small. Their size should be at least 30 g. The juveniles first have to grow in ponds or concrete tanks to a weight of 30 g, least 30 g. The juveniles first have to grow in ponds or concrete tanks to a weight of 30 g,
-
-then they are graded and transported to the cages. Small juveniles stocked in a cage, need then they are graded and transported to the cages. Small juveniles stocked in a cage, need
-
-a very small mesh size in order not to escape. But when they grow, the small mesh size a very small mesh size in order not to escape. But when they grow, the small mesh size will not allow a good water exchange through the cage. Dirt will also clog the small mesh will not allow a good water exchange through the cage. Dirt will also clog the small mesh size net and eventually the net gets very heavy and difficult to handle. The diameter of the size net and eventually the net gets very heavy and difficult to handle. The diameter of the net mesh should be 1.5 to 2 cm.net mesh should be 1.5 to 2 cm. Furthermore, juveniles tend to get affected by bacterial Furthermore. juveniles tend to get affected by bacterial
-
-diseases in cages when they are too small. In addition,the net should not have a depth diseases in cages when they are too small. In addition,the net should not have a depth
-
-of more than 2 m, because if the catfish start swimming up and down through the water of more than 2 m, because if the catfish start swimming up and down through the water column, they will use a lot of energy, thus the feed conversion rate will not be optimal. column, they will use a lot of energy, thus the feed conversion rate will not be optimal. Densities can be as high as 100 pieces per mDensities can be as high as 100 pieces per m $ ^{33} $..
+Catfish should not be stocked in cages when they are very small. Their size should be at least 30 g. The juveniles first have to grow in ponds or concrete tanks to a weight of 30 g, then they are graded and transported to the cages. Small juveniles stocked in a cage need a very small mesh size in order not to escape. But when they grow, the small mesh size will not allow a good water exchange through the cage. Dirt will also clog the small mesh size net and eventually the net gets very heavy and difficult to handle. The diameter of the net mesh should be 1.5 to 2 cm. Furthermore, juveniles tend to get affected by bacterial diseases in cages when they are too small. In addition, the net should not have a depth of more than 2 m, because if the catfish start swimming up and down through the water column, they will use a lot of energy, thus the feed conversion rate will not be optimal. Densities can be as high as 100 pieces per m3.
 
 ## Cage design and construction
 
@@ -1619,11 +1498,7 @@ Cages can be built in any size. It depends on how many fish you want to sell in 
 
 expect a harvest of 10,000 kg per growth cycle.
 
-Cages in Nigeria are often built with galvanised pipes; two lines of galvanised pipes Cages in Nigeria are often built with galvanised pipes; two lines of galvanised pipes are welded together approximately 45 cm apart. In between these pipes, plastic drums are are welded together approximately 45 cm apart. In between these pipes, plastic drums are placed to create a floating platform. The nets can be hanged into the inner placed to create a floating platform. The nets can be hanged into the inner square of
-
-square of 6 x 6 m.The outer square is around 6.4 x 6.4 m. The plastic drums are6 x 6 m.The outer square is around 6.4 x 6.4 m (length x width). The plastic drums are
-
-## Chapter 4
+Cages in Nigeria are often built with galvanised pipes; two lines of galvanised pipes are welded together approximately 45 cm apart. In between these pipes, plastic drums are placed to create a floating platform. The nets can be hung into the inner square of 6 x 6 m. The outer square is around 6.4 x 6.4 m (length x width). The plastic drums are
 
 usually 200 l. Check them thoroughly for leakages and seal the covers carefully, so that water cannot enter. For a cage of 6 x 6 m, use two drums on each side, making it eight drums altogether. The drums are lashed with rope between the galvanised pipes. Use good
 
@@ -1659,13 +1534,9 @@ fish which escape from the first net, will still be trapped in the second net as
 
 are big enough. Between the first net and the predator net a population of young wild fish can grow and eventually not escape the predator net anymore because of their bigger size by then. These fish are attracted and grow in this environment because of the faeces of the catfish, uneaten feed and the benthos living on the nets.
 
-68
-
 ## Applying for a license
 
 When you start a cage farm in a dam, you have to apply for a license from the water authorities of the federal government who are in charge of the dam. After you have been
-
-Fish culture systems
 
 handed over the necessary documents, you will usually get a license for a certain area of
 
@@ -1683,21 +1554,11 @@ Nigeria have a respectable size and, apart from having cages on the water, they 
 
 land-based activities, such as hatcheries, nursery ponds and accommodations.
 
-Harvesting catfish from floating cagesHarvesting catfish from floating cages
+## Harvesting catfish from floating cages
 
-Harvesting the catfish from the cages, is not so easy especially if the construction aside Harvesting the catfish from the cages is not so easy especially if the construction aside
+Harvesting the catfish from the cages is not so easy, especially if the construction beside the cage is small and cheaply built with small planks. In principle, harvesting consists of just lifting the net and crowding the fish together in one corner, scooping them up with a basket or catcher and carrying them to the shore or to the boat, depending on whether the cage farm is situated at the shore with a jetty or is a standalone cage in open water. If the nets have weights in the corners, they should be hung on a rope and taken out before the net is lifted. A long bamboo stick is helpful to lift the net to one side in order to reduce the volume of the net gradually, while shifting the bamboo stick from left to right. When the nets are crowded enough, you can start to catch the fish. When you want to take a break from catching the fish, you lower the net so that the fish are able to swim freely again and are not exposed to the sun.
 
-from the cage is small and cheaply built with small planks. In principle harvesting consists from the cage is small and cheaply built with small planks. In principle harvesting consists
-
-of just lifting the net and crowding the fish together in one corner,
-
-scooping them up with of just lifting the net and crowding the fish together in one corner, scooping them up with a basket or catcher and carrying them to the shore or to the boat, depending on whether a basket or catcher and carrying them to the shore or to the boat, depending on whether the cage farm is situated at the shore with a jetty or is a standalone cage in open water. If the cage farm is situated at the shore with a jetty or is a standalone cage in open water. If the nets have weights in the corners, they should be hung on a rope and taken out before the nets have weights in the corners, they should be hung on a rope and taken out before
-
-the net is lifted. A long bamboo stick is helpful to lift the net to one side in order to reduce the net is lifted. A long bamboo stick is helpful to lift the net to one side in order to reduce
-
-the volume of the net gradually, while shifting the bamboo stick from left to right. When the volume of the net gradually, while shifting the bamboo stick from left to right. When the nets are crowded enough, you can start to catch the fish. When you want to take a the nets are crowded enough, you can start to catch the fish. When you want to take a break from catching the fish, you lower the net so that the fish are able to swim freely break from catching the fish, you lower the net so that the fish are able to swim freely again and are not exposed to the sun.again and are not exposed to the sun.
-
-Maintenance of floating cages
+## Maintenance of floating cages
 
 Maintenance of the nets is required to make sure they don't contain any gaps. After each growth cycle you can dry the net and clean it, if excessive algae or other debris are attached. The shelf life of a net depends on the quality, but after five to seven years the
 
@@ -1737,33 +1598,25 @@ and the surface of the dam. This normally doesn't happen. This process causes ba
 
 from hydrogen sulphide and methane gases and depletion of oxygen at the surface of from hydrogen sulphide and methane gases and depletion of oxygen at the surface of the water for some days. Tilapia especially are sensitive to this situation and it can cause the water for some days. Tilapia especially are sensitive to this situation and it can cause increased mortality. Usually after some days the mixing process stabilises; at that point even increased mortality. Usually after some days the mixing process stabilises; at that point even the natural fish in the water show signs of intoxication, although they have the opportunity the natural fish in the water show signs of intoxication, although they have the opportunity
 
-to swim away.to swim away.
+to swim away.
 
-different materials which In chapter 5 I have already mentioned the principle of pond constructing and the different
+## 4.4 EXTENSIVE POND CULTURES
 
-4. 4 EXTENSIVE POND CULTURES
+In chapter 5 I have already mentioned the principle of pond construction and the different materials which can be used to build one.
 
-can be used to build one.materials which can be used to build one.
-
-The difference between the flow-through system usually concrete tanks, and the extensiveThe difference between the flow-through system, usually concrete tanks, and the extensive pond system, is the size at which they operate and their stocking density.pond system, is the size at which they operate and their stocking density.
+The difference between the flow-through system, usually concrete tanks, and the extensive pond system is the size at which they operate and their stocking density.
 
 Ponds: 1000-5000 $ m_{2} $ , stocking density 5-10 pieces/$ m_{2} $ preferably earth pond.
 
 Tanks: 50-100 $ m_{2} $ , stocking density 50-100 pieces/$ m_{2} $ preferably concrete tank.
 
-Ponds, especially earthen ponds which consists of clay, tend to be large sized with a Ponds, especially earthen ponds, which consists of clay, tend to be large sized with a surface area of 1000 msurface area of $ 1 0 0 0 \mathrm{m}_{2 2} $ or more. They are located in rural areas where land is abundant, or more. They are located in rural areas where land is abundant,
-
-and a sufficient water source is able to keep the ponds filled even during the dry season.and a sufficient water source is able to keep the ponds filled, even during the dry season.
+Ponds, especially earthen ponds consisting of clay, tend to be large, with a surface area of 1000 m2 or more. They are located in rural areas where land is abundant, and a sufficient water source is able to keep the ponds filled even during the dry season.
 
 Flushing is restricted to keep the ponds filled, because the release of nutrients by the fish is neutralized by the algae in the water and the binding activity of the soil. In other words, the ponds, if run extensively, can take care of the waste. Therefore, only at the end of the
 
 growth cycle, extra flushing is advisable.
 
-Due to evaporation and seepage, the water consumption can be as high as 100-200 mDue to evaporation and seepage, the water consumption, can be as high as 100-200 m $ ^{33} $ per hectare per day during the dry season. Catfish do well in this natural environment. The per hectare per day during the dry season. Catfish do well in this natural environment. The mortality rate is usually low, but the level of predation by birds, monitor lizards and other mortality rate is usually low, but the level of predation by birds, monitor lizards and other
-
-animals is higher than in intensive systems. Feed conversion rates tend to be slightly higher animals is higher than in intensive systems. Feed conversion rates tend to be slightly higher
-
-in earthen ponds too, because of the increased ability of the fish to swim around, which in earthen ponds too, because of the increased ability of the fish to swim around, which takes more energy. Hybrid catfish do very well in extensive earthen ponds and appear to takes more energy. Hybrid catfish do very well in extensive earthen ponds and appear to adapt more to this natural environment than the pure Clarias gariepinus strain.adapt more to this natural environment than the pure Clarias gariepinus strain.
+Due to evaporation and seepage, the water consumption can be as high as 100-200 m3 per hectare per day during the dry season. Catfish do well in this natural environment. The mortality rate is usually low, but the level of predation by birds, monitor lizards, and other animals is higher than in intensive systems. Feed conversion rates tend to be slightly higher in earthen ponds too, because of the increased ability of the fish to swim around, which takes more energy. Hybrid catfish do very well in extensive earthen ponds and appear to adapt more to this natural environment than the pure Clarias gariepinus strain.
 
 ## 4.5 BACKYARD FARMING
 
@@ -1787,65 +1640,55 @@ The waste water of a backyard farm can be a problem, if there isn't a good drain
 
 system in the residential area. The water, in particular the water with solid waste, can be used in the garden, but the majority of the water will have to go out of the compound into the gutters. If the waste water remains around the compound, it will start to smell and attract mosquitoes and rodents, and your neighbours will start complaining!
 
-income should not depend on it when you
-
-are a newcomer in the business.
+Your income should not depend on it when you are a newcomer in the business.
 
 There is nothing wrong with thinking big, but start small. As a matter of fact, many entrepreneurs who start big, fail and turn away disappointed and broke from the business of fish farming.
 
-Chapter 4
-
 <div style='text-align: center;'><img src='images/img_046.png' alt='OCR图片'/></div>
 
-Starting a small business is the safest way and it will give you time to learn the business without spending all your money. Mistakes can be corrected and are affordable. Learning fish farming can only be done by doing it. Your
-
-## C
-
-5. 3 PLASTIC LINED POND
+Starting a small business is the safest way and it will give you time to learn the business without spending all your money. Mistakes can be corrected and are affordable. Learning fish farming can only be done by doing it.
 
 ## 5
 
-5. 4 STONE PITCHED POND
+CHOICE OF MATERIALS FOR FISH FARMS, SIZES, SHAPES AND NUMBERS
 
-5. 5 CONCRETE TANKS: FULL CONCRETE BLOCKS OR COMBINED
+5.1 Introduction
 
-CHOICE OF MATERIALS FOR FISH FARMS,
+5.2 Earthen pond
 
-SIZES, SHAPES AND NUMBERS
+5.3 Plastic lined pond
 
-5. 2 EARTHEN POND
+5.4 Stone pitched pond
 
-5. 1 INTRODUCTION
+5.5 Concrete tanks: full concrete blocks or combined
 
-5. 8 SHAPE OF THE POND
+5.6 Plastic tank
 
-5. 6 PLASTIC TANK
+5.7 Fibreglass or polyester tank
 
-5. 7 FIBREGLASS OR POLYESTER TANK
+5.8 Shape of the pond
 
-5. 9 POND SIZE AND NUMBER
+5.9 Pond size and number
 
-Chapter 5
-
-5. 1 INTRODUCTION
+## 5.1 INTRODUCTION
 
 A fish pond is defined as a water body which has an inlet and an outlet in order to manage
 
 the pond when it comes to draining, flushing and harvesting. If a pond does not have
 
-those features, it is not a fish pond in my opinion. In any case, a fish pond is not just a hole
+those features, it is not a fish pond in my opinion. In any case, a fish pond is not just a hole in the ground.
 
 Building a pond and the choice of materials depend on many factors:
 
-Financial capacity
+- Financial capacity
 
-5. 2 EARTHEN POND
+## 5.2 EARTHEN POND
 
 If the soil holds water, which occurs when the soil consists of a minimum of 30% of clay,
 
 you have the possibility of constructing an earthen pond (Photo 14). It is important that the dykes of the pond are well constructed and well compacted; they should not contain any stones or other materials, because they make the dyke permeable and weak. Usually the dykes of a pond have a slope of 30-45 degrees and a depth of 1.5 m. The water level
 
-should be 1.2 m which provides for a freeboard of 0.3 m.Small ponds of 100-300 $ m_{2} $ can
+should be 1.2 m which provides for a freeboard of 0.3 m. Small ponds of 100-300 m2 can
 
 be excavated manually, but bigger ponds require machines for excavating and compacting. The top soil should not be mixed with the lower soil layers and should be placed back on the dykes and roads. Grass should be planted on top of the dykes in order to avoid erosion. Constructing an earthen pond should be done by experienced people. A surveyor has to be
 
@@ -1855,33 +1698,15 @@ of this chapter, definitely not just a hole in the ground. This book is not mean
 
 Many farmers use bags filled with soil to make dykes; I do not believe this is a durable
 
-solution. The bags certainly do not seal the dyke but they avoid erosion and reduce the
+solution. The bags certainly do not seal the dyke but they avoid erosion and reduce seepage.
 
-## seepage.
-
-Earthen ponds are usually operated extensively. The stock of fish varies from 5 to 20 pieces
-
-per $ m_{2} $ . Earthen ponds need a lot of space and a lot of water due to evaporation and
-
-Choice of materials for fish farms, sizes, shapes and numbers
-
-seepage. During the dry season evaporation can go up to 2 cm per day, which means 20
-
-m of water has to be added daily into a 1000 m2 pond to keep the water level constant. Because in an earthen pond the soil and the water interact, the catfish really like this kind
-
-of pond. Their nick name is mud fish for a reason; they especially like the bottom of the
-
-pond. The only challenge of an earthen pond can be harvesting the fish, if the bottom of pond. The only challenge of an earthen pond can be harvesting he fish, if the bottom of the pond is very muddy and the pond cannot be drained completely. Any fish left, will seriously interfere with the next stock of juveniles. The soil can be disinfected with lime after every drain or harvest and dried during the dry season. After some years, you will
-
-have to take out the excessive sludge. This sludge is perfect for improving the quality of any
-
-soil for farming crops, because it increases the organic matter in the soil.
+Earthen ponds are usually operated extensively. The stock of fish varies from 5 to 20 pieces per m2. Earthen ponds need a lot of space and a lot of water due to evaporation and seepage. During the dry season evaporation can go up to 2 cm per day, which means 20 m3 of water has to be added daily into a 1000 m2 pond to keep the water level constant. Because in an earthen pond the soil and the water interact, the catfish really like this kind of pond. Their nickname is mud fish for a reason; they especially like the bottom of the pond. The only challenge of an earthen pond can be harvesting the fish if the bottom of the pond is very muddy and the pond cannot be drained completely. Any fish left will seriously interfere with the next stock of juveniles. The soil can be disinfected with lime after every drain or harvest and dried during the dry season. After some years, you will have to take out the excessive sludge. This sludge is perfect for improving the quality of any soil for farming crops, because it increases the organic matter in the soil.
 
 <div style='text-align: center;'><img src='images/img_047.png' alt='OCR图片'/></div>
 
 Photo 14. An earthen pond.
 
-5. 3 PLASTIC LINED POND
+## 5.3 PLASTIC LINED POND
 
 If you are interested in building a natural pond but the soil does not hold water, you
 
@@ -1945,19 +1770,15 @@ volumes of the tanks vary from 500 to 50001. The tanks have a disadvantage thoug
 
 Because the bottoms are not flat, harvesting fish from these tanks is difficult. To overcome this problem, you can put a layer of concrete on the bottom to cover and level it. This also makes the tanks very strong. The outlet should be positioned right at the bottom so that the tank can be drained till the last drop.
 
-Choice of materials for fish farms, sizes, shapes and numbers
+Plastic tanks are very good for the pre- and on-growing stages. At these stages the fish weigh between 1 and 50 g, which is between the hatchery and the grow-out stage (see Appendix 1 for the growth stages of catfish). For small-scale farmers these tanks can also be used for grow-out.
 
-Plastic tanks are very good for the pre on-growing stage. At these stages the fish weigh between Plastic tanks are very good for the pre- and on-growing stages. At these stages the fish weigh between 1 and 50 g, which is between the hatchery and the grow-out stage (see 1 and 50 g, which is between the hatchery and the grow-out stage (see Appendix 1 for the growth stages of catfish). For small scale farmers these tanks can also be used for grow-out.Appendix 1). For small scale farmers these tanks can also be used for grow-out.
-
-Plastic tanks are circular because this shape makes them strong and most cost-effective, Plastic tanks are circular because this shape makes them strong and most cost-effective, compared to square or rectangular tanks.compared to square or rectangular tanks.
+Plastic tanks are circular because this shape makes them strong and most cost-effective, compared to square or rectangular tanks.
 
 <div style='text-align: center;'><img src='images/img_052.png' alt='OCR图片'/></div>
 
-## 5.7 FIBREGLASS OR POLYESTER TANK5.7 FIBREGLASS OR POLYESTER TANKS
+## 5.7 FIBREGLASS OR POLYESTER TANKS
 
-Fibreglass or polyester tanks are not very common in Nigeria. But there is an industry that Fibreglass or polyester tanks are not very common in Nigeria. But there is an industry that produces boats using the same material. On request a company is able to produce fish produces boats using the same material. On request a company is able to produce fish tanks too. As long as the tanks are made correctly, they are very durable and suitable for tanks too. As long as the tanks are made correctly, they are very durable and suitable for fish farming. The sizes are in the same range as for the plastic tanks between 500 to 1000 fish farming. The sizes are in the same range as for the plastic tanks between 500 to 5000
-
-1, and can be rectangular or circular (Photo 19).1, and can be rectangular or circular (Photo 19).
+Fibreglass or polyester tanks are not very common in Nigeria. But there is an industry that produces boats using the same material. On request a company is able to produce fish tanks too. As long as the tanks are made correctly, they are very durable and suitable for fish farming. The sizes are in the same range as for the plastic tanks, between 500 and 5000 l, and can be rectangular or circular (Photo 19).
 
 <div style='text-align: center;'><img src='images/img_053.png' alt='OCR图片'/></div>
 
@@ -1977,33 +1798,32 @@ Compare the following tank sizes with the same volume:
 
 10 x 10 x 1 m square tank: 100 $ \mathrm{m_{3}} $ (length x width x height)
 
-Diameter 11.2 circular tank: 100 mDiameter 11.2 circular tank: 100 m $ _{33} $ $ ((\pi r^{\wedge}\pi r_{2} x height)_{2} x height) $
+Diameter 11.2 m circular tank: 100 m3 ((pi x r2) x height)
 
 Comparing the costs of building a tank is done by calculating the surface area of each tank, because the more material you use, the more expensive the tank will be, whether it is built in plastic, concrete, blocks or stone pitching.
 
-Choice of materials for fish farms, sizes, shapes and numbers
+20 x 5 x 1 m rectangular tank: 150 m2
 
-20 x 5 x 1 m rectangular tank: 150 m $ \mathrm{m_{2}} $ 10 x 10 x 1 m square tank: 140 $ \mathrm{m_{2}} $ 11.2 diameter circular tank: 135 $ \mathrm{m_{2}} $
+10 x 10 x 1 m square tank: 140 m2
+
+11.2 m diameter circular tank: 135 m2
 
 The rectangular tank has 15 m $ ^{2} $ more material and is therefore 11% more expensive than a circular tank.
 
-The advantages and disadvantages of circular, rectangular and squaretanks
+## The advantages and disadvantages of circular, rectangular and square tanks
 
-## Circular tanksCircular tanks
+## Circular tanks
 
 Advantages
 
-Relatively cheap in material costs.
-
-Strong.
-
-Self-cleaning and no corners where waste or dead fish can accumulate.
+- Relatively cheap in material costs.
+- Strong.
+- Self-cleaning and no corners where waste or dead fish can accumulate.
 
 Disadvantages
 
-More difficult to harvest the fish.
-
-Setting up a farm consumes a lot of space because the tanks have no mutual walls; allSetting up a farm consumes a lot of space because the tanks have no mutual walls; tanks stand on their own.all tanks stand on their own.
+- More difficult to harvest the fish.
+- Setting up a farm consumes a lot of space because the tanks have no mutual walls; all tanks stand on their own.
 
 ## Rectangular and square tanks
 
@@ -2025,9 +1845,7 @@ ponds, 5% in plastic lined ponds and the remaining 5% in the other alternatives 
 
 tanks, fibreglass tanks etcetera.
 
-Most farmers prefer rectangular tanks. This is a good choice, but for small tanks you often see
-
-Chapter 5
+Most farmers prefer rectangular tanks. This is a good choice, but for small tanks you often see circular tanks.
 
 In Appendix 5 you can find a bill of quantity (BOQ) for a 10 x 5 x 1.3 m pond made out of reinforced blocks or full concrete with early 2019 prices.
 
@@ -2051,27 +1869,20 @@ This means 52 sales moments or days in a year. Let's assume the growth cycle of 
 
 fish is 175 days; in this case the fish remain in the pond from stocking till harvest
 
-during 175 days. This means you can do 2 cycles in a year. Each pond has 2 harvests in a year. So, for sales on a weekly basis, you need 52/2=26 ponds! This means you stock on a weekly basis and you harvest on a weekly basis. If you want to sell on a monthly basis, you need 12/2=6 ponds.
+during 175 days. This means you can do 2 cycles in a year. Each pond has 2 harvests in a year. So, for sales on a weekly basis, you need 52/2 = 26 ponds. This means you stock on a weekly basis and you harvest on a weekly basis. If you want to sell on a monthly basis, you need 12/2 = 6 ponds.
 
-Many new farmers are tempted to stock all the ponds at once. This will not work atall. You will get a serious problem when the fish are ready for harvest. There are four
+Many new farmers are tempted to stock all the ponds at once. This will not work at all. You will get a serious problem when the fish are ready for harvest. There are four reasons:
 
-Your working capital to grow all the fish at once, is very high.
-
-reasons:
-
-You have to sell all the fish in a short period of time.
-
-Customers cannot buy regularly but only a couple of times a year.
-
-Your need for water is very high just before the sales whereas it drops
-
-to almost zero after the sales.
+- Your working capital to grow all the fish at once is very high.
+- You have to sell all the fish in a short period of time.
+- Customers cannot buy regularly but only a couple of times a year.
+- Your need for water is very high just before the sales whereas it drops to almost zero after the sales.
 
 When the ponds are too big and the sales from one pond are spread over a longer period, let's say three weeks, the result will be bad. The fish from the first sales will be bigger than the fish sold after three weeks. Because during these three weeks feed will be given
 
 periodically, the fish will be severely stressed so that they eat without growing.
 
-84Appendixes 2 and 3 show how the maximum working capital increases with only two sales in a year compared to twelve sales in a year.
+Appendixes 2 and 3 show how the maximum working capital increases with only two sales in a year compared to twelve sales in a year.
 
 Another problem I notice is that many fish farms operate with different sizes of ponds. To
 
@@ -2082,8 +1893,6 @@ manage this is very difficult, because all the ponds will have a different numbe
 <div style='text-align: center;'><img src='images/img_054.png' alt='OCR图片'/></div>
 
 ## HOW TO SET UP A FISH FARM
-
-Chapter 6
 
 Setting up a fish farm is not the goal, but just a tool in order to start farming fish. I have seen investors who love to build a farm, but when it comes to farming, they are nowhere to be seen. The joy is over!
 
@@ -2109,13 +1918,7 @@ or it can be a wire fence. Both will serve the purpose. When the area is very sw
 
 ## Fish pondsFish ponds
 
-The fish ponds are usually located between the lowest and highest level of the land. The The fish ponds are usually located between the lowest and highest level of the land. The storage reservoir is normally situated at the highest level and the drainage at the lowest storage reservoir is normally situated at the highest level and the drainage at the lowest level. If the land does not have many differences of level, you must create levels and slopes,
-
-level. If the land does not have many differences of level, you must create levels and slopes,
-
-in order to have the correct flow of water. The ponds should be easily accessible by car, in order to have the correct flow of water. The ponds should be easily accessible by car,
-
-tractor or at least a wheelbarrow for a small farm in order to provide the feed and transport tractor or at least a wheelbarrow for a small farm in order to provide the feed and transport the fish when they are due to harvest. Most investors start by building ponds but instead the fish when they are due to harvest. Most investors start by building ponds but instead they should first start with the roads and water infrastructure. Fish don't grow in a concrete they should first start with the road and water infrastructure. Fish don't grow in a concrete pond; they grow in water. Without water the ponds are useless pond; they grow in water. Without water the ponds are useless!
+The fish ponds are usually located between the lowest and highest level of the land. The storage reservoir is normally situated at the highest level and the drainage at the lowest level. If the land does not have many differences in level, you must create levels and slopes in order to have the correct flow of water. The ponds should be easily accessible by car, tractor, or at least a wheelbarrow for a small farm in order to provide the feed and transport the fish when they are due for harvest. Most investors start by building ponds, but instead they should first start with the road and water infrastructure. Fish do not grow in a concrete pond; they grow in water. Without water the ponds are useless.
 
 ## Power house
 
@@ -2123,7 +1926,7 @@ If PHCN-electricity is available, the generator house should be located close to
 
 house, security house and gate house located close together or close to the gate.
 
-Gate house or security house
+## Gate house or security house
 
 The gate house is the place where goods, services and people coming in or coming out, are recorded. It is very important for security to check the inflow and outflow, and be aware
 
@@ -2135,7 +1938,7 @@ In bigger farms, it's advisable to give visitors a pass which clearly shows they
 
 proof!
 
-Accommodation for the staff
+## Accommodation for the staff
 
 Most investors do not give too much attention to accommodations for the staff. They come with costs and do not benefit the production. However, the farm will always have some key
 
@@ -2145,21 +1948,13 @@ their performance. So, if your ambition is to develop a big farm, you should als
 
 sad story is, this way the money will never come!
 
-Hatchery-, pre- and on-growing pondsHatchery-, pre- and on-growing ponds
+## Hatchery-, pre- and on-growing ponds
 
-Depending on what you want to do and the size of the farm you wish to have, a hatchery and Depending on what you want to do and the size of the farm you wish to have, a hatchery and an outdoor facility to grow fingerlings and juveniles (Photo 24) to the stage of post-juveniles an outdoor facility to grow fingerlings and juveniles (Photo 24) to the stage of post juveniles
+Depending on what you want to do and the size of the farm you wish to have, a hatchery and an outdoor facility to grow fingerlings and juveniles (Photo 24) to the stage of post-juveniles prior to stocking the outgrow facility are important. See Appendix 1 for the growth stages of the fish.
 
-prior to stocking the outgrow facility, are important. See Appendix 1 for the growth stages of prior to stocking the outgrow facility are important. See Appendix 1 for the growth stages of
+Farms with the ambition to produce over 50 tons of fish each year should consider having their own hatchery, but they will certainly need a facility to grow juveniles and fingerlings to post-juveniles. Farms that rely on supplies from other hatcheries for stocking fish can become very disappointed in terms of quality and regular supply of the fish. This will result in periods without stocking and inevitably no supply after five to six months. A farm depending on an erratic supply of fingerlings cannot perform well.
 
-the fish.the fish.
-
-Farms with the ambition to produce over 50 tons of fish each year, should consider having their own hatchery, but they will certainly need a facility to grow juveniles and fingerlings to post-
-
-juveniles. Farms that rely on supplies from other hatcheries for stocking fish, can become very
-
-disappointed in terms of quality and regular supply of the fi sh. This will result in periods without stocking and inevitably no supply after five to six months. A farm depending on an erratic supply of fingerlings cannot
-
-Water storage facility and boreholes
+## Water storage facility and boreholes
 
 Water is the lifeline of the farm. After building a fence or wall, this should actually be the second action to be taken. When you have drilled a borehole and made the water storage facility and installed the supply line, this will also supply your needs when you build the remaining structures, because for building you need water! A survey of the land in order to get a good spot for drilling
 
@@ -2169,11 +1964,11 @@ pudding is in the eating! After drilling and putting the borehole pump into plac
 
 out the real capacity of it. This will help you to decide how many tanks you can build.
 
-Intake from a river or dam
+## Intake from a river or dam
 
 The intake is actually the heart of your farm; it is the supply line of water. The dimensions of the
 
-intake should be determined by the water needs of the farm. A river or dam contains normally more than enough water to supply the farm. Officially when you start a farm and you take more than 250 m $ ^{a} $ of water in a day, you need a license from the river basins development authorities,
+intake should be determined by the water needs of the farm. A river or dam normally contains more than enough water to supply the farm. Officially, when you start a farm and you take more than 250 m3 of water in a day, you need a license from the river basins development authorities,
 
 which operate at state level. A license can only be issued if you make an environmental
 
@@ -2183,7 +1978,7 @@ dam, but if you want to start a big farm, sooner or later this organisation will
 
 It is better to face the music before starting to dance!
 
-Materials and feed storage
+## Materials and feed storage
 
 Storage facilities for materials and feed can be built with concrete blocks, but I prefer 20- or
 
@@ -2191,13 +1986,7 @@ Storage facilities for materials and feed can be built with concrete blocks, but
 
 location for easy access.
 
-graders, catchers, baskets, scales, drag nets etcetera. All these materials should be kept in a dry place. As far as the nets are concerned, it is important to store them in a rodent free area. Rats and
-
-How to set up a fish farm
-
-mice especially like to make nests in nets, which leads to large holes if they are not taken
-
-good care of. When you leave your harvesting equipment close to the ponds, you make a tempting environment for theft. After use, harvesting equipment should be locked up at all times.
+Graders, catchers, baskets, scales, drag nets, et cetera, should all be kept in a dry place. As far as the nets are concerned, it is important to store them in a rodent-free area. Rats and mice especially like to make nests in nets, which leads to large holes if they are not taken good care of. When you leave your harvesting equipment close to the ponds, you create a tempting environment for theft. After use, harvesting equipment should be locked up at all times.
 
 <div style='text-align: center;'><img src='images/img_056.png' alt='OCR图片'/></div>
 
@@ -2239,7 +2028,7 @@ To fast track operations, you will need internal roads and drainage (Photos 22 a
 
 systems are needed in order to release excess water either from the farm or from the rain.
 
-Neglecting roads and drainage will result in a muddy, dirty place, which makes operatingsmoothly difficult.
+Neglecting roads and drainage will result in a muddy, dirty place, which makes operating smoothly difficult.
 
 <div style='text-align: center;'><img src='images/img_058.png' alt='OCR图片'/></div>
 
@@ -2249,25 +2038,19 @@ Photos 22 and 23. Internal roads and a drainage system covered with planks and a
 
 <div style='text-align: center;'><img src='images/img_060.png' alt='OCR图片'/></div>
 
-66
-
-## Chapter 6
-
 <div style='text-align: center;'><img src='images/img_061.png' alt='OCR图片'/></div>
 
 Photo 24. A pre- and on-growing facility with two different supply lines for water: one from a dam and the other from a borehole.
-
-## C
 
 ## 7
 
 FEED AND FEEDING
 
-7. 1 THE GROWTH CURVE OF CATFISH
+7.1 The growth curve of catfish
 
-7. 2 THE GROWTH RATE OF CATFISH
+7.2 The growth rate of catfish
 
-7. 3 FEED QUALITY
+7.3 Feed quality
 
 7. 4 IS IT ADVISABLE TO MAKE YOUR OWN FEED?
 
@@ -2297,17 +2080,13 @@ and unmotivated workers!
 
 ## 7.1 THE GROWTH CURVE OF CATFISH
 
-The growth curve of most animals has an S-shape; catfish are no exception. Figure 16 shows a slow growth in the first two months: from 0.002 g as a fry to 5 g as a juvenile (see Appendix 1 for catfish growth stages). From this stage the growth accelerates till they reach 1 kg in a period of four months. From 1 kg onwards, the growth rate
-
-declines, reaching to almost zero when the maximum end weight of 3 to 4 kg is
-
-## reached.
+The growth curve of most animals has an S-shape; catfish are no exception. Figure 16 shows slow growth in the first two months: from 0.002 g as a fry to 5 g as a juvenile (see Appendix 1 for catfish growth stages). From this stage the growth accelerates until they reach 1 kg in a period of four months. From 1 kg onwards, the growth rate declines, reaching almost zero when the maximum end weight of 3 to 4 kg is reached.
 
 Catfish actually never stop growing. Depending on environmental factors and feed, they keep on growing, but only very slowly after a certain point. Brood stock which is
 
 well fed and taken care of, can reach up to 8 kg in two years!
 
-The growth curve of catfish depends on the feed quality, the quality of the environment, the genetics of the catfish strain and the water temperature. The growth curve shown in Figure 16 is based on an ambient temperature of 25-27 $ ^{\circ} $ C and a high-quality extruded feed with a protein content of at least 45% at the beginning of the growth
+The growth curve of catfish depends on the feed quality, the quality of the environment, the genetics of the catfish strain and the water temperature. The growth curve shown in Figure 16 is based on an ambient temperature of 25-27 degrees C and a high-quality extruded feed with a protein content of at least 45% at the beginning of the growth
 
 curve and 40% once they reach the adult size.
 
@@ -2323,8 +2102,6 @@ that the farmer is less skilful in reaching his target of 1.5 kg.
 
 Figure 16. The growth curve for the African catfish.
 
-## Feed and feeding
-
 As fish farmers, we are not necessarily interested in individual growth rate figures, we
 
 want to know the average growth rate. When a farmer tells you that fish can reach 1 kg in
@@ -2337,11 +2114,11 @@ three months, he is most likely talking about a shooter that has reached this we
 
 IDEAL GAUSSIAN DISTRIBUTION
 
-the fish, the vertical axis represents the number of fish in the population with a certain weight.Figure 17. The Ideal Gaussian distribution in a batch of catfish. The horizontal axis represents the weight of
+Figure 17. The ideal Gaussian distribution in a batch of catfish. The horizontal axis represents the weight of the fish, the vertical axis represents the number of fish in the population with a certain weight.
 
 <div style='text-align: center;'><img src='images/img_064.png' alt='OCR图片'/></div>
 
-weight of the fish, the vertical axis represents the number of fish in the population with a certain weight.Figure 18. A less optimal Gaussian distribution in a batch of catfish. The horizontal axis represents the
+Figure 18. A less optimal Gaussian distribution in a batch of catfish. The horizontal axis represents the weight of the fish, the vertical axis represents the number of fish in the population with a certain weight.
 
 Grading fish before stocking them has been done badly: the runts and shooters
 
@@ -2355,19 +2132,17 @@ The genetics of the stocked fish originated from different batches and were of
 
 poor quality.
 
-This results in a poor survival rate and reduced profit. This results in as poor survival rate and reduced profit.
+This results in a poor survival rate and reduced profit.
 
-How to minimize the growth range?How to minimize the growth range?
+## How to minimize the growth range?
 
-You can minimize the growth range of the fish by grading them very uniformly, before You can minimize the growth range of the fish by grading them very uniformly, before
-
-final stocking into the grow-out pond. The juveniles should all be from the same mother final stocking into the grow-out pond. The juveniles should all be from the same mother and father (full siblings!) The moment you have stocked juveniles from different genetic and father (full siblings!). The moment you have stocked juveniles from different genetic backgrounds, there will be growth variation resulting in cannibalism, feed competition and backgrounds, there will be growth variation resulting in cannibalism, feed competition and higher feed conversion rates.higher feed conversion rates.
+You can minimize the growth range of the fish by grading them very uniformly before final stocking into the grow-out pond. The juveniles should all be from the same mother and father, full siblings. The moment you have stocked juveniles from different genetic backgrounds, there will be growth variation resulting in cannibalism, feed competition and higher feed conversion rates.
 
 <div style='text-align: center;'><img src='images/img_065.png' alt='OCR图片'/></div>
 
 ## 7.2 THE GROWTH RATE OF CATFISH
 
-The growth rate of catfish depends on their size; the smaller they are,the higher the
+The growth rate of catfish depends on their size; the smaller they are, the higher the
 
 growth rate. Look at the curves in Figures 17 and 18 and the table in Figure 19 with the
 
@@ -2375,7 +2150,7 @@ growth rates from 0.5 g to 1.3 kg on good quality feed and optimum water tempera
 
 It takes six months to grow a fish from 0.5 g to 1.3 kg.
 
-Growth (g) Days Growth rate (%) Feeding rate (%)
+Growth (g)  Days  Growth rate (%)  Feeding rate (%)
 
 0.5 - 1.0 6 12 6
 
@@ -2399,111 +2174,49 @@ Growth (g) Days Growth rate (%) Feeding rate (%)
 
 640 - 1280 60 1.2 2-1.2
 
-6 months period
-
-Growth (g)
-
-0.5 - 1.0 10
-
-1.0 - 2.0 12
-
-2.0 - 5.0 14
-
-5.0 - 10 20
-
-10 - 20 30
-
-20 - 40 60
-
-40 - 80 6 month
-
-80 - 160 Grow
-
-160 - 320
-
 Figure 19. Growth rate in relation to the weight of the catfish.
 
-Feeding rate (%)
+## 7.3 FEED QUALITY
 
-Chapter 7
+A definition of a good quality fish feed is a feed that meets all the nutritional requirements of the fish. So, the first thing you have to do is find out what they are. Luckily this has been done in many studies and experiments at scientific and practical level. It is important to know that a catfish is basically carnivorous, which makes the requirements for protein, in particular animal protein, relatively high. The digestive system is short and any ingredient which is not easily digestible will be less beneficial for their growth.
 
-7.3 FEED QUALITY 7.3 FEED QUALITY
+So, making a good quality catfish feed is easy in principle. The challenge, however, is to make a good quality catfish feed at a competitive price. Prices of fish feed ingredients change almost on a daily basis, so the formula for the feed is not static but a continuous process of adjusting it to the low-cost formulation without reducing the quality of the feed. Prices of ingredients are changing constantly due to demand and availability. The availability changes when the harvest of important ingredients, such as soya, goes up or down. The availability of fish meal depends on climate factors; it is a product which is harvested from natural resources and is limited in availability. Therefore, it is subject to large price fluctuations.
 
-A definition of a good quality fish feed is a feed that meets all the nutritional requirements. A definition of a good quality fish feed is a feed that meets all the nutritional requirements.
+Some ingredients contain essential nutritional factors. Without these ingredients the fish feed will not be complete. This will result in fish developing problems like ceasing growth and/or getting sick. For example, the essential amino acids in proteins cannot be replaced by any other amino acid. The same is true for vitamins and minerals. If the feed does not provide the basic requirements for these nutrients, the fish will certainly become sick and die.
 
-of the fish. So, the first thing you have to do is find out what they are. Luckily this has been of the fish. So, the first thing you have to do is find out what they are. Luckily this has been
+Fish feed can be seen as a chain of ingredients which meet the requirements of the fish. If one link in the chain is not sufficient, the chain will be as weak as the weakest link.
 
-done in many studies and experiments at scientific and practical level. It is important to done in many studies and experiments at scientific and practical level. It is important to know, that a catfish is basically carnivorous, which makes the requirements for protein, in know that a catfish is basically carnivorous, which makes the requirements for protein, in particular animal protein, relatively high. The digestive system is short and any ingredient particular animal protein, relatively high. The digestive system is short and any ingredient which is not easily digestible, will be less beneficial for their growth.which is not easily digestible, will be less beneficial for their growth.
+Making your own feed is not something you can do overnight.
 
-So, making a good quality catfish feed, is easy in principle. The challenge however, is to So, making a good quality catfish feed, is easy in principle. The challenge however, is to make a good quality catfish feed at a competitive price! Prices of fish feed ingredients make a good quality catfish feed at a competitive price! Prices of fish feed ingredients change almost on a daily basis; so, the formula for the feed is not static but a continuous change almost on a daily basis; so, the formula for the feed is not static but a continuous process of adjusting it to the low-cost formulation, without reducing the quality of the process of adjusting it to the low-cost formulation without reducing the quality of the
+Besides the feed formula, the appearance of the feed influences the quality and performance of the feed too.
 
-feed. Prices of ingredients are changing constantly due to demand and availability. The feed. Prices of ingredients are changing constantly due to demand and availability. The
+## Uniformity
 
-availability changes when the harvest of important ingredients, such as soya, goes up or availability changes when the harvest of important ingredients, such as soya, goes up or down. The availability of fish meal depends on climate factors; it is a product which is down. The availability of fish meal depends on climate factors; it is a product which is harvested from natural resources and limited available. Therefore, it is subject to large price harvested from natural resources and limited available. Therefore, it is subject to large price fluctuations.fluctuations.
+Feed is produced in different sizes. Depending on the size of the fish, the feed size will be bigger or smaller. The range of feed is shown in Appendix 6. High-quality feed has uniform particle sizes which all have the same appearance. Also, you cannot distinguish the ingredients inside the particles, such as corn, because they have been ground finely. Well-ground feed is more stable in water and is easier to digest.
 
-Some ingredients contain essential nutritional factors. Without these ingredients the fish Some ingredients contain essential nutritional factors. Without these ingredients the fish feed will not be complete. This will result in fish developing problems like ceasing growth feed will not be complete. This will result in fish developing problems like ceasing growth and/or getting sick. For example, the essential amino acids in proteins cannot be replaced and/or getting sick. For example, the essential amino acids in proteins cannot be replaced by any other amino acid. The same is true for vitamins and minerals. If the feed doesn't by any other amino acid. The same is true for vitamins and minerals. If the feed doesn't
+## Water stability
 
-provide the basic requirements for these nutrients,the fish will certainly become sick and provide the basic requirements for these nutrients,the fish will certainly become sick and
+The feed is given to the fish in the water and, if it is not eaten immediately, it can disintegrate and is wasted. Starter feeds, especially those which do not float, should be water stable for some time. The choice of ingredients and the machines used to produce the pellets make feed water stable.
 
-die.die.
+## Palatability
 
-Fish feed can be seen as a chain of ingredients which meet the requirements of the fish. If Fish feed can be seen as a chain of ingredients
+The feed should be tasty for the fish. This can be achieved with ingredients such as blood meal and fish oil. Special products can be added to the formula in order to improve the taste even more. As a result, the fish will eat more feed more quickly and the growth rate will improve.
 
-which meet the requirements of the fish. If one link in the chain is not sufficient, the chain will be as weak as the weakest link.one link in the chain is not sufficient, the chain will be as weak as the weakest link.
+The feed should be dust-free. Feed factories have a special machine to separate the dust from the feed particles. The dust is reclaimed in the process, so it is not wasted. However, if the feed does contain dust, it only pollutes the water and it does not benefit the fish at all. If the feed is not up to thorough handling in bags, for example carrying and piling up, it can cause a lot of dust.
 
-Making your own feed is not something you can do overnight!Making your own feed is not something you can do overnight!
+## Floating
 
-Besides the feed formula, the appearance of the feed influences the quality and performance Besides the feed formula, the appearance of the feed influences the quality and performance of the feed too.of the feed too.
+If the feed can float, it will allow you to have a good view of the feeding behaviour of the catfish. You will immediately notice when the fish have had enough. This way overfeeding can be easily avoided. Floating feed usually is produced with extruder pelletizing machines. Another advantage of feed from this kind of machine is that it is more digestible because it has been processed under high temperatures.
 
-## UniformityUniformity
+## Expiry date
 
-Feed is produced in different sizes. Depending on the size of the fish, the feed size will Feed is produced in different sizes. Depending on the size of the fish, the feed size will
+The expiry date of purchased feed should not be within three months. Feed millers can achieve this by drying the feed to at least 90% dry weight and adding antifungal additives.
 
-be bigger or smaller. The range of feed is shown in Appendix 6. High quality feed has be bigger or smaller. The range of feed is shown in Appendix 7. High quality feed has uniform particle sizes which all have the same appearance. Also, you cannot distinguish uniform particle sizes which all have the same appearance. Also, you cannot distinguish the ingredients inside the particles, such as corn, because they have been ground finely. the ingredients inside the particles, such as corn, because they have been ground finely. Well ground feed is more stable in water and is easier to digest.Well ground feed is more stable in water and is easier to digest.
+## 7.4 IS IT ADVISABLE TO MAKE YOUR OWN FEED?
 
-## Water stabilityWater stability
+Many fish farmers think about making their own feed. They believe it is something they can do easily alongside farming the fish. In their opinion it is also very profitable because it reduces the production costs of the fish. All this is based on assumptions and gossip from other farmers. It is an idea born out of ignorance, because if you know all the ins and outs of feed milling, you will certainly think twice before starting a feed mill yourself.
 
-The feed is given to the fish in the water and, if it is not eaten immediately, it can disintegrate The feed is given to the fish in the water and, if it is not eaten immediately, it can disintegrate and is wasted. Starter feeds, especially those which do not float, should be water stable for and is wasted. Starter feeds, especially those which do not float, should be water stable for
-
-some time. The choice of ingredients and the machines used to produce the pellets, make some time. The choice of ingredients and the machines used to produce the pellets, make
-
-feed water stable.feed water stable.
-
-## PalatabilityPalatability
-
-The feed should be tasty for the fish. This can be achieved with ingredients such as blood meal The feed should be tasty for the fish. This can be achieved with ingredients such as blood meal
-
-and fish oil. Special products can be added to the formula in order to improve the taste even and fish oil. Special products can be added to the formula in order to improve the taste even
-
-more. As a result, the fish will eat more feed more quickly and the growth rate will improve.more. As a result, the fish will eat more feed more quickly and the growth rate will improve.
-
-The feed should be dust free. Feed factories have a special machine to separate the dust from The feed should be dust free. Feed factories have a special machine to separate the dust from
-
-the feed particles. The dust is reclaimed in the process, so it's not wasted. However, if the feed the feed particles. The dust is reclaimed in the process, so it's not wasted. However, if the feed
-
-does contain dust, it only pollutes the water and it doesn't benefit the fish at all. If the feed does contain dust, it only pollutes the water and it doesn't benefit the fish at all. If the feed is not up thorough handling in bags, for example carrying and piling up, it can cause a lot of is not up to thorough handling in bags, for example carrying and piling up, it can cause a lot of dust.dust.
-
-## FloatingFloating
-
-If the feed can float, it will allow you to have a good view of the feeding behaviour of the If the feed can float, it will allow you to have a good view of the feeding behaviour of the catfish. You will immediately notice when the fish have had enough. This way overfeeding catfish. You will immediately notice when the fish have had enough. This way overfeeding can be easily avoided. Floating feed usually is produced with extruder pelletizing machines. can be easily avoided. Floating feed usually is produced with extruder pelletizing machines. Another advantage of feed from this kind of machine, is that it is more digestible because it Another advantage of feed
-
-has been processed under high temperatures.has been processed under high temperatures.
-
-## Expiry dateExpiry date
-
-The expiry date of purchased feedshould not be within three months. Feedmillers can achieve The expiry date of purchased feed should not be within three months. Feed millers can achieve this by drying the feed to at least 90% dry weight and adding antifungal additives.this by drying the feed to at least 90% dry weight and adding antifungal additives.
-
-7. 4 IS IT ADVISABLE TO MAKE YOU OWN FEED? 7.4 IS IT ADVISABLE TO MAKE YOUR OWN FEED?
-
-Many fish farmers think about making their own feed. They believe it is something theyMany fish farmers think about making their own feed. They believe it is something they
-
-can do easily alongside farming the fish.In their opinion it is also very profitable because it can do easily alongside farming the fish.In their opinion it is also very profitable because it
-
-reduces the production costs of the fish. All this is based on assumptions and gossip from reduces the production costs of the fish. All this is based on assumptions and gossip from other farmers. It's an idea born out of ignorance, because if you know all the ins and outs of other farmers. It's an idea born out of ignorance, because if you know all the ins and outs of feed milling, you will certainly think twice before starting a feed mill yourself.feed milling, you will certainly think twice before starting a feed mill yourself.
-
-Starting your own feed mill should only be considered if there is no alternative. Don't be a jack Starting your own feed mill should only be considered if there is no alternative. Don't be a jack
-
-of all trades and master of none! of all trades and master of none!
+Starting your own feed mill should only be considered if there is no alternative. Do not be a jack of all trades and master of none.
 
 Nowadays Nigeria has at least four professional feed millers with the professional equipment, purchased from overseas and owned by multinationals based in Europe and the USA. Their scale of production is massive (2000-4000 tons per month) and efficient. They have good
 
@@ -2517,23 +2230,15 @@ and have a wide distribution network. Before starting your own feed mill at farm
 
 Let's have a look at a professional feed mill and list all the stages which feed ingredients go through, before they become fish feed (Figure 20).
 
-- Warehouse for stocking ingredients such as soya, corn, fish meal, concentrate,
-
-pre-mixes etcetera. Intake of feed ingredients; from a bunker to the hammer mill.
-
-From the hammer mill to the mixer.
-
-From the mixer to the extruder or pelletizing machine, where the ingredients aretransformed into pre-feed.
-
-From the extruder to a dryer, where the pre-feed is dried.
-
-From the dryer to a screener to get rid of dust?
-
-From the screener to a coating machine where the feed possibly is coated withfish oil or soya oil.
-
-From the coating machine to the weighing and packaging machine.
-
-## From the packaging machine to a warehouse for fish feed where it is ready to be
+- Warehouse for stocking ingredients such as soya, corn, fish meal, concentrate, premixes, et cetera.
+- Intake of feed ingredients from a bunker to the hammer mill.
+- From the hammer mill to the mixer.
+- From the mixer to the extruder or pelletizing machine, where the ingredients are transformed into pre-feed.
+- From the extruder to a dryer, where the pre-feed is dried.
+- From the dryer to a screener to get rid of dust.
+- From the screener to a coating machine where the feed is possibly coated with fish oil or soya oil.
+- From the coating machine to the weighing and packaging machine.
+- From the packaging machine to a warehouse for fish feed where it is ready to be distributed.
 
 sold.
 
@@ -2613,7 +2318,7 @@ Make a financial plan for the feed you need before you stock your fingerlings or
 
 lower number of fish.lower number of fish.
 
-Optimum or maximum feeding level
+## Optimum or maximum feeding level
 
 The optimum or maximum feeding level is the level you have to obtain to maximise your profit. It is the quickest growth you can achieve with the fish you have stocked under your
 
@@ -2621,7 +2326,7 @@ farming conditions. Only experienced fish farmers are able to achieve this level
 
 complete growth cycle.
 
-Overfeeding
+## Overfeeding
 
 When you overfeed, you feed more than the fish can eat. If you use floating feed, this will
 
@@ -2641,31 +2346,13 @@ RELATIONSHIP BETWEEN FEEDING LEVEL, GROWTH AND FCR
 
 Figure 21. The relation between feeding level, growth and feed conversion rate (FCR).
 
-How to feed?
+## How to feed?
 
-Feeding the catfish should be done by experienced staff, because at feeding time you have
-
-contact and interaction with your fish. The way they eat, gives you information about their health, whether to increase or decrease the feed given the following day, about the uniformity of the fish and whether the
-
-amount of feed constant for one week and increase it drastically the next week. If you
-
-fish are growing well. Normally, the feed given has to increase on a daily basis. Many farmers are reluctant to do this. Instead they keep the
-
-study the feeding pattern of many farms, you will notice that they like to feed in numbers of bags. 1 bag is 15 kg, so it will be 15,30,45 kg a day, which means that the increase of feed is one full bag. So, the pattern will be like this: 15 kg for 1 week, an increase to 30 kg the next week for 1 day only, and the second day of next week back to 15 kg again or
-
-even less. It doesn't work this way. You should never increase with a full bag at once and if
-
-you do so, it will result in poor feed intake the next day. There is not a steady increase in the amount of feed given. This will certainly affect the growth efficiency and the conversion efficiency of feed into fish. Why farmers are doing it like this, is obvious: to feed full bags of feed, doesn't require weighing out the feed, so feeding can be carried out very quickly.
-
-It's laziness which makes them to do it like this.
+Feeding the catfish should be done by experienced staff, because at feeding time you have contact and interaction with your fish. The way they eat gives you information about their health, whether to increase or decrease the feed given the following day, about the uniformity of the fish, and whether the fish are growing well. Normally, the feed given has to increase on a daily basis. Many farmers are reluctant to do this. Instead they keep the amount of feed constant for one week and increase it drastically the next week. If you study the feeding pattern of many farms, you will notice that they like to feed in numbers of bags. One bag is 15 kg, so it will be 15, 30, 45 kg a day, which means that the increase of feed is one full bag. So, the pattern will be like this: 15 kg for 1 week, an increase to 30 kg the next week for 1 day only, and the second day of the next week back to 15 kg again or even less. It does not work this way. You should never increase with a full bag at once and if you do so, it will result in poor feed intake the next day. There is not a steady increase in the amount of feed given. This will certainly affect the growth efficiency and the conversion efficiency of feed into fish. Why farmers do it like this is obvious: to feed full bags of feed does not require weighing out the feed, so feeding can be carried out very quickly. It is laziness that makes them do it like this.
 
 <div style='text-align: center;'><img src='images/img_068.png' alt='OCR图片'/></div>
 
-## Chapter 7
-
-If you want to grow catfish efficiently, you need to increase the amount of feed on a daily basis. If you want to grow catfish efficiently, you need to increase the amount of feed on a daily basis. The daily increase should be based on the feeding schedules provided by the feed companies. The daily increase should be based on the feeding schedules provided by the feed companies. Appendix 7 shows you an example of a feeding schedule; it is a simplified version but it serves Appendix 6 shows you an example of a feeding schedule; it is a simplified version but it serves
-
-the purpose.the purpose.
+If you want to grow catfish efficiently, you need to increase the amount of feed on a daily basis. The daily increase should be based on the feeding schedules provided by the feed companies. Appendix 6 shows you an example of a feeding schedule; it is a simplified version but it serves the purpose.
 
 A feeding schedule however, is not more than advice; differences occur for different reasons, such as lower water temperatures during harmattan, disturbance of the fish, bad water quality or the fish are unwell. If you cannot finish the feed scheduled for a pond during the day, it has to be found out why this is happening. This calls for action. Reduce the level of feed to the
 
@@ -2687,11 +2374,7 @@ Total biomass: 2000 x 0.006 kg = 12 kg
 
 Feed given: 12 x 5/100=0.6 kg
 
-The first day when you have stocked the fish in the pond, you will not give the full
-
-quantity of feed but only 50% of it. In 2 days, you should reach the level of 0.6 kg and
-
-## increase from that point onwards.
+The first day when you have stocked the fish in the pond, you will not give the full quantity of feed but only 50% of it. In 2 days, you should reach the level of 0.6 kg and increase from that point onwards.
 
 Overfeeding of just stocked fish will increase the risk of outbreaks of disease. Keep them a bit
 
@@ -2703,17 +2386,9 @@ When you start feeding a pond, start with a little bit to see the initial respon
 
 The number of times a day you feed depends on the size of the fish. Smaller fish, like the hatchery stage, need feeding more frequently during the day than bigger fish, like the grow-out stage. Catfish under 20 g are fed between five to seven times a day. Fish above 20 g are
 
-fed three to five times a day.
+fed three to five times a day. Keep in mind how many feedings there are and distribute the feed equally over the day. If possible, feed in the evening too and also during the night. In some cases, lack of manpower will not allow evening or night feeding, although it is advisable for fish in hatcheries to feed frequently.
 
-in mind how many there are to go and distribute the feed equally over the day. If possible, feed
-
-Feed and feeding
-
-in the evening too and also during the night. In some cases, lack of manpower will not allow evening or night feeding although it is advisable for fish in hatcheries to feed frequently.
-
-The feed should be weighed out for the full day and put into a bucket which is placed near the pond or tank side. The bucket should have a cover so that rain cannot spoil the feed. For hygiene the feed is never given by
-
-hand, but with a spoon or a small bucket. At each feeding you keep
+The feed should be weighed out for the full day and put into a bucket which is placed near the pond or tank side. The bucket should have a cover so that rain cannot spoil the feed. For hygiene, the feed is never given by hand, but with a spoon or a small bucket.
 
 If there is a shortage of manpower at the farm, you can decide to use feeding machines. Some examples of these machines are given in photos 25 and 26.
 
@@ -2725,39 +2400,29 @@ The self-feeder is very popular at catfish farms in Europe. These machines need 
 
 though. They can get dirty easily and mostly have to be cleaned on a daily basis. If the machines need electrical power, you have to run on power during the period you want to feed. In Photo 26 you can see a self-feeder used in a catfish recirculation system. When the fish touch the iron pin, the feed will fall down accordingly.
 
-The advantage of feeding machines
+## The advantage of feeding machines
 
 A feeding machine reduces the amount of manpower at the farm, which is very important in areas that lack manpower or where manpower is very expensive.
 
-If the machine operates well, the fish will eat in a stress-free environment because there is no
+If the machine operates well, the fish will eat in a stress-free environment because there is no disturbance. You can restrict the feeding but not the speed at which they consume.
+
+In Nigeria hardly any farmer uses feeding machines; hand feeding is the more favourable option.
 
 <div style='text-align: center;'><img src='images/img_069.png' alt='OCR图片'/></div>
 
-disturbance. You can restrict the feeding but not the speed at which they consume!
-
-In Nigeria hardly any farmer uses feeding machines, hand feeding is the more favourable option.
-
-gradually is rolled up so that the feed is released into the water. The mechanism consists of a clock with a strong spring which runs for 12 or 24 hours.
-
-Chapter 7
+[UNCLEAR OCR: description of Photo 25 mechanical feeder]
 
 <div style='text-align: center;'><img src='images/img_070.png' alt='OCR图片'/></div>
 
 <div style='text-align: center;'><img src='images/img_071.png' alt='OCR图片'/></div>
 
-Photo 26.Photo 26. A Self-feeder is a feeding machine that is able to adjust the amount of feed to the feeding behaviour of the fish. At present the feed has been finished and the buckets are empty. A self-feeder. This is a feeding machine that is able to adjust the amount of feed to the feeding behaviour of the fish. At present the feed has been finished and the buckets are empty.
+Photo 26. A self-feeder. This is a feeding machine that is able to adjust the amount of feed to the feeding behaviour of the fish. At present the feed has been finished and the buckets are empty.
 
-Different feed for different growth stages and feed qualityDifferent feed for different growth stages and feed quality
+## Different feed for different growth stages and feed quality
 
-The feed range for catfish shows that there are a lot of different sizes; from 0.1 mm to 9 The feed range for catfish shows that there are a lot of different
+The feed range for catfish shows that there are a lot of different sizes, from 0.1 mm to 9 mm, from fry to broodstock. Appendix 6 shows you the details for each type of feed and the proportions of protein and fat included. It is obvious that the starter feed for small catfish requires a higher percentage of protein than the feed for bigger and older fish. Apart from the size, most feed millers offer various qualities of feed in different price ranges.
 
-## sizes; from 0.1 mm to 9
-
-mm, from fry to brood stock. Appendix 6 shows you the details for each type of feed and mm, from fry to brood stock. Appendix 7 shows you the details for each type of feed and the proportions of protein and fat included. It is obvious that the starter feed for small the proportions of protein and fat included. It is obvious that the starter feed for small catfish, requires a higher percentage of protein than the feed for bigger and older fish. catfish, requires a higher percentage of protein than the feed for bigger and older fish. Apart from the size, most feed millers offer various qualities of feed in different price ranges. Apart from the size, most feed millers offer various qualities of feed in different price ranges.
-
-The quality of feed is expressed in the protein and fat percentage of the feed.The higher The quality of feed is expressed in the protein and fat percentage of the feed.The higher
-
-these percentages, the more expensive the feed will be, but it will usually perform better. these percentages, the more expensive the feed will be, but it will usually perform better. The feed mills use terms like 'superior', 'essential' and 'economy feed' and farmers have to The feed mills use terms like 'superior', 'essential' and 'economy feed' and farmers have to make choices about which feed to purchase and when to switch to a cheaper kind.make choices about which feed to purchase and when to switch to a cheaper kind.
+The quality of feed is expressed in the protein and fat percentage of the feed. The higher these percentages, the more expensive the feed will be, but it will usually perform better. The feed mills use terms like "superior", "essential" and "economy feed" and farmers have to make choices about which feed to purchase and when to switch to a cheaper kind.
 
 The fact that protein levels and fat levels are high does not always mean that the feed will
 
@@ -2769,13 +2434,9 @@ needs of the fish. The easiest way to have a balanced diet, is to include a larg
 
 the fish feed. Feed needs a highly scientific approach to make a balanced cost-effective diet.
 
-Feed and feeding
-
 The same thing applies for the proportion of fat included. The best option is to use fish oil, but this is very expensive too; alternatives are vegetable fats such as soya oil, but the profile is not as good as fish oil and catfish like the taste of fish oil very much.
 
-benefits the fish. For example, the leather of a shoe contains a high level of protein, but the digestibility of the leather is almost zero and will not be of any use to the fish!
-
-Another important characteristic of feed ingredients is the digestibility. Digestibility means how well the feed can be digested and how well it
+Another important characteristic of feed ingredients is digestibility. Digestibility means how well the feed can be digested and how well it benefits the fish. For example, the leather of a shoe contains a high level of protein, but the digestibility of the leather is almost zero and will not be of any use to the fish.
 
 If you want to know the quality of a feed that is introduced in the market, the best way forward is to test it on the fish. An old saying on this matter is: THE PROOF OF THE PUDDING IS IN THE EATING! However, feed trials at farm level are difficult to do and will not always give a reliable answer about the quality of the feed.
 
@@ -2797,19 +2458,15 @@ happy, since the fat is not consumed. In addition, fat makes the fish weak durin
 
 and sales.
 
-7. 6 FEED CONVERSION RATE AND
-
-THE ECONOMICS OF FEED
+## 7.6 FEED CONVERSION RATE AND THE ECONOMICS OF FEED
 
 The feed conversion rate is simply the weight of feed (kg) you have given to the fish divided by their weight gain (kg) during a certain period. This terminology is not only used for fish but for all animals which are grown commercially. It is the basic equation to find out the
 
 economic value of the production, whether it is production of fish, chicken, pork etcetera.
 
-Chapter 7
-
 FCR = weight of feed given (kg)
 
-?eight ?ain by fish (kg)
+weight gain by fish (kg)
 
 Example 8. How to calculate the FCR?
 
@@ -2819,23 +2476,21 @@ months with a total cumulative feed amount of 1150 kg. All the fish were harvest
 
 and weighed 1015 kg.
 
-To calculate the FCR
+To calculate the FCR:
 
 <div style='text-align: center;'><img src='images/img_072.png' alt='OCR图片'/></div>
 
-Total ?eed given: 1150 kg
+Total feed given: 1150 kg
 
 Total initial weight: 1000 juveniles x 9 g = 9000 g (9 kg)
 
 Total harvest weight: 1015 kg
 
-Please recall that: FCR = weight of feed given
+Please recall that: FCR = weight of feed given / weight gain by fish
 
-?eight ?ain by fish
+FCR = 1150 kg / (1015 - 9) kg
 
-FCR=1150kg(1015-9)kg
-
-FCR=1.13
+FCR = 1.13
 
 Example 9. What is the economic value of the FCR?
 
@@ -2845,13 +2500,9 @@ The assumed feed cost is N 375/kg.
 
 Next, the cost to produce 1 kg of fish based on feed cost only:
 
-1. 13x N 375/kg = N 424/kg
+1.13 x N 375/kg = N 424/kg
 
-Other costs are incurred for juveniles, energy, labour etcetera. The feed costs are called Other costs are incurred for juveniles, energy, labour etcetera. The feed costs are called direct costs; They are related directly to the production. Indirect costs are costs which are direct costs; They are related directly to the production. Indirect costs are costs which are
-
-not related to the production, such as labour; whether or not you sell, you will still have not related to the production, such as labour; whether or not you sell, you will still have
-
-labour costs. In chapter 12 on economics we will go into this in detail.labour costs. In the chapter 12 on economics we will go into this in detail.
+Other costs are incurred for juveniles, energy, labour, et cetera. The feed costs are called direct costs; they are related directly to the production. Indirect costs are costs which are not related to the production, such as labour; whether or not you sell, you will still have labour costs. In Chapter 12 on economics we will go into this in detail.
 
 So, the feed costs don't consist of the purchasing price only. They are calculated by So, the feed costs don't consist of the purchasing price only. They are calculated by multiplying the performance of the feed by the purchase price of the feed. Many farmers multiplying the performance of the feed by the purchase price of the feed. Many farmers only look at the initial costs of the feed and make the decision from that point of view only look at the initial costs of the feed and make the decision from that point of view
 
@@ -2911,103 +2562,83 @@ When you start selling, you will have a very good estimate of the biomass in the
 
 once. You will also be able to make a good prediction about the average size of the fish,
 
-## Chapter 7
+which is also important for the buyers to know. In Chapter 10 on fish farm management I have given examples and formats and how to fill them out.
 
-which is also important for the buyers to know.In chapter 10 on fish farm management Iwhich is also important for the buyers to know.In chapter 10 on fish farm management I
+## A feed conversion rate of less than 1?
 
-have given examples and formats and how to fill them out.give examples and formats and how to fill them out.
-
-A feed conversion rate ??? less than 1?
-
-When students come to our fish farm for an ITtraining, I always raise the question whether
+When students come to our fish farm for an IT training, I always raise the question whether
 
 the FCR can be below 1. That means that less than 1 kg of feed can grow more than 1 kg
 
-of fish. Many IT-students believe it is not possible but they are wrong!
+of fish. Many IT students believe it is not possible but they are wrong.
 
 Example 11. How to get a FCR below 1 for growing juveniles?
 
 Stocking: 5384 pieces of juveniles at 5.2 g average weight
 
-Total kg:28
+Total kg: 28
 
 Feeding: 233.7 kg in a period of 45 days
 
-Harvest: 4303 pieces of 72.0 g? 111 pieces 25.2 g (runts) and 16 pieces of 312.5 g
+Harvest: 4303 pieces of 72.0 g, 111 pieces of 25.2 g (runts) and 16 pieces of 312.5 g
 
 (shooters)
 
 Total kg: 317.6 kg
 
-FCR=233.7/289.6=0.81
+FCR = 233.7 / 289.6 = 0.81
 
 Survival rate = 4430/5384 x 100% = 80%
 
-The runts should be disposed and not restocked with other fish of the same size,
+The runts should be disposed of and not restocked with other fish of the same size.
 
 How is it possible to have an FCR below 1?
 
-The feed has a dry weight of approximately 90% ,the fish have a dry weight of 22%. So,
+The feed has a dry weight of approximately 90%, the fish have a dry weight of 22%. So,
 
 when you are growing fish, inevitably you are growing water. Based on dry weight, you will always have losses and the FCR can never be less than 1. The feed used in this result, is a good quality feed with high protein levels (50%) and high digestibility.
 
 ## 7.7 FEED STORAGE
 
-Feed should be stored in a cool and dry place. It's written on the label. Apart from the Feed should be stored in a cool and dry place. It's written on the label. Apart from the specification of the feed, you can also look at the production date, expiry date and the specification of the feed, you can also look at the production date, expiry date and the
+Feed should be stored in a cool and dry place. It is written on the label. Apart from the specification of the feed, you can also look at the production date, expiry date and the NAFDAC number. All of these are important and should be checked before buying the feed. The bags should be in good condition, without holes for instance, and the bags should look clean and without dust. The shelf life of feed can be six months to a maximum of a year, as long as the feed is stored well, far away from heat and moisture.
 
-NAFDAC-number. All of these are important and should be checked before buying theNAFDAC number. All of these are important and should be checked before buying the
+Buy the feed from a supplier who has a good turnover and a regular supply from the factory. If you have a big farm, you can negotiate directly with the factory, but then you must be willing to buy a trailer of feed, which means 30 tons at once. When you use a 20-foot or 40-foot container for feed storage, the only adjustment you have to make is to roof it. Without a roof the container will become extremely hot inside, which is not acceptable for fish feed, and this will definitely reduce its shelf life.
 
-feed. The bags should be in a good condition, without holes for instance, and the bags feed. The bags should be in a good condition, without holes for instance, and the bags should look clean, and without dust. The shelf life of feed can be six months to a maximum should look clean and without dust. The shelf life of feed can be six months to a maximum
+If you load your feed on wooden pallets, always clean under them each time you load. Stock the feed in layers of 5 bags and maximise the height of the pile at 20 bags, which will result in 100 bags per pallet with a total weight of 1500 kg. You should buy new feed before the old stock is finished but finish the old feed before starting on the latest consignment. "First in, first out" is the motto. So, never stack the new feed over the older feed in such a way that you cannot access the older feed.
 
-of a year, as long as that the feed is stored well: far away from heat and moisture.of a year, as long as that the feed is stored well, far away from heat and moisture.
-
-Buy the feed from a supplier who has a good turnover and a regular supply from the Buy the feed from a supplier who has a good turnover and a regular supply from the factory. If you have a big farm, you can negotiate directly with the factory, but then you factory. If you have a big farm, you can negotiate directly with the factory, but then you must be willing to buy a trailer of feed, which means 30 tons at once. When you use a must be willing to buy a trailer of feed, which means 30 tons at once. When you use a 20ft or 40-ft container for feed storage, the only adjustment you have to make is to roof 20-ft or 40-ft container for feed storage, the only adjustment you have to make is to roof
-
-it. Without a roof the container will become extremely hot inside, which is not acceptable it. Without a roof the container will become extremely hot inside, which is not acceptable
-
-for fish feed, and this will definitely reduce its shelf life for fish feed because this will definitely reduce its shelf life.
-
-If you load your feed on wooden pallets, always clean under them each time you load. If you load your feed on wooden pallets, always clean under them each time you load. Stock the feed in layers of 5 bags and maximise the height of the pile at 20 bags, which Stock the feed in layers of 5 bags and maximise the height of the pile at 20 bags, which
-
-will result in 100 bags per pallet with a total weight of 1500 kg. You should buy new will result in 100 bags per pallet with a total weight of 1500 kg. You should buy new
-
-feed before the old stock is finished but finish the old feed before starting on the latest feed before the old stock is finished but finish the old feed before starting on the latest consignment. "First in, first out" is the motto! So, never stack the new feed over the older consignment. "First in, first out" is the motto! So, never stack the new feed over the older feed in such a way that you cannot access the older feed. feed in such a way that you cannot access the older feed.
-
-Note.Note.Note. Empty feed bags have value, so don't throw them away. Instead keep them in dozens. Empty feedbags have value, so don't throw them away. Instead keep them in dozens.
-
-The price of a dozen empty feed bags can be up to HH 200. A farm producing 1 million kg of 200. A farm producing 1 million kg fish in a year can gain of fish in a year can gain H 120,000 a month from empty feedbags and reduce a lot of waste! H 120,000 a month from empty feed bags and reduce a lot of
+Note. Empty feed bags have value, so do not throw them away. Instead keep them in dozens. The price of a dozen empty feed bags can be up to N 200. A farm producing 1 million kg of fish in a year can gain N 120,000 a month from empty feed bags and reduce a lot of waste.
 
 <div style='text-align: center;'><img src='images/img_073.png' alt='OCR图片'/></div>
 
 <div style='text-align: center;'><img src='images/img_074.png' alt='OCR图片'/></div>
 
+## 8
+
 REPRODUCTION OF THE AFRICAN CATFISH
 
-8. 1 INTRODUCTION
+8.1 Introduction
 
-8. 4 SPAWNING PROCEDURES
+8.2 Brood stock selection and maintenance
 
-8. 2 BROOD STOCK SELECTION AND MAINTENANCE
+8.3 Water: quality, storage and temperature
 
-8. 5 FEEDING FRY
+8.4 Spawning procedures
 
-8. 3 WATER: QUALITY, STORAGE AND TEMPERATURE
+8.5 Feeding fry
 
-8. 6 GRADING ACCORDING TO SIZE
+8.6 Grading according to size
 
-8. 7 SELLING FINGERLINGS AND JUVENILES
+8.7 Selling fingerlings and juveniles
 
-8. 8 HATCHERY SYSTEMS
+8.8 Hatchery systems
 
-8. 9 GREEN WATER
+8.9 Green water
 
-8. 10 HYBRIDISATION
+8.10 Hybridisation
 
-8. 11 DISCUSSION
+8.11 Discussion
 
-Chapter 8
-
-8. 1 INTRODUCTION
+## 8.1 INTRODUCTION
 
 The reproduction of African catfish is not just about following a recipe to get results! It
 
@@ -3023,55 +2654,19 @@ It all starts with acquiring good quality brood stocks. Unfortunately, it is dif
 
 from other farms. The best way forward is to select catfish from good farmers who sell fish for consumption and/or select them from your own fish which you grow for consumption.
 
-The first selection takes place for the general performance of a group of fish in a particular The first selection takes place for the general performance of a group of fish in a particular
+The first selection takes place from the general performance of a group of fish in a particular pond. Have they done fairly well, in terms of little disease problems, low mortality and excellent growth? Then you should start to select the biggest females and males from this group when the time for harvesting and selling the fish from this pond has arrived. Also look out for fish in good condition without deformities. If the fish weigh between 1 and 2 kg, the females already have their bellies full of eggs. This is considered a bad sign. Females less than nine months old should not yet be mature. Therefore, you should select female catfish for late maturation. As long as the females are not yet mature, they convert all the feed they consume to somatic growth, which means more meat. This is exactly what a grow-out farmer wants. The moment a female matures, the majority of the feed will be used for producing eggs. Some farmers ask for small broodstock because it is cheap, but I believe fish for broodstock should weigh at least 2.5 kg and more and be at least one year old.
 
-pond. Have they done fairly well, in terms of little disease problems, low mortality and pond. Have they done fairly well, in terms of little disease problems, low mortality and
+In order to avoid inbreeding, never use the females and males from the same batch of fish. Most likely, this fish population will consist of full siblings, which will inbreed when they are used for broodstock.
 
-excellent growth? Then you should start to select the biggest females and males from this excellent growth? Then you should start to select the biggest females and males from this group, when the time for harvesting
+When you want to start your own hatchery, start with fixing your broodstock facility before building the actual hatchery. Give your fish time to settle in and grow and keep them in good condition.
 
-and selling the fish from this pond has arrived. Also group, when the time for harvesting and selling the fish from this pond has arrived. Also look out for fish in good condition without deformities. If the fish weigh between 1 and 2 look out for fish in good condition without deformities. If the fish weigh between 1 and 2 kg, the females already have their bellies full of eggs. This is considered a bad sign. Females kg, the females already have their bellies full of eggs. This is considered a bad sign. Females
-
-less than nine months old, should not yet be mature. Therefore you should select female less than nine months old, should not yet be mature. Therefore, you should select female
-
-catfish for late maturation. As long as the females are not yet mature, they convert all the catfish for late maturation. As long as the females are not yet mature, they convert all the feed they consume to somatic growth, which means more meat. This is exactly what a feed they consume to somatic growth, which means more meat. This is exactly what a grow-out farmer wants. The moment a female matures, the majority of the feed will be grow-out farmer wants. The moment a female matures, the majority of the feed will be used for producing eggs. Some farmers ask for small brood stock because it is cheap, but I used for producing eggs. Some farmers ask for small brood stock because it is cheap, but
-
-I believe fish for brood stock should weigh at least 2.5 kg and more and be at least one believe fish for brood stock should weigh at least 2.5 kg and more and be at least be one
-
-In order to avoid inbreeding, never use the females and males from the same batch of fish. In order to avoid inbreeding, never use the females and males from the same batch of fish. Most likely, this fish population will consist of full siblings, which will inbreed when they Most likely, this fish population will consist of full siblings, which will inbreed when they are used for brood stock. are used for brood stock.
-
-When you want to start your own hatchery, start with fixing your brood stock facility When you want to start your own hatchery, start with fixing your brood stock facility
-
-before building the actual hatchery. Give your fish time to settle in and grow and wean before building the actual hatchery. Give your fish time to settle in and grow and wean
-
-them in a good condition.them in a good condition.
-
-The brood stock most often used by farmers, is called the 'Dutch Clarias'. What does
-
-this mean? The Netherlands started farming African catfish as far back as 1982. At that
-
-African catfish in collaboration with a university in Central Africa (CAR) in Bangui. For this purpose, African catfish were with a university in Central African Republic (CAR) in Bangui. For this purpose, African catfish were transported to the Netherlands, not only from CAR, but also from South transported to the Netherlands, not only from central Africa, but also from South Africa.
-
-Africa and Israel. This blend of catfish is called 'The Dutch strain' and has been imported and Israel. This blend of catfish is called 'The Dutch strain' and has been imported several
-
-Reproduction of the African catfish
-
-several times to Nigeria. Farmers like this catfish strain for their growth, domestication times to Nigeria. Farmers like this catfish strain for their growth, domestication and the ease by which they can be kept together in high densities. You can still purchase brood and the ease by which they can be kept together in high densities. You can still purchase brood stock directly from one hatchery in the Netherlands, but it's a tedious and expensive stock directly from one hatchery in the Netherlands, but it's a tedious and expensive process. In order to import them, you need to acquire an import license from the Nigerian process. In order to import them, you need to acquire an import license from the Nigerian
-
-government. They will check your facility and request you among other things, to make a government. They will check your facility and request you, among other things, to make a
-
-time the University of Wageningen was doing research on African catfish in collaboration time the University of Wageningen was doing research on
-
-quarantine facility before the licence is issued.quarantine facility before the licence is issued.
+The broodstock most often used by farmers is called the "Dutch Clarias". What does this mean? The Netherlands started farming African catfish as far back as 1982. At that time the University of Wageningen was doing research on African catfish in collaboration with a university in Central African Republic (CAR) in Bangui. For this purpose, African catfish were transported to the Netherlands, not only from CAR, but also from South Africa and Israel. This blend of catfish is called "the Dutch strain" and has been imported several times to Nigeria. Farmers like this catfish strain for its growth, domestication and the ease with which it can be kept together in high densities. You can still purchase broodstock directly from one hatchery in the Netherlands, but it is a tedious and expensive process. In order to import them, you need to acquire an import licence from the Nigerian government. They will check your facility and request you, among other things, to make a quarantine facility before the licence is issued.
 
 ## How to keep your brood stock?
 
 Brood stock can be kept inside or outside, but should not be exposed to too much sunlight
 
-and the water temperature should be preferably between 25 and 27 $ ^{\circ} $ C.The density of
-
-the number of brood stock per $ m_{2} $ should be at a maximum of 10 to 15 pieces per $ m_{2} $ . Stocking them at a density of less than 2 per $ m_{2} $ , can cause problems too. Freshly stocked premature brood stock in low densities start fighting, which causes a lot of problems, such as infections and mortality. Fighting cannot always be avoided though. Whenever you
-
-buy catfish brood stock, add 2 kg/m $ _{3} $ of salt to the water in order to avoid infections and
+and the water temperature should preferably be between 25 and 27 degrees C. The density of the number of broodstock per m2 should be at a maximum of 10 to 15 pieces per m2. Stocking them at a density of less than 2 per m2 can cause problems too. Freshly stocked premature broodstock in low densities start fighting, which causes a lot of problems, such as infections and mortality. Fighting cannot always be avoided though. Whenever you buy catfish broodstock, add 2 kg/m3 of salt to the water in order to avoid infections and
 
 improve the healing of the skin after fighting.
 
@@ -3103,19 +2698,11 @@ is very high compared to species like Tilapia. The body weight of a female consi
 
 <div style='text-align: center;'><img src='images/img_075.png' alt='OCR图片'/></div>
 
-Chapter 8
-
 For example, a 4 kg female contains between 200 and 600 g of eggs, which is equivalent to 100,000 to 300,000 pieces. If the spawning and rearing procedures are carried out well, this results in 20,000 to 60,000 juveniles. The female can be used at least two times a year.
 
 So, one good female can yield up to 100,000 juveniles a year!
 
-Male catfish usually are sacrificed in order to collect their sperm, but an operation is also Male catfish usually are sacrificed in order to collect their sperm, but an operation is also possible. In this case you need aesthesia to put the fish to sleep and a sharp surgical knife possible. In this case you need aesthesia to put the fish to sleep and a sharp surgical knife to make a small incision in the belly. Then you take out part of the testes by cutting a to make a small incision in the belly. Then you take out part of the testes by cutting a
-
-piece off or suck it out with a syringe, if the testes are very big and full. The advantage of piece off or suck it out with a syringe, if the testes are very big and full. The advantage of
-
-operating is that you can spare the males and use them again. Also, it's good to save the operating is that you can spare the males and use them again. Also, it's good to save the
-
-males, when you want to carry out a selection programme to improve your catfish strain.males when you want to carry out a selection programme to improve your catfish strain.
+Male catfish usually are sacrificed in order to collect their sperm, but an operation is also possible. In this case you need anaesthesia to put the fish to sleep and a sharp surgical knife to make a small incision in the belly. Then you take out part of the testes by cutting a piece off or sucking it out with a syringe, if the testes are very big and full. The advantage of operating is that you can spare the males and use them again. Also, it is good to save the males when you want to carry out a selection programme to improve your catfish strain.
 
 The sperm of the male varies a lot in quality and it cannot be accessed otherwise than
 
@@ -3213,8 +2800,6 @@ The water temperature is very important for good hatching results. It reflects t
 
 night temperatures for Abuja, Jos and Lagos (Figure 22).
 
-Reproduction of the African catfish
-
 <div align="center">
 
 Abuja - Average temperatures
@@ -3225,141 +2810,9 @@ Average minimum and maximum temperatures over the year in Abuja.
 
 <table border="1"><tr><td>Month</td><td>Jan</td><td>Feb</td><td>Mar</td><td>Apr</td><td>May</td><td>Jun</td><td>Jul</td><td>Aug</td><td>Sep</td><td>Oct</td><td>Nov</td><td>Dec</td></tr><tr><td>Min(℃)</td><td>20</td><td>26</td><td>24</td><td>25</td><td>20</td><td>18</td><td>22</td><td>18</td><td>18</td><td>21</td><td>16</td><td>16</td></tr><tr><td>Max(℃)</td><td>35</td><td>37</td><td>37</td><td>36</td><td>33</td><td>31</td><td>29</td><td>29</td><td>30</td><td>32</td><td>34</td><td>35</td></tr><tr><td>Min(℃F)</td><td>68</td><td>79</td><td>75</td><td>77</td><td>68</td><td>64</td><td>72</td><td>64</td><td>64</td><td>70</td><td>61</td><td>61</td></tr><tr><td>Max(℃F)</td><td>95</td><td>99</td><td>99</td><td>97</td><td>91</td><td>88</td><td>84</td><td>84</td><td>86</td><td>90</td><td>93</td><td></td></tr></table>
 
-Month
-
-Min（°C)
-
-Max (°C)
-
-Min（°F)
-
-Max (°F)
-
-Month
-
-Min (°C)
-
-Max (°C)
-
-Min (°F)
-
-Jan
-
-Max (°F)
-
-22
-
-Jan
-
-32
-
-20
-
-72
-
-35
-
-90
-
-68
-
-Feb
-
-95
-
-26
-
-37
-
-79
-
-99
-
-Mar
-
-Jan
-
-24
-
-14
-
-37
-
-28
-
-75
-
-57
-
-99
-
-82
-
-Apr
-
-25 72
-
-36 84
-
-77 Aug
-
-97 18
-
-May 29
-
-20 64
-
-33 84
-
-68 Sep
-
-91 18
-
-Jun 30
-
-18 64
-
-31 86
-
-64 Oct
-
-88 21
-
-Jul 32
-
-22 70
-
-29 90
-
-Nov 30
-
-16 61
-
-34 86
-
-61 Mar
-
-93 18
-
-32
-
 Average minimum and maximum temperatures over the year in Jos.
 
-64
-
 Jos - Average temperatures
-
-90
-
-Dec
-
-16 19
-
-35 31
-
-61 66
-
-88
 
 Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 
@@ -3371,53 +2824,9 @@ Min (°F) 57 61 64 66 64 64 63 63 63 61 57
 
 Max (°F) 82 86 90 88 84 81 77 75 81 84 84 29
 
-Feb
+Average minimum and maximum temperatures over the year in Lagos.
 
-84 17
-
-Jun 27
-
-18 63
-
-27 81
-
-64 Oct
-
-81 17
-
-Jul 29
-
-17 63
-
-25 84
-
-63 Nov
-
-77 16
-
-Aug 29
-
-17 61
-
-24 84
-
-63
-
-75 Average minimum and maximum temperatures over the year in Lagos.
-
-Sep Lagos - Average temperatures
-
-Dec
-
-14 Apr
-
-28 24
-
-57 32
-
-75
-
-90 May
+Lagos - Average temperatures
 
 Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 
@@ -3428,28 +2837,6 @@ Max (°C) 32 33 33 32 31 29 28 28 29 30 31 32
 Min (°F) 72 75 75 75 73 73 72 72 72 72 73 72
 
 Max (°F) 90 91 91 90 88 84 82 82 84 86 88
-
-Feb 31
-
-24 73
-
-33 88
-
-75
-
-91
-
-Mar
-
-24
-
-33
-
-75
-
-91
-
-28 86
 
 72 Nov
 
@@ -3655,9 +3042,7 @@ sharp', you will buy that idea?" He said: "No way, I don't want to die of HIV or
 
 spawning. The cost of a new needle is just 20, don't be penny wise and pound foolish!
 
-At around 8.00 pm inject the hormone into the female catfish; the dosage is 0.5 ml for each At around 8.00 pm inject the hormone into the female catfish; the dosage is 0.5 ml for each
-
-kg of fish. Use a 5-ml syringe and a needle with the specification 23Gxkg of fish. Use a 5 ml syringe and a needle with the specification $ 2 3 \mathrm {G x} 1 _ {1 1 / 4} ^ {1 / 4}. $ Needle and syringe. Needle and syringe are both readily available at a good pharmacy. The hormone can be bought from companies are both readily available at a good pharmacy. The hormone can be bought from companies which sell fish feed, drugs etcetera.which sell fish feed, drugs etcetera.
+At around 8.00 pm inject the hormone into the female catfish; the dosage is 0.5 ml for each kg of fish. Use a 5-ml syringe and a needle with the specification 23G x 1 1/4. Needle and syringe are both readily available at a good pharmacy. The hormone can be bought from companies which sell fish feed, drugs, et cetera.
 
 Never insert the needle in the middle of the fish towards the central spine. It can start bleeding
 
@@ -3667,39 +3052,17 @@ degrees away from the head in the thickest part of the muscle. The hormone is vi
 
 out without using force on the female. She remains calm as long as you handle her gently.
 
-## Chapter 8
-
 Males are not injected, but kept in the isolation tank ready to use for the next morning. After injection, the females become a bit restless and can start to jump. Ensure that the fish do not jump out of their holding tanks to keep them safe. The female fish often change
 
 colour and gain weight, because of the water absorption during the egg ripening process.
 
 ## Collection of the eggs
 
-In the morning, the female fish will be ready for stripping. Take the female out, but if In the morning, the female fish will be ready for stripping. Take the female out, but if anaesthesia is available, you should first tranquilize her. MSS-222 (tricaine methanesulfonate) anaesthesia is available, you should first tranquilize her. MSS-222 (tricaine methanesulfonate)
+In the morning, the female fish will be ready for stripping. Take the female out, but if anaesthesia is available, you should first tranquilise her. MS-222 (tricaine methanesulfonate) is an anaesthetic for fish, including catfish. It is added to the tank at a ratio of 2 g/10 l. After some minutes the female fish will stop breathing and turn on her side. Take the fish out, gently supporting the entire body, and wash off the water containing the anaesthetic with clean water. Place the fish on a smooth table and cover it with a clean wet towel; the towel should not leak any water but also should not dry the skin of the fish, because this will damage its slime. The stripping can now proceed. The female is stripped until the eggs are not flowing out anymore. When blood is coming out with the eggs, it is a sign the ovaries are getting empty. Afterwards the female is put back into the tank she was isolated from, but not before its water has been refreshed. Then the eggs are weighed.
 
-is an anaesthetic for fish, including catfish. It is added to the tank at a ratio of 2 g/101. is an anaesthetic for fish, including catfish. It is added to the tank at a ratio of 2 g/101.
+Collect the eggs on an egg collecting tray, preferably made from a glass or ceramic plate. A smooth surface does not allow the eggs to stick to the tray surface easily. If you do not have anaesthesia, you have to apply a bit of force to stop the female from moving her tail and wasting or dirtying the eggs on the collecting tray. Most of the time the female will remain relatively calm. The eggs should be stripped as cleanly as possible, without slime, water or faeces (Photo 29).
 
-After some minutes the female fish will stop breathing and turn on her side. Take the fish After some minutes the female fish will stop breathing and turn on her side. Take the fish out, gently supporting the entire body, and wash off the water, containing the anaesthetic, out, gently supporting the entire body, and wash off the water containing the anaesthetic, with clean water. Place the fish on a smooth table and cover it with a clean wet towel; the with clean water. Place the fish on a smooth table and cover it with a clean wet towel; the
-
-towel should not leak any water but also should not dry the skin of the fish, because this will towel should not leak any water but also should not dry the skin of the fish, because this will
-
-damage its slime. The stripping can now proceed. The female is stripped until the eggs are damage its slime. The stripping can now proceed. The female is stripped until the eggs are
-
-not flowing out anymore. When blood is coming out with the eggs, it is a sign the ovaries not flowing out anymore. When blood is coming out with the eggs, it is a sign the ovaries are getting empty. Afterwards the female is put back into the tank she was isolated from, but are getting empty. Afterwards the female is put back into the tank she was isolated from, but not before its water has been refreshed. Then the eggs are weighed.not before its water has been refreshed. Then the eggs are weighed.
-
-Collect the eggs on an egg collecting tray, preferably made from glass or ceramic plate.
-
-## to the tray surface easily. If you don't
-
-have anaesthesia, you have to apply a bit force to stop the female from moving her tail and wasting or dirtying the eggs on the collecting tray. Most of the time the female will remain relatively calm. The eggs should be stripped as cleanly as possible; without slime, water or faeces (Photo 29).
-
-In the afternoon the female must be taken out from her tank again to strip the remainder of
-
-the eggs which should be discharged. After stripping the ovary should be completely empty,
-
-A smooth surface does not allow the eggs to stick
-
-otherwise the eggs left behind, will start to rot which causes serious problems for the fish.
+In the afternoon the female must be taken out from her tank again to strip the remainder of the eggs which should be discharged. After stripping the ovary should be completely empty, otherwise the eggs left behind will start to rot, which causes serious problems for the fish.
 
 <div style='text-align: center;'><img src='images/img_080.png' alt='OCR图片'/></div>
 
@@ -3707,25 +3070,11 @@ Reproduction of the African catfish
 
 ## Collection of milt (sperm)
 
-There are two ways to collect the sperm from the male; either by sacrificing the male There are two ways to collect the sperm from the male; either by sacrificing the male via dissecting the testes out of the belly, or by keeping the male alive, and collect the via dissecting the testes out of the belly, or by keeping the male alive, and collect the
+There are two ways to collect the sperm from the male: either by sacrificing the male via dissecting the testes out of the belly, or by keeping the male alive and collecting the sperm by taking a part of the testes out or sucking the sperm out of the testes with a syringe during surgery.
 
-sperm by taking a part of the testes out or sucking the sperm out of the testes with sperm by taking a part of the testes out or sucking the sperm out of the testes with a
+Sacrificing the male is the most usual method and it is relatively simple. The best and easiest way to kill the male is by hitting him on the head. It seems cruel, but if you do it with force, the fish will die almost instantly. Clean the belly with a towel and make an incision from the anus upwards with a clean surgical blade. Open the cavity and look for the testes, which are located deep inside the cavity, close to the spinal cord. Use the surgical blade to cut the testes out of the tissue which is holding them in place in such a way that you keep the testes complete. There should be no leakage of sperm from the testes. Collect the testes in a small dry cup and cover it with tissue paper. Then put it aside in a safe place where it cannot fall or come into contact with water.
 
-a syringe during surgery.syringe during surgery.
-
-Sacrificing the male is the most usual method and it is relatively simple. The best and Sacrificing the male is the most usual method and it is relatively simple. The best and easiest way to kill the male is by hammering him on the head. It seems cruel, but if easiest way to kill the male is by hammering him on the head. It seems cruel, but if you do it with force, the fish will die almost instantly. Clean the belly with a towel and you do it with force, the fish will die almost instantly. Clean the belly with a towel and
-
-make an incision from the anus upwards with a clean surgical blade. Open the cavity make an incision from the anus upwards with a clean surgical blade. Open the cavity
-
-and look for the testes which are located deep inside the cavity, close to the spinal and look for the testes which are located deep inside the cavity, close
-
-to the spinal cord. Use the surgical blade to cut the testes out of the tissue which is holding them cord. Use the surgical blade to cut the testes out of the tissue which is holding them in place in such a way that you keep the testes complete. There should be no leakage in place, in such a way that you keep the testes complete. There should be no leakage of sperm from the testes. Collect the testes in a small dry cup and cover it with tissue of sperm from the testes. Collect the testes in a small dry cup and cover it with tissue
-
-paper. Then put it aside in a safe place where it cannot fall or come into contact with paper. Then put it aside in a safe place where it cannot fall or come into contact with
-
-water.water.
-
-Note.Note. Sperm of fish is inactive as long as it has not been in contact with water. The moment the sperm cells in the sperm come into contact with water, the energy locked
+Note. Sperm of fish is inactive as long as it has not been in contact with water. The moment the sperm cells come into contact with water, the energy locked
 
 inside activates them to start surging for eggs. This will last for only about 60 seconds.
 
@@ -3737,21 +3086,11 @@ sperm cells into the micropyle of the egg. So, it is important to collect eggs a
 
 in a clean cup or bowl without any contact with water!
 
-Note. Note. Dilution of sperm in a physiological salt solution of 0.9% sodium chloride in water to enhance mixing of sperm and eggs before adding water to trigger the fertilisation, is
-
-also possible. Be sure the solution is fresh and has a temperature of 28 $ ^{\circ} $ C.
+Note. Dilution of sperm in a physiological salt solution of 0.9% sodium chloride in water to enhance mixing of sperm and eggs before adding water to trigger the fertilisation is also possible. Be sure the solution is fresh and has a temperature of 28 degrees C.
 
 ## More about milt
 
-Sperm or milt can be preserved in a fridge at 4 $ ^{\circ} \mathrm{C} $ for one day, but it's advisable to use the Sperm or milt can be preserved in a fridge at 4 $ ^{\circ} \mathrm{C} $ for one day, but it's advisable to use the milt directly after it has been taken out of the male. Sperm can even be frozen and milt directly after it has been taken out of the male. Sperm can even be frozen and remain
-
-viable for many years. This process is called cryopreservation. This technique consists of remain viable for many years. This process is called cryopreservation. This technique
-
-using special chemical solutions which are added to the sperm, and liquid nitrogen to keep consists of using of special chemical solutions which are added to the sperm, and liquid nitrogen to keep the milt as cold as $ - 1 7 3 $ $ ^{\circ} \mathrm{C} $
-
-in a special container. For Nigeria the milt as cold as -173 $ ^{\circ} \mathrm{C} $ in a special container. For Nigeria this technique is not feasible at farm level, but in aquatic research institutes it could be interesting to use this method for this technique is not feasible at farm level, but in aquatic research institutes it could be interesting to use this method for improving the genetics of the catfish.improving the genetics of the catfish.
-
-## Chapter 8
+Sperm or milt can be preserved in a fridge at 4 degrees C for one day, but it is advisable to use the milt directly after it has been taken out of the male. Sperm can even be frozen and remain viable for many years. This process is called cryopreservation. This technique consists of using special chemical solutions which are added to the sperm, and liquid nitrogen to keep the milt as cold as -173 degrees C in a special container. For Nigeria this technique is not feasible at farm level, but in aquatic research institutes it could be interesting to use this method for improving the genetics of the catfish.
 
 Sperm quality can be tested under a microscope; put a small drop of sperm on a glass slide and look at it with the 100-x magnification. If there are plenty of sperm cells in the milt, you will see millions of little grey balls which you can activate with a little drop of water.
 
@@ -3759,7 +3098,7 @@ The sperm cells should swim actively for some seconds. This is the sign that the
 
 fertile and is able to fertilise the eggs.
 
-Fertilisation process
+## Fertilisation process
 
 The eggs are divided between different bowls with no more than 200 g in each bowl.
 
@@ -3795,15 +3134,13 @@ Usually, the hatching rate differs from the fertilisation rate. If the eggs are 
 
 hatching and fertilisation rate will be close, but normally the hatching rate will be not more
 
-Reproduction of the African catfish
-
 than 50% of the fertilization rate. When most of the eggs have hatched and dropped out of the mosquito nets, you must remove the nets from the water. If you wait too long, the water will get whitish and fungus will develop, which has a negative impact
 
 on the yolk sac of the fry.
 
 Clean and rinse the nets straight away!
 
-Note. Note. Don't mix the eggs of different females in one bowl or in one incubation tank
+Note. Do not mix the eggs of different females in one bowl or in one incubation tank
 
 and use one testis for each bowl of eggs. The offspring from the hatching should be
 
@@ -3811,31 +3148,13 @@ full siblings, so that the genetic variation in the fry is as low as possible an
 
 will be as uniform as possible.
 
-One day I visited a farm in Mali. They have a well-equipped catfsh hatchery and One day I visited a farm in Mali. They have a well-equipped catfsh hatchery
-
-## clarias: selecting the brood stock, preparing
-
-and we prepared for a spawning of Hetero-clarias: selecting the brood stock, we prepared for a spawning of Hetero-
-
-preparing the incubator by cleaning, disinfecting and rinsing, checking all the the incubator by cleaning, disinfecting and rinsing, and checking all the materials needed for the actual spawning, such as anaesthesia, bowls, hatching trays, syringe, materials needed for the actual spawning, such as anaesthesia, bowls, hatching surgical blade and hormones. Another check was carried out on the availability trays, syringe, surgical blade and hormones. Another check was carried out on the availability of starter feed, salt and Artemia, also called 'brine shrimps', which are of starter feed, salt and Artemia, also called 'brine shrimps', which are a good
-
-a good starter feed for fry. Well, in the evening we wanted to inject two females; starter feed for fry. Well, in the evening we wanted to inject two females; one
-
-one Heterobranchus and one Clarias female. We checked in the fridge before and Heterobranchus and one Clarias female. We checked in the fridge before and knew that we had at least three bottles of Ovaprim still in their packaging, so we thought knew that we had at least three bottles of Ovaprim still in their packaging, so we thought there was no problem. How surprised we were, when we found out there was no problem. How surprised we were, when we found out later that all the bottles of Ovaprim were used and almost empty! So, we had to postpone later that all the bottles of Ovaprim were used and almost empty! So, we had to
+One day I visited a farm in Mali. They have a well-equipped catfish hatchery and we prepared for a spawning of Hetero-clarias: selecting the broodstock, preparing the incubator by cleaning, disinfecting and rinsing, and checking all the materials needed for the actual spawning, such as anaesthesia, bowls, hatching trays, syringe, surgical blade and hormones. Another check was carried out on the availability of starter feed, salt and Artemia, also called brine shrimps, which are a good starter feed for fry. Well, in the evening we wanted to inject two females, one Heterobranchus and one Clarias female. We checked in the fridge before and knew that we had at least three bottles of Ovaprim still in their packaging, so we thought there was no problem. How surprised we were when we found out later that all the bottles of Ovaprim were used and almost empty. So, we had to
 
 <div style='text-align: center;'><img src='images/img_082.png' alt='OCR图片'/></div>
 
-postpone the hatching procedure. The next day we started looking for the bottles the hatching procedure. The next day we started looking for the bottles with the
+postpone the hatching procedure. The next day we started looking for the bottles with the hormone.
 
-hormone!with the hormone!
-
-I notice in many farms that empty packages are never disposed of but put back into I notice in many farms that empty packages are never disposed of but put back into the fridge, cupboard or any place where you usually can fnd them. This the fridge, cupboard or any place where you usually can fnd them. This provides a false sense of security and it's annoying too. I asked the farm manager why all provides a false sense of security and it's annoying too. I asked the farm manager
-
-those empty packages of hormones, artemia, starter feed, antibiotic etcetera are why all those empty packages of hormones, artemia, starter feed, antibiotic
-
-never disposed in the dustbin? The answer was clear: if the boss asks about these etcetera are never disposed in the dustbin? The answer was clear: if the boss asks about these materials, the staff can show that they have used them by showing materials, the staff can show that they have used them by showing him the empty packages. I suggested having a separate cupboard for this, so that you can at least him the empty packages. I suggested having a separate cupboard for this, so that you can at least keep a clean record of your real stocks!keep a clean record of your real stocks!
-
-Chapter 8
+I notice on many farms that empty packages are never disposed of but put back into the fridge, cupboard or any place where you usually can find them. This provides a false sense of security and it is annoying too. I asked the farm manager why all those empty packages of hormones, Artemia, starter feed, antibiotic, et cetera, are never disposed of in the dustbin. The answer was clear: if the boss asks about these materials, the staff can show that they have used them by showing him the empty packages. I suggested having a separate cupboard for this, so that you can at least keep a clean record of your real stocks.
 
 ## What may cause unsuccessful hatching?
 
@@ -3979,9 +3298,9 @@ Cost of feed per size for 1 fingerling:
 
 Not all fry will make it to fingerling and therefore you should multiply N 1.0 with 2.
 
-The cost to produce 1 fingerling will still be 42,0 or less a piece!
+The cost to produce 1 fingerling will still be N 2.0 or less a piece.
 
-8. 6 GRADING ACCORDING TO SIZE
+## 8.6 GRADING ACCORDING TO SIZE
 
 Catfish are carnivorous and cannibalism is normal if the situation is favorable for it. To
 
@@ -3992,10 +3311,6 @@ from the first day the fry are eating. It will be especially enhanced in less op
 such as having weak fry or dead fry in the tank. The fry will not all develop at the same speed. Some fry will still be eating their yolk sac while others are already looking for food. If the first feed is too early, you already create a difference in size from the start! Normally when the fry are healthy and feeding is optimal, not too less, not too much, cannibalism
 
 will not be a big problem, since they all grow at the same pace. That's why I always
-
-## 136
-
-Reproduction of the African catfish
 
 recommend growing batches of full siblings and not a mixture of many different genetics,
 
@@ -4027,9 +3342,9 @@ Photo 33. An adjustable grader and a net grader for fry, fingerlings and juvenil
 
 <div style='text-align: center;'><img src='images/img_088.png' alt='OCR图片'/></div>
 
-8. 7 SELLING FINGERLINGS AND JUVENILES
+## 8.7 SELLING FINGERLINGS AND JUVENILES
 
-Health status of the fish
+## Health status of the fish
 
 The fingerlings and juveniles you sell your customers should be in a perfect condition and
 
@@ -4047,21 +3362,9 @@ certainly encounter severe losses; another customer who will not buy from you ag
 
 ## Grading
 
-If you have a hatchery and you sell your product to customers, then it's an obligation to grade
+If you have a hatchery and you sell your product to customers, then it's an obligation to grade the fish very well. Most grow-out farmers don't have the means to grade and stock fingerlings and juveniles in a big pond with the projection to keep them in this pond till harvest.
 
-Reproduction of the African catfish
-
-the fish very well. Most grow-out farmers don't have the means to grade and stock fingerlings
-
-and juveniles in a big pond with the projection to keep them in this pond till harvest!and juveniles in a big pond with the projection to keep them in this pond till harvest!
-
-In any group of fish, you will have runts: fish which don't grow at all. When the fish have In any group of fish, you will have runts: fish which don't grow at all. When the fish have for example an average weight of 10 g, the runts are only 2 g. In Nigeria farmers are often for example an average weight of 10 g, the runts are only 2 g. In Nigeria farmers are
-
-reluctant to throw these little fish away and still keep them or worse, stock them with reluctant to throw these little fish away and still keep them or worse, stock them with
-
-other fish from a different batch. Fish which don't grow, are a liability. You have to get rid other fish from a different batch. Fish which don't grow, are a liability. You have to get rid of them as quickly as possible. Don't waste feed on them and don't sell them to spoil your of them as quickly as possible. Don't waste feed on them and don't sell them to spoil your
-
-name!name!
+In any group of fish, you will have runts: fish which don't grow at all. When the fish have for example an average weight of 10 g, the runts are only 2 g. In Nigeria farmers are often reluctant to throw these little fish away and still keep them or worse, stock them with other fish from a different batch. Fish which don't grow are a liability. You have to get rid of them as quickly as possible. Don't waste feed on them and don't sell them to spoil your name.
 
 ## Counting or weighing method
 
@@ -4081,9 +3384,9 @@ taken out, you take the average weight of the fish after grading from each tank.
 
 300 pieces are counted and weighed on a scale with an accuracy of 1 g. The average weight will be the total weight divided by the number of fish. If you know the average weight, then you divide the total weight of the fish by the average weight to obtain the number of fish you want to sell. This method doesn't stress the fish as much as counting
 
-fish counters can be used to but are very expensive.
+Fish counters can be used too, but they are very expensive.
 
-Example 13Example 13.. How to collect 5000 pieces by the average weight method? How to collect 5000 pieces by the average weight method?
+Example 13. How to collect 5000 pieces by the average weight method?
 
 <div style='text-align: center;'><img src='images/img_089.png' alt='OCR图片'/></div>
 
@@ -4093,15 +3396,13 @@ The average weight is 500/315=1.59 g.
 
 Now, you want to sell 5000 pieces, so the total weight you want to sell is: 5000 x
 
-1. 59 g = 7,950 g or 8 kg. So, you weigh 8 kg of fish for your customer. Usually you
+1.59 g = 7,950 g or 8 kg. So, you weigh 8 kg of fish for your customer. Usually you
 
 give the customer 2 to 3% extra to be sure he gets the number he wants.
 
 In this case you weigh out for the customer an extra of 0.16 to 0.24 kg.
 
-The problem with the average weight method is the water attached to the fish. The
-
-smaller the fish to be sold, the bigger this problem will get, because the amount of water attached to the fish, provides false information about the average weight and the total number of fish. But, the smaller the fish, the more damage you will face when using the one by one counting method.
+The problem with the average weight method is the water attached to the fish. The smaller the fish to be sold, the bigger this problem will get, because the amount of water attached to the fish provides false information about the average weight and the total number of fish. But the smaller the fish, the more damage you will face when using the one-by-one counting method.
 
 ## Chapter 8
 
@@ -4115,27 +3416,21 @@ manager of the fsh farm picked me up from there. On our way to the farm, he expl
 
 about his plans. He wanted to upgrade his hatchery, because he faced some challenges buying the fingerlings and just recently had lost a lot of fsh due to transportation. I asked him what happened and he told me the story. The fsh he always buys originate from a farmer friend and their quality is good. Since the trip between the farms is short, they
 
-quickly weigh the fsh and put them in those 50- 1 plastic bags with oxygen in very high
+quickly weigh the fish and put them in those 50-l plastic bags with oxygen in very high
 
-minutes. But not this time around. A serious road accident had happened and the car with fsh was trapped in a go-slow for three hours before it could move again. By that time, the fsh were already dying. He lost 90% of them. The financial loss of approximately 200,000
+densities. It has always gone well previously because the trip takes just 30 minutes. But not this time around. A serious road accident had happened and the car with fish was trapped in a go-slow for three hours before it could move again. By that time, the fish were already dying. He lost 90% of them. The financial loss of approximately 200,000
 
 was now gradually deducted from his salary!
 
 Usually, customers come to pick up the fish. They are responsible for the containers to put the fish in. When the fish are small, less than 0.5 g, they can also be transported in plastic bags with extra oxygen. These bags are the responsibility of the supplier, which is the hatchery.
 
-densities. It has always gone well previously because the trip takes just 30
-
-First of all, the fish should not be given any feed at least 12 hours before transport.After
+First of all, the fish should not be given any feed at least 12 hours before transport. After
 
 counting or weighing, the fish are put in a bag or container. But how many fish you can put in a bag or container? This question is not easy to answer because it depends on the weight of the fish, the distance, the transport time, the weather conditions and the condition of the roads. See Photos 34 and 35 about transport and packaging materials for fish transportation.
 
 <div style='text-align: center;'><img src='images/img_090.png' alt='OCR图片'/></div>
 
 Photo 34. A 50-l transport KEG for juveniles.
-
-140
-
-Reproduction of the African catfish
 
 <div style='text-align: center;'><img src='images/img_091.png' alt='OCR图片'/></div>
 
@@ -4151,43 +3446,21 @@ will go down and the fishes' rate of metabolism will increase. You create a big 
 
 getting very weak fish and mortality, either on arrival or when you put the fish in their new environment. If it is going to be a long trip, the best time to travel is in the evening and at night, if security allows you to do so. If the road is bumpy, the fish will get stressed and you will lose water on the way bit by bit.
 
-Farmers usually stock between 500 to 1000 pieces of juveniles in the black containers Farmers usually stock between 500 to 1000 pieces of juveniles in the black containers showed on Photo 34. In the white plastic bags around 500 pieces of fingerlings are usually showed on Photo 34. In the white plastic bags around 500 pieces of fingerlings are usuallystocked. The bags are filled 1/3 with water and 2/3 with pure oxygen. So, not with air!stocked. The bags are filled 1/3 with water and 2/3 with pure oxygen. So, not with air! The supplier should always warn the farmer, who buys the fish that the transport of the The supplier should always warn the farmer who buys the fish that the transport of the fish
+Farmers usually stock between 500 to 1000 pieces of juveniles in the black containers shown in Photo 34. In the white plastic bags around 500 pieces of fingerlings are usually stocked. The bags are filled 1/3 with water and 2/3 with pure oxygen, so not with air. The supplier should always warn the farmer who buys the fish that the transport of the fish is the farmer's responsibility and dead fish on arrival cannot be compensated. If the supplier transports the fish, it is his responsibility.
 
-is the farmer's responsibility and dead fish on arrival cannot be compensated. If the supplier fish is their responsibility and dead fish on arrival cannot be compensated. If the supplier
-
-transports the fish, it is his responsibility.transports the fish, it is his responsibility.
-
-The farmer who buys the fish, should have his pond well prepared, so that when the The farmer who buys the fish, should have his pond well prepared, so that when he arrives, the stocking of the juveniles or fingerlings will be fast and go smoothly. Don't start supplier arrives, the stocking of the juveniles or fingerlings will be fast and go smoothly.
-
-counting the fish again, they are already stressed enough! Don't start counting the fish again, they are already stressed enough!
-
-Chapter 8
+The farmer who buys the fish should have his pond well prepared, so that when he arrives, the stocking of the juveniles or fingerlings will be fast and go smoothly. Do not start counting the fish again; they are already stressed enough.
 
 ## After sales service
 
-If you want farmers to be loyal to your farm, you must not only sell good quality fish but If you want farmers to be loyal to your farm, you must not only sell good quality fish but also offer after sales service. Inquire about the progress and growth of the fish and support also offer after sales service. Inquire about the progress and growth of the fish and support
-
-the farmers with tips. Grow-out farms don't have the expertise hatcheries do, so you can the farmers with tips. Grow-out farms don't have the expertise hatcheries do, so you can
-
-certainly give them good tips and advice. The farmer's success will also be your success and certainly give them good tips and advice. The farmer's success will also be your success and if the farmer makes money with the sales of the table-sized fish, he will certainly come if the farmer makes money with the sales of the table-sized fish, he will certainly come back to you for more fingerlings. Don't try to sell farmers quantities of fish they cannot back to you for more fingerlings. Don't try to sell farmers quantities of fish they cannot accommodate, because it just suits you to get rid of your juveniles. You will force your accommodate because it just suits you to get rid of your juveniles. You will force your
-
-customer to sell his immature fish for a low price, because in this case the money for feed customer to sell his immature fish for a low price, because in this case the money for feed
-
-usually runs out before the end of the growth cycle.usually runs out before the end of the growth cycle.
+If you want farmers to be loyal to your farm, you must not only sell good quality fish but also offer after-sales service. Inquire about the progress and growth of the fish and support the farmers with tips. Grow-out farms don't have the expertise hatcheries do, so you can certainly give them good tips and advice. The farmer's success will also be your success and if the farmer makes money with the sales of the table-sized fish, he will certainly come back to you for more fingerlings. Don't try to sell farmers quantities of fish they cannot accommodate, because it just suits you to get rid of your juveniles. You will force your customer to sell his immature fish for a low price, because in this case the money for feed usually runs out before the end of the growth cycle.
 
 ## 8.8 HATCHERY SYSTEMS
 
-I believe the combination of flow-through and recirculation systems is the best way forward for continuous supply of fingerlings and juveniles. The initial growth stages of at least the first three weeks, should be kept inside a building with constant water supply. Afterwards, the fry and fingerlings
-
-I believe a green water environment is good for growing catfish in their first growth stages
-
-can be stocked outside in plastic tanks with periodic
+I believe the combination of flow-through and recirculation systems is the best way forward for continuous supply of fingerlings and juveniles. The initial growth stages of at least the first three weeks should be kept inside a building with constant water supply. Afterwards, the fry and fingerlings can be stocked outside in plastic tanks with periodic flushing, creating a green-water environment.
 
 ## 8.9 GREEN WATER
 
-flushing, creating a green water environment.
-
-because of the following reasons:
+I believe a green-water environment is good for growing catfish in their first growth stages because of the following reasons:
 
 The algae in the water consume the waste of the fish and reduce the flushing rate without you having to deal with bad smelling water.
 
@@ -4239,85 +3512,63 @@ In the Netherlands one company specializes in producing the Heteroclarias hybrid
 
 <div style='text-align: center;'><img src='images/img_093.png' alt='OCR图片'/></div>
 
-## 8
-
 <div style='text-align: center;'><img src='images/img_094.png' alt='OCR图片'/></div>
 
 Photo 36. A Heterobranchus longifilis male.
 
 <div style='text-align: center;'><img src='images/img_095.png' alt='OCR图片'/></div>
 
-Photo 37. The Hybrid catfish 'Hetero-clarias or Claresse
+Photo 37. The hybrid catfish "Hetero-clarias" or Claresse.
 
 ## 8.11 DISCUSSION
 
-Hatchery operations are not easy to manage and many farmers who start up hatcheries, Hatchery operations are not easy to manage and many farmers who start up hatcheries,
-
-face problems with the continuity of getting good results. So, at the end of the day, grow-face problems with the continuity of getting good results. So, at the end of the day growout
-
-farmers buying fish from these hatcheries, cannot rely on them, causing disruption in out farmers buying fish from these hatcheries, cannot rely on them, causing disruption in the production and profits completely. Therefore, many grow-out farmers start their own the production and profits completely. Therefore, many grow-out farmers start their own hatchery operations out of frustration.hatchery operations out of frustration.
+Hatchery operations are not easy to manage and many farmers who start up hatcheries face problems with the continuity of getting good results. So, at the end of the day, grow-out farmers buying fish from these hatcheries cannot rely on them, causing disruption in production and profits completely. Therefore, many grow-out farmers start their own hatchery operations out of frustration.
 
 Why is a hatchery so difficult to manage? Because running a successful hatchery depends
 
 on so many factors. When things go wrong, most of the time it is a multiple problem instead of a standalone one. What I have noticed in most cases is that the problem came down to lack of commitment of the hatchery manager and insufficient knowledge. They get results now and then, so in principle the facility works. But, if they get a good spawning and a
 
-good survival rate, they cannot repeat the results because they don't know why things
-
-## 144
-
-Reproduction of the African catfish
-
-has triggered me to stay involved in hatchery operations because it's a very challenging
-
-are going wrong or going well. Lacking good operational procedures causes problems for
-
-repeating good results.
+good survival rate, they cannot repeat the results because they don't know why things are going wrong or going well. Lacking good operational procedures causes problems for repeating good results.
 
 Hatcheries in Nigeria are not located in a controlled environment like in Europe, that's why
 
-you should adapt the procedures with the seasons. Running a hatchery is not only hard work, but also a way of life and an art form. You need to be naturally talented and have an eye for problems before they occur. As a young man I started hatchery operations in 1984 and till today I have not completely mastered the art of running a hatchery. That 'till today'
-
-profession and never boring. Also, this work makes me a humble person and one who respects the law of God. I always say to my fellow farmers: "We don't make anything in a hatchery, we only support the law of nature created by God."
-
-## C
+you should adapt the procedures with the seasons. Running a hatchery is not only hard work, but also a way of life and an art form. You need to be naturally talented and have an eye for problems before they occur. As a young man I started hatchery operations in 1984 and till today I have not completely mastered the art of running a hatchery. That "till today" has triggered me to stay involved in hatchery operations because it is a very challenging profession and never boring. Also, this work makes me a humble person and one who respects the law of God. I always say to my fellow farmers: "We don't make anything in a hatchery, we only support the law of nature created by God."
 
 ## 9
 
 ## CATFISH DISEASES
 
-9. 1 INTRODUCTION
+9.1 Introduction
 
-9. 2 ENVIRONMENT
+9.2 Environment
 
-9. 3 CATFISH AS A HOST
+9.3 Catfish as a host
 
-9. 4 PATHOGENS
+9.4 Pathogens
 
-9. 4.1. BACTERIAL DISEASES
+9.4.1 Bacterial diseases
 
-9. 4.2. PARASITIC DISEASES
+9.4.2 Parasitic diseases
 
-9. 4.3. VIRAL DISEASES
+9.4.3 Viral diseases
 
-9. 5 MEDICATION
+9.5 Medication
 
-9. 6 BIOSECURITY
-
-Chapter 9
+9.6 Biosecurity
 
 ## 9.1 INTRODUCTION
 
 When I was studying at the University of Wageningen, I did an experiment with African
 
-catfsh. I had to produce the fsh for the experiment myself. This was my frst step in
+catfish. I had to produce the fish for the experiment myself. This was my first step in
 
-becoming a fsh farmer. The spawning was successful. I obtained about 40,000 fry to grow to the juvenile stage. At this stage the fsh were stocked for the experiment. I needed only 2000 pieces. At the fngerling stage, I stocked the fsh in two fow-through systems with crystal clear water and high oxygen levels. I believed this was the best water
+becoming a fish farmer. The spawning was successful. I obtained about 40,000 fry to grow to the juvenile stage. At this stage the fish were stocked for the experiment. I needed only 2000 pieces. At the fingerling stage, I stocked the fish in two flow-through systems with crystal clear water and high oxygen levels. I believed this was the best water
 
-to grow my catfsh, not knowing that this water actually stressed them and allowed
+to grow my catfish, not knowing that this water actually stressed them and allowed
 
-virulent bacteria, such as Flexibacter columnaris, to develop very rapidly. The bacteria killed over 90% of my fsh before my supervisor was aware of it. He quickly applied antibiotics which resulted in just enough fsh to stock for my experiment. Actually, I learned more from growing these fsh than from my experiment. My way of looking at
+virulent bacteria, such as Flexibacter columnaris, to develop very rapidly. The bacteria killed over 90% of my fish before my supervisor was aware of it. He quickly applied antibiotics which resulted in just enough fish to stock for my experiment. Actually, I learned more from growing these fish than from my experiment. My way of looking at
 
-fsh has never been the same since! A song which relates to this experience is from The
+fish has never been the same since. A song which relates to this experience is from The
 
 Beatles: 'Yesterday, all my troubles seem so far away!
 
@@ -4329,37 +3580,29 @@ a farm can be totally destroyed by diseases. They can even lead to bankruptcy of
 
 Environment
 
-Catfish as ? host
+Catfish as a host
 
 Pathogens
 
 <div style='text-align: center;'><img src='images/img_096.png' alt='OCR图片'/></div>
 
-As you can see in Figure 23, one factor can compensate another factor. For example, As you can see in the drawing above, one factor can compensate another factor. For example, if the environment is not optimal for the fish, but there is no pathogen if the environment is not optimal for the fish, but there is no pathogen present, it will not be likely that the fish will get a disease. Or, the pathogens are present, but the present, it will not be likely that the fish will get a disease. Or the pathogens are
-
-present, but the condition of the fish is very good; the fish will resist the pathogen condition of the fish is very good; the fish will resist the pathogen and will not get
-
-sick. The moment you abuse all three factors to a certain extent, the fish will certainly and will not get sick. The moment you abuse all three factors to a certain extent, the fish will certainly get sick. You also will understand from Figure 23 that when youget sick. You also will understand from Figure 23 that when you treat the fish with medicine and they recover, it is actually a short-term remedy and not a sustainable treat the fish with medicine and they recover, it is actually a short-term remedy and not a sustainable solution. If you don't improve the three factors mentioned above,solution. If you don't improve the three factors mentioned earlier, recurrence of the
-
-disease will be inevitable recurrence of the disease will be inevitable.
+As you can see in Figure 23, one factor can compensate another factor. For example, if the environment is not optimal for the fish, but there is no pathogen present, it will not be likely that the fish will get a disease. Or the pathogens are present, but the condition of the fish is very good; the fish will resist the pathogen and will not get sick. The moment you abuse all three factors to a certain extent, the fish will certainly get sick. You also will understand from Figure 23 that when you treat the fish with medicine and they recover, it is actually a short-term remedy and not a sustainable solution. If you do not improve the three factors mentioned above, recurrence of the disease will be inevitable.
 
 Fish live in water and at a fish farm they cannot escape from the water you provide for
 
 them, so it's your responsibility to give them water of a good quality. I believe that poor water quality is the number one reason fish develop diseases. I have seen cases where fish wanted to jump out of the water because of the poor water quality. Fish swimming towards or away from the inlet, are also signs that the water quality is bad.
 
-Chemicals and factors causing a bad environment for the fish
+## Chemicals and factors causing a bad environment for the fish
 
 The most common pollutants which cause a stressful environment for the fish are thewaste products of the fish themselves and chemicals released by human activity.
 
-Ammonia-nitrogen
+## Ammonia-nitrogen
 
 Ammonia-nitrogen is a waste product produced by the fish and excreted through the gills. It is equivalent to the urine of mammals but more toxic; the levels of ammonia-nitrogen in the water should therefore be low.
 
-Ammonia-nitrogen is actually a combination of ammonium and ammonia (NH $ ^{+4} $ and
+Ammonia-nitrogen is actually a combination of ammonium and ammonia (NH4+ and NH3: total ammonia-nitrogen or TAN), but only the ammonia is very toxic to the fish.
 
-NHNH $ _{3-3} $ : total ammonia-nitrogen or TAN), but only the ammonia is very toxic to the fish.
-
-The concentration of ammonia and ammonium in the water is present in a ratio, whichdepends on the pH of the water (Figure 24). When the pH is high, the percentage of ammonia is high and it starts to increase rapidly above a pH of 8. When the pH is low, the percentage of ammonium will be high, which is not a problem for the fish. But
+The concentration of ammonia and ammonium in the water is present in a ratio, which depends on the pH of the water (Figure 24). When the pH is high, the percentage of ammonia is high and it starts to increase rapidly above a pH of 8. When the pH is low, the percentage of ammonium will be high, which is not a problem for the fish. But
 
 when the pH skyrockets, you have an emergency situation.
 
@@ -4367,13 +3610,11 @@ when the pH skyrockets, you have an emergency situation.
 
 <div style='text-align: center;'><img src='images/img_098.png' alt='OCR图片'/></div>
 
-Figure 24.Figure 24. The link between ammonia and ammonium and the pH of the water. (source: Cornell Composting) The link between ammonia and ammonium and the pH in water.
+Figure 24. The link between ammonia and ammonium and the pH of the water. (source: Cornell Composting)
 
 Levels of ammonia start to be toxic in the range of 0.1 mg/l for small catfish to 0.4 mg/l for bigger ones.
 
 The signs of ammonia intoxication are:
-
-150
 
 Loss of appetite; usually the first unspecific sign when a problem with the fish
 
@@ -4381,7 +3622,7 @@ occurs
 
 Lethargy and changing colour
 
-Inflammation of gills Red barbels, red fins and inflamed eyes
+Inflammation of gills, red barbels, red fins and inflamed eyes
 
 If the incoming water is lower in ammonia concentration than the water in the tank, you will see the fish swimming towards the fresh water flow. The remedy is relatively simple: drain as much bad water out of the tank as quickly as possible and replace it with clean water without ammonia-nitrogen.
 
@@ -4415,9 +3656,7 @@ fish remove oxygen from the water and release carbon dioxide. African catfish ho
 
 release the carbon dioxide above the surface of the water so the carbon dioxide level of
 
-the water is not easily elevated. I want to draw your attention to this just for hatcheries,the water is not easily elevated. I want to draw your attention
-
-to this, just for hatcheries, because they use borehole water which usually contains high levels of carbon dioxide (50 mg/l or more). This can easily be tested with a simple pH-test kit. Test the borehole water
+the water is not easily elevated. I want to draw your attention to this just for hatcheries, because they use borehole water which usually contains high levels of carbon dioxide (50 mg/l or more). This can easily be tested with a simple pH-test kit. Test the borehole water
 
 directly at the source without any contact with air. In most cases the pH will be slightly
 
@@ -4427,11 +3666,11 @@ acidic, which means below 7. Take some of this water and fill a 1-l bottle with 
 
 process, the pH of the water rose (Figure 25).
 
-Equation: $ \mathrm{C O_{2}+H_{2}O} $
+Equation: CO2 + H2O
 
 <div style='text-align: center;'><img src='images/img_099.png' alt='OCR图片'/></div>
 
-$ \mathrm{H C O}_{-}+\mathrm{H}_{+} \left(\mathrm{H}_{+}\right. $ is acid $ )_{3} $
+HCO3- + H+ (H+ is acid)
 
 Carbon dioxide has a negative impact on the metabolism of young fish. They will behave
 
@@ -4449,41 +3688,11 @@ enters the fish tank. This can easily be done by a trickling tower above the wat
 
 <div style='text-align: center;'><img src='images/img_100.png' alt='OCR图片'/></div>
 
-Chapter 9
-
 tank, which does not require extra energy, or by flowing the water into the tank through
 
 a showerhead.
 
 <table border="1"><tr><td></td><td>KH2</td><td>KH4</td><td>KH6</td><td>KH8</td><td>KH10</td><td>KH12</td><td>KH14</td><td>KH16</td><td>KH18</td><td>KH20</td></tr><tr><td>pH7.8</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr><tr><td>pH7.6</td><td>2</td><td>3</td><td>5</td><td>6</td><td>8</td><td>9</td><td>11</td><td>12</td><td>14</td><td>15</td></tr><tr><td>pH7.4</td><td>2</td><td>5</td><td>7</td><td>10</td><td>12</td><td>14</td><td>17</td><td>19</td><td>21</td><td>24</td></tr><tr><td>pH7.3</td><td>3</td><td>6</td><td>9</td><td>12</td><td>15</td><td>18</td><td>21</td><td>24</td><td>27</td><td>30</td></tr><tr><td>pH7.2</td><td>4</td><td>8</td><td>11</td><td>15</td><td>19</td><td>23</td><td>27</td><td>30</td><td>34</td><td>38</td></tr><tr><td>pH7.1</td><td>5</td><td>10</td><td>14</td><td>19</td><td>24</td><td>29</td><td>33</td><td>38</td><td>43</td><td>48</td></tr><tr><td>pH7.0</td><td>6</td><td>12</td><td>18</td><td>24</td><td>30</td><td>36</td><td>42</td><td>48</td><td>54</td><td>60</td></tr><tr><td>pH6.9</td><td>8</td><td>15</td><td>23</td><td>30</td><td>38</td><td>45</td><td>53</td><td>60</td><td>68</td><td>76</td></tr><tr><td>pH6.8</td><td>10</td><td>19</td><td>29</td><td>38</td><td>48</td><td>57</td><td>67</td><td>76</td><td>86</td><td>95</td></tr><tr><td>pH6.7</td><td>12</td><td>24</td><td>36</td><td>48</td><td>60</td><td>72</td><td>84</td><td>96</td><td>108</td><td>120</td></tr><tr><td>pH6.6</td><td>15</td><td>30</td><td>45</td><td>60</td><td>75</td><td>90</td><td>105</td><td>121</td><td>136</td><td>151</td></tr><tr><td>pH6.4</td><td>24</td><td>48</td><td>72</td><td>96</td><td>119</td><td>143</td><td>167</td><td>191</td><td>215</td><td>239</td></tr><tr><td>pH6.2</td><td>38</td><td>76</td><td>114</td><td>151</td><td>189</td><td>227</td><td>265</td><td>303</td><td>341</td><td>379</td></tr></table>
-
-pH 7.8 15
-
-pH 7.6 KH
-
-pH 7.4 1
-
-pH 7.3 2
-
-pH 7.2 2
-
-pH 7.1 3
-
-pH 7.0 4
-
-pH 6.9 5
-
-pH 6.8 6
-
-pH 6.7 8
-
-10 48
-
-12 76
-
-15 KH 6
-
-24 3
 
 38 5
 
@@ -4549,647 +3758,37 @@ KH 4 7
 
 | 12 | | | | 29 |
 
-36 8
+Figure 25. The relationship between carbonate hardness or alkalinity, pH and free carbon dioxide (source: JBL Testlab).
 
-45 10
+## Dissolved oxygen
 
-57 16
+In 1984 I started my farm in the Netherlands. Not only did I grow catfish, but I also tried a lot of other fish species. I was trading ornamental fish for outdoor ponds, including sturgeon (*Acipenser gueldenstaedtii*). I used to buy them from a farm in Eastern Europe and, at the end of the summer when the selling season was over, I let the leftover sturgeon grow bigger for the next season at my indoor farm, by which time they would fetch a very good price.
 
-72 26
+On Christmas Day, after feeding and checking the fish farm, I went to church and visited my family in the village. Coming back home in the afternoon, I experienced a disaster: the pump of the tanks where the sturgeon were stocked had stopped and the water was not flowing through the tanks anymore. Most of my sturgeon had died because of oxygen depletion. I had forgotten to equip the system with backup aeration and the alarm system did not work. Unfortunately, sometimes you have to learn it the hard way.
 
-90
+Low oxygen levels, also called environmental hypoxia, can cause mass mortality of fish. It is a very common cause of death at fish farms which rear non-air-breathing fish, and also in rivers where factories dump chemicals into the water which consume all the oxygen.
 
-143
+African catfish, however, are hardy fish when it comes to oxygen concentrations in the water; they survive and even do well when the oxygen level is below 1 mg/l. Their organ to breathe air is not immediately developed when they are born, though. It takes about three to four weeks for the catfish to reach this growth stage. So before this stage, oxygen levels have to be at least 4 mg/l. Therefore, hatcheries need running water in the tanks and/or aeration 24/7, and the tanks should not be overcrowded.
 
-227
-
-KH 14
-
-7
-
-Unfortunately, sometimes you have to learn it the hard way!
-
-11
-
-KH 1
-
-17
-
-21
-
-27
-
-33
-
-42
-
-53
-
-67
-
-4
-
-60 136
-
-76 215
-
-96 341
-
-121 KH 20
-
-191 10
-
-303 15
-
-KH 18 24
-
-9 30
-
-14 38
-
-21 48
-
-27 60
-
-34 76
-
-43 95
-
-54 120
-
-68 151
-
-86 239
-
-108 379
-
-???????? The relationship between carbonate hardness or alkalinity, pH and free carbon dioxide
-
-(source: JBL Testlab).
-
-Dissolved oxygen
-
-In 1984 I started my farm in the Netherlands. Not only did I grow catfsh but I also
-
-tried a lot of other fsh species. I was trading ornamental fsh for outdoor ponds,
-
-including sturgeon (Acipenser gueldenstaedtii). I used to buy them from a farm in Eastern Europe and at the end of the summer, when the selling season was over, I just let the leftover sturgeon grow bigger for the next season at my indoor farm; by which time they would fetch a very good price! On Christmas day after feeding and
-
-checking the fsh farm, I went to church and visited my family in the village. Coming
-
-back home in the afternoon, I experienced a disaster; the pump of the tanks where the sturgeon were stocked, had stopped and the water was not fowing through the tanks anymore. Most of my sturgeon had died because of oxygen depletion. I forgot to equip the system with backup aeration and the alarm system didn't work.
-
-mortality of fish. It is a very common cause of death at fish farms which farm non-air breathing fish, and also in rivers where factories dump chemicals into the water which consume all the oxygen.
-
-African catfish however, are hardy fish when it comes to oxygen concentrations in the
-
-Catfish diseases
-
-water; they survive and even do well when the oxygen level is below 1 mg/l. Their organ to breath air is not immediately developed when they are born though. It takes about three to four weeks for the catfish to get to this growth stage. So, before this stage, oxygen levels
-
-have to be at least 4 mg/l. Therefore, hatcheries need running water in the tanks and/or
-
-aeration 24/7, and the tanks should not be overcrowded.
-
-Oxygen levels in the water vary with the water temperature
-
-Figure 26 shows that maximum oxygen levels reduce significantly when water temperature Figure 26 shows that maximum oxygen levels reduce significantly when the water
-
-temperature rises. In addition, the metabolism of fish increases with increasing temperatures. rises. In addition, the metabolism of fish increases with increasing temperatures. As already
-
-Low oxygen levels, also called environmental hypoxia, can cause mass
-
-As already stated, in a farm situation when a catfish has developed its air breathing organ, stated, in a farm situation when a catfish has developed its air breathing organ, a low oxygen level is not a serious problem. However, it is good to realise that transporting fish a low oxygen level is not a serious problem. However, it is good to realise that transporting fish in a car without air-conditioning, might lead to problems with maintaining an optimum in a car without air-conditioning, might lead to problems with maintaining an optimum water temperature, inducing mortality. So, for fish transportation ideally the water should water temperature, inducing mortality. So, for fish transportation ideally the water should
-
-not be more than 25 $ ^{\circ} \mathrm{C} $ .not be more than 25 $ ^{\circ} \mathrm{C}. $
+Oxygen levels in the water vary with the water temperature. Figure 26 shows that maximum oxygen levels reduce significantly when the water temperature rises. In addition, the metabolism of fish increases with increasing temperatures. As already stated, in a farm situation when a catfish has developed its air-breathing organ, a low oxygen level is not a serious problem. However, it is good to realise that transporting fish in a car without air-conditioning might lead to problems with maintaining an optimum water temperature, inducing mortality. So, for fish transportation, ideally the water should not be more than 25 $ ^{\circ} \mathrm{C} $.
 
 ## Herbicides and insecticides
 
-Herbicides and insecticides are usually highly toxic for aquatic animals, including fish. Herbicides and insecticides are usually highly toxic for aquatic animals, including fish. Therefore, don't use insecticides at your fish farm to kill insects such as mosquitoes, flies Therefore, don't use insecticides at your fish farm to kill insects such as mosquitoes, flies
-
-or cockroaches. If they drop dead and fall into the water of your ponds or tanks, they can or cockroaches. If they drop dead and fall into the water of your ponds or tanks, they can
-
-even be eaten by the fish! When spraying with herbicides on your premises to kill the grass, even be eaten by the fish! When spraying with herbicides on your premises, to kill the grass, make sure that there is little
-
-wind so that none of the chemicals blow into the water make sure that there is little wind so that none of the chemicals blow into the water of the tanks. Always be very cautious when using chemicals at your farm! of the tanks. Always be very cautious when using chemicals at your farm!
+Herbicides and insecticides are usually highly toxic for aquatic animals, including fish. Therefore, do not use insecticides at your fish farm to kill insects such as mosquitoes, flies or cockroaches. If they drop dead and fall into the water of your ponds or tanks, they can even be eaten by the fish. When spraying herbicides on your premises to kill the grass, make sure that there is little wind so that none of the chemicals blow into the water of the tanks. Always be very cautious when using chemicals at your farm.
 
 Another source of chemicals entering the water arises during the rainy season, when
 
-farmers use a lot of chemicals at their farm. Runoff flowing into the river might be contaminated with herbicides and insecticides. The dilution factor is high, but I believe even low concentrations of these chemicals can cause problems for your fish, if you use the river water directly. I believe the immune system of the fish is challenged and they will not
+farmers use a lot of chemicals at their farms. Runoff flowing into the river might be contaminated with herbicides and insecticides. The dilution factor is high, but I believe even low concentrations of these chemicals can cause problems for your fish if you use the river water directly. I believe the immune system of the fish is challenged and they will not be able to resist diseases as strongly as they normally can. The best way to use river water is to allow it to settle in a big reservoir with a retention time of at least two days.
 
-be able to resist diseases as strongly as they can normally. The best way to use river water
-
-is to allow it to settle in a big reservoir with a retention time of at least two days.
-
-During the dry season another threat occurs when fishermen use gammalin 20 (Lindane) to kill and catch the fish in the river. The flow of the river is slow and just a few litres of
-
-gammalin can kill a lot of fish. When you use this water to flush your ponds, you will
-
-certainly get problems with your fish. My advice is to always check the river and the water intake for floating dead fish; if so, delay pumping the water till you don't see dead fish anymore. The chemical will pass by if the river is still flowing.anymore. The chemical will pass by, if the river is still flowing.
+During the dry season another threat occurs when fishermen use gammalin 20 (Lindane) to kill and catch fish in the river. The flow of the river is slow and just a few litres of gammalin can kill a lot of fish. When you use this water to flush your ponds, you will certainly get problems with your fish. My advice is to always check the river and the water intake for floating dead fish; if so, delay pumping the water until you do not see dead fish anymore. The chemical will pass by if the river is still flowing.
 
 <div style='text-align: center;'><img src='images/img_101.png' alt='OCR图片'/></div>
 
-<table border="1"><tr><td>Temp</td><td>SatDO</td><td></td><td>Temp</td><td>SatDO</td><td></td><td>Temp</td><td>SatDO</td></tr><tr><td>15</td><td>10.1</td><td></td><td>20</td><td>9.1</td><td></td><td>25</td><td>8.3</td></tr><tr><td>15.1</td><td>10.1</td><td></td><td>20.1</td><td>9.1</td><td></td><td>25.1</td><td>8.2</td></tr><tr><td>15.2</td><td>10</td><td></td><td>20.2</td><td>9.1</td><td></td><td>25.2</td><td>8.2</td></tr><tr><td>15.3</td><td>10</td><td></td><td>20.3</td><td>9</td><td></td><td>25.3</td><td>8.2</td></tr><tr><td>15.4</td><td>10</td><td></td><td>20.4</td><td>9</td><td></td><td>25.4</td><td>8.2</td></tr><tr><td>15.5</td><td>10</td><td></td><td>20.5</td><td>9</td><td></td><td>25.5</td><td>8.2</td></tr><tr><td>15.6</td><td>10</td><td></td><td>20.6</td><td>9</td><td></td><td>25.6</td><td>8.2</td></tr><tr><td>15.7</td><td>9.9</td><td></td><td>20.7</td><td>9</td><td></td><td>25.7</td><td>8.2</td></tr><tr><td>15.8</td><td>9.9</td><td></td><td>20.8</td><td>9</td><td></td><td>25.8</td><td>8.1</td></tr><tr><td>15.9</td><td>9.9</td><td></td><td>20.9</td><td>8.9</td><td></td><td>25.9</td><td>8.1</td></tr><tr><td>16</td><td>9.9</td><td></td><td>21</td><td>8.9</td><td></td><td>26</td><td>8.1</td></tr><tr><td>16.1</td><td>9.8</td><td></td><td>21.1</td><td>8.9</td><td></td><td>26.1</td><td>8.1</td></tr><tr><td>16.2</td><td>9.8</td><td></td><td>21.2</td><td>8.9</td><td></td><td>26.2</td><td>8.1</td></tr><tr><td>16.3</td><td>9.8</td><td></td><td>21.3</td><td>8.9</td><td></td><td>26.3</td><td>8.1</td></tr><tr><td>16.4</td><td>9.8</td><td></td><td>21.4</td><td>8.8</td><td></td><td>26.4</td><td>8.1</td></tr><tr><td>16.5</td><td>9.8</td><td></td><td>21.5</td><td>8.8</td><td></td><td>26.5</td><td>8</td></tr><tr><td>16.6</td><td>9.7</td><td></td><td>21.6</td><td>8.8</td><td></td><td>26.6</td><td>8</td></tr><tr><td>16.7</td><td>9.7</td><td></td><td>21.7</td><td>8.8</td><td></td><td>26.7</td><td>8</td></tr><tr><td>16.8</td><td>9.7</td><td></td><td>21.8</td><td>8.8</td><td></td><td>26.8</td><td>8</td></tr><tr><td>16.9</td><td>9.7</td><td></td><td>21.9</td><td>8.8</td><td></td><td>26.9</td><td>8</td></tr><tr><td>17</td><td>9.7</td><td></td><td>22</td><td>8.7</td><td></td><td>27</td><td>8</td></tr><tr><td>17.1</td><td>9.6</td><td></td><td>22.1</td><td>8.7</td><td></td><td>27.1</td><td>8</td></tr><tr><td>17.2</td><td>9.6</td><td></td><td>22.2</td><td>8.7</td><td></td><td>27.2</td><td>7.9</td></tr><tr><td>17.3</td><td>9.6</td><td></td><td>22.3</td><td>8.7</td><td></td><td>27.3</td><td>7.9</td></tr><tr><td>17.4</td><td>9.6</td><td></td><td>22.4</td><td>8.7</td><td></td><td>27.4</td><td>7.9</td></tr><tr><td>17.5</td><td>9.6</td><td></td><td>22.5</td><td>8.7</td><td></td><td>27.5</td><td>7.9</td></tr><tr><td>17.6</td><td>9.5</td><td></td><td>22.6</td><td>8.6</td><td></td><td>27.6</td><td>7.9</td></tr><tr><td>17.7</td><td>9.5</td><td></td><td>22.7</td><td>8.6</td><td></td><td>27.7</td><td>7.9</td></tr><tr><td>17.8</td><td>9.5</td><td></td><td>22.8</td><td>8.6</td><td></td><td>27.8</td><td>7.9</td></tr><tr><td>17.9</td><td>9.5</td><td></td><td>22.9</td><td>8.6</td><td></td><td>27.9</td><td>7.8</td></tr><tr><td>18</td><td>9.5</td><td></td><td>23</td><td>8.6</td><td></td><td>28</td><td>7.8</td></tr><tr><td>18.1</td><td>9.4</td><td></td><td>23.1</td><td>8.6</td><td></td><td>28.1</td><td>7.8</td></tr><tr><td>18.2</td><td>9.4</td><td></td><td>23.2</td><td>8.5</td><td></td><td>28.2</td><td>7.8</td></tr><tr><td>18.3</td><td>9.4</td><td></td><td>23.3</td><td>8.5</td><td></td><td>28.3</td><td>7.8</td></tr><tr><td>18.4</td><td>9.4</td><td></td><td>23.4</td><td>8.5</td><td></td><td>28.4</td><td>7.8</td></tr><tr><td>18.5</td><td>9.4</td><td></td><td>23.5</td><td>8.5</td><td></td><td>28.5</td><td>7.8</td></tr><tr><td>18.6</td><td>9.4</td><td></td><td>23.6</td><td>8.5</td><td></td><td>28.6</td><td>7.7</td></tr><tr><td>18.7</td><td>9.3</td><td></td><td>23.7</td><td>8.5</td><td></td><td>28.7</td><td>7.7</td></tr><tr><td>18.8</td><td>9.3</td><td></td><td>23.8</td><td>8.5</td><td></td><td>28.8</td><td>7.7</td></tr><tr><td>18.9</td><td>9.3</td><td></td><td>23.9</td><td>8.4</td><td></td><td>28.9</td><td>7.7</td></tr><tr><td>19</td><td>9.3</td><td></td><td>24</td><td>8.4</td><td></td><td>29</td><td>7.7</td></tr><tr><td>19.1</td><td>9.3</td><td></td><td>24.1</td><td>8.4</td><td></td><td>29.1</td><td>7.7</td></tr><tr><td>19.2</td><td>9.2</td><td></td><td>24.2</td><td>8.4</td><td></td><td>29.2</td><td>7.7</td></tr><tr><td>19.3</td><td>9.2</td><td></td><td>24.3</td><td>8.4</td><td></td><td>29.3</td><td>7.7</td></tr><tr><td>19.4</td><td>9.2</td><td></td><td>24.4</td><td>8.4</td><td></td><td>29.4</td><td>7.6</td></tr><tr><td>19.5</td><td>9.2</td><td></td><td>24.5</td><td>8.3</td><td></td><td>29.5</td><td>7.6</td></tr><tr><td>19.6</td><td>9.2</td><td></td><td>24.6</td><td>8.3</td><td></td><td>29.6</td><td>7.6</td></tr><tr><td>19.7</td><td>9.1</td><td></td><td>24.7</td><td>8.3</td><td></td><td>29.7</td><td>7.6</td></tr><tr><td>19.8</td><td>9.1</td><td></td><td>24.8</td><td>8.3</td><td></td><td>29.8</td><td>7.6</td></tr><tr><td>19.9</td><td>9.1</td><td></td><td>24.9</td><td>8.3</td><td></td><td>29.9830</td><td>7.6</td></tr></table>16.8
+<table border="1"><tr><td>Temp</td><td>SatDO</td><td></td><td>Temp</td><td>SatDO</td><td></td><td>Temp</td><td>SatDO</td></tr><tr><td>15</td><td>10.1</td><td></td><td>20</td><td>9.1</td><td></td><td>25</td><td>8.3</td></tr><tr><td>15.1</td><td>10.1</td><td></td><td>20.1</td><td>9.1</td><td></td><td>25.1</td><td>8.2</td></tr><tr><td>15.2</td><td>10</td><td></td><td>20.2</td><td>9.1</td><td></td><td>25.2</td><td>8.2</td></tr><tr><td>15.3</td><td>10</td><td></td><td>20.3</td><td>9</td><td></td><td>25.3</td><td>8.2</td></tr><tr><td>15.4</td><td>10</td><td></td><td>20.4</td><td>9</td><td></td><td>25.4</td><td>8.2</td></tr><tr><td>15.5</td><td>10</td><td></td><td>20.5</td><td>9</td><td></td><td>25.5</td><td>8.2</td></tr><tr><td>15.6</td><td>10</td><td></td><td>20.6</td><td>9</td><td></td><td>25.6</td><td>8.2</td></tr><tr><td>15.7</td><td>9.9</td><td></td><td>20.7</td><td>9</td><td></td><td>25.7</td><td>8.2</td></tr><tr><td>15.8</td><td>9.9</td><td></td><td>20.8</td><td>9</td><td></td><td>25.8</td><td>8.1</td></tr><tr><td>15.9</td><td>9.9</td><td></td><td>20.9</td><td>8.9</td><td></td><td>25.9</td><td>8.1</td></tr><tr><td>16</td><td>9.9</td><td></td><td>21</td><td>8.9</td><td></td><td>26</td><td>8.1</td></tr><tr><td>16.1</td><td>9.8</td><td></td><td>21.1</td><td>8.9</td><td></td><td>26.1</td><td>8.1</td></tr><tr><td>16.2</td><td>9.8</td><td></td><td>21.2</td><td>8.9</td><td></td><td>26.2</td><td>8.1</td></tr><tr><td>16.3</td><td>9.8</td><td></td><td>21.3</td><td>8.9</td><td></td><td>26.3</td><td>8.1</td></tr><tr><td>16.4</td><td>9.8</td><td></td><td>21.4</td><td>8.8</td><td></td><td>26.4</td><td>8.1</td></tr><tr><td>16.5</td><td>9.8</td><td></td><td>21.5</td><td>8.8</td><td></td><td>26.5</td><td>8</td></tr><tr><td>16.6</td><td>9.7</td><td></td><td>21.6</td><td>8.8</td><td></td><td>26.6</td><td>8</td></tr><tr><td>16.7</td><td>9.7</td><td></td><td>21.7</td><td>8.8</td><td></td><td>26.7</td><td>8</td></tr><tr><td>16.8</td><td>9.7</td><td></td><td>21.8</td><td>8.8</td><td></td><td>26.8</td><td>8</td></tr><tr><td>16.9</td><td>9.7</td><td></td><td>21.9</td><td>8.8</td><td></td><td>26.9</td><td>8</td></tr><tr><td>17</td><td>9.7</td><td></td><td>22</td><td>8.7</td><td></td><td>27</td><td>8</td></tr><tr><td>17.1</td><td>9.6</td><td></td><td>22.1</td><td>8.7</td><td></td><td>27.1</td><td>8</td></tr><tr><td>17.2</td><td>9.6</td><td></td><td>22.2</td><td>8.7</td><td></td><td>27.2</td><td>7.9</td></tr><tr><td>17.3</td><td>9.6</td><td></td><td>22.3</td><td>8.7</td><td></td><td>27.3</td><td>7.9</td></tr><tr><td>17.4</td><td>9.6</td><td></td><td>22.4</td><td>8.7</td><td></td><td>27.4</td><td>7.9</td></tr><tr><td>17.5</td><td>9.6</td><td></td><td>22.5</td><td>8.7</td><td></td><td>27.5</td><td>7.9</td></tr><tr><td>17.6</td><td>9.5</td><td></td><td>22.6</td><td>8.6</td><td></td><td>27.6</td><td>7.9</td></tr><tr><td>17.7</td><td>9.5</td><td></td><td>22.7</td><td>8.6</td><td></td><td>27.7</td><td>7.9</td></tr><tr><td>17.8</td><td>9.5</td><td></td><td>22.8</td><td>8.6</td><td></td><td>27.8</td><td>7.9</td></tr><tr><td>17.9</td><td>9.5</td><td></td><td>22.9</td><td>8.6</td><td></td><td>27.9</td><td>7.8</td></tr><tr><td>18</td><td>9.5</td><td></td><td>23</td><td>8.6</td><td></td><td>28</td><td>7.8</td></tr><tr><td>18.1</td><td>9.4</td><td></td><td>23.1</td><td>8.6</td><td></td><td>28.1</td><td>7.8</td></tr><tr><td>18.2</td><td>9.4</td><td></td><td>23.2</td><td>8.5</td><td></td><td>28.2</td><td>7.8</td></tr><tr><td>18.3</td><td>9.4</td><td></td><td>23.3</td><td>8.5</td><td></td><td>28.3</td><td>7.8</td></tr><tr><td>18.4</td><td>9.4</td><td></td><td>23.4</td><td>8.5</td><td></td><td>28.4</td><td>7.8</td></tr><tr><td>18.5</td><td>9.4</td><td></td><td>23.5</td><td>8.5</td><td></td><td>28.5</td><td>7.8</td></tr><tr><td>18.6</td><td>9.4</td><td></td><td>23.6</td><td>8.5</td><td></td><td>28.6</td><td>7.7</td></tr><tr><td>18.7</td><td>9.3</td><td></td><td>23.7</td><td>8.5</td><td></td><td>28.7</td><td>7.7</td></tr><tr><td>18.8</td><td>9.3</td><td></td><td>23.8</td><td>8.5</td><td></td><td>28.8</td><td>7.7</td></tr><tr><td>18.9</td><td>9.3</td><td></td><td>23.9</td><td>8.4</td><td></td><td>28.9</td><td>7.7</td></tr><tr><td>19</td><td>9.3</td><td></td><td>24</td><td>8.4</td><td></td><td>29</td><td>7.7</td></tr><tr><td>19.1</td><td>9.3</td><td></td><td>24.1</td><td>8.4</td><td></td><td>29.1</td><td>7.7</td></tr><tr><td>19.2</td><td>9.2</td><td></td><td>24.2</td><td>8.4</td><td></td><td>29.2</td><td>7.7</td></tr><tr><td>19.3</td><td>9.2</td><td></td><td>24.3</td><td>8.4</td><td></td><td>29.3</td><td>7.7</td></tr><tr><td>19.4</td><td>9.2</td><td></td><td>24.4</td><td>8.4</td><td></td><td>29.4</td><td>7.6</td></tr><tr><td>19.5</td><td>9.2</td><td></td><td>24.5</td><td>8.3</td><td></td><td>29.5</td><td>7.6</td></tr><tr><td>19.6</td><td>9.2</td><td></td><td>24.6</td><td>8.3</td><td></td><td>29.6</td><td>7.6</td></tr><tr><td>19.7</td><td>9.1</td><td></td><td>24.7</td><td>8.3</td><td></td><td>29.7</td><td>7.6</td></tr><tr><td>19.8</td><td>9.1</td><td></td><td>24.8</td><td>8.3</td><td></td><td>29.8</td><td>7.6</td></tr><tr><td>19.9</td><td>9.1</td><td></td><td>24.9</td><td>8.3</td><td></td><td>29.9 &amp; 30</td><td>7.6</td></tr></table>
 
-16.9
+Figure 26. The relationship between the water temperature and the oxygen level at saturation (source: Fondriest Environmental Products).
 
-17
-
-17.1
-
-17.2
-
-17.3
-
-17.4
-
-17.5
-
-17.6
-
-17.7
-
-17.8
-
-17.9
-
-18
-
-18.1
-
-18.2
-
-18.3
-
-18.4
-
-18.5
-
-18.6
-
-16.8 18.7
-
-16.9 18.8
-
-17 18.9
-
-17.1 19
-
-17.2 19.1
-
-17.3 19.2
-
-17.4 19.3
-
-17.5 19.4
-
-17.6 19.5
-
-17.7 19.6
-
-17.8 19.7
-
-17.9 19.8
-
-18 19.9
-
-18.1
-
-18.2 154
-
-18.3 SatDO
-
-18.4 10.1
-
-18.5 10.1
-
-18.6 10
-
-10
-
-10
-
-10
-
-10
-
-9.9
-
-9.9
-
-9.9
-
-9.9
-
-9.8
-
-9.8
-
-9.8
-
-9.8
-
-9.7
-
-9.7
-
-9.7
-
-9.7
-
-9.7
-
-9.6
-
-9.6
-
-9.6
-
-9.6
-
-9.6
-
-9.5
-
-9.5
-
-9.5
-
-9.5
-
-9.5
-
-9.5
-
-9.4
-
-9.4
-
-9.4
-
-9.4
-
-9.4
-
-9.4
-
-9.4
-
-9.3
-
-9.3
-
-9.3
-
-9.3
-
-9.2
-
-9.2
-
-9.2
-
-9.2
-
-9.1
-
-9.1
-
-9.1
-
-Temp
-
-20
-
-20.1
-
-20.2
-
-20.3
-
-20.4
-
-20.5
-
-20.6
-
-20.7
-
-20.8
-
-9.3 20.9
-
-9.2 21
-
-9.2 21.1
-
-9.2 21.2
-
-9.2 21.3
-
-9.2 21.4
-
-9.1 21.5
-
-9.1 21.6
-
-9.1 21.7
-
-Temp 21.8
-
-20 21.9
-
-20.1 22
-
-20.2 22.1
-
-20.3 22.2
-
-20.4 22.3
-
-20.5 22.4
-
-20.6 22.5
-
-20.7 22.6
-
-20.8 22.7
-
-22.8
-
-22.9
-
-23
-
-23.1
-
-23.2
-
-23.3
-
-23.4
-
-23.5
-
-23.6
-
-23.7
-
-23.8
-
-23.9
-
-24
-
-24.1
-
-24.2
-
-24.3
-
-24.4
-
-24.5
-
-24.6
-
-22.8 24.7
-
-22.9 24.8
-
-23 24.9
-
-23.1 SatDO
-
-23.2 9.1
-
-23.3 9.1
-
-23.4 9.1
-
-23.5 9
-
-23.6 9
-
-23.7 9
-
-23.8 9
-
-23.9 9
-
-24 9
-
-24.1 8.9
-
-24.2 8.9
-
-24.3 8.9
-
-24.4 8.9
-
-24.5 8.9
-
-24.6 8.8
-
-8.8 8.5
-
-8.8 8.5
-
-8.8 8.5
-
-8.8 8.5
-
-8.8 8.5
-
-8.7 8.4
-
-8.7 8.4
-
-8.7 8.4
-
-8.7 8.4
-
-8.7 8.4
-
-8.7 8.4
-
-8.6 8.3
-
-8.6 8.3
-
-8.6 8.3
-
-8.6 8.3
-
-8.6 Temp
-
-8.5 25
-
-8.5 25.1
-
-25.2 27.1
-
-25.3 27.2
-
-25.4 27.3
-
-25.5 27.4
-
-25.6 27.5
-
-25.7 27.6
-
-25.8 27.7
-
-25.9 27.8
-
-26 27.9
-
-26.1 28
-
-26.2 28.1
-
-26.3 28.2
-
-26.4 28.3
-
-26.5 28.4
-
-26.6 28.5
-
-26.7 28.6
-
-26.8 28.7
-
-26.9 28.8
-
-27 28.9
-
-29
-
-29.1
-
-29.2
-
-29.3
-
-29.4
-
-29.5
-
-29.6
-
-29.7
-
-29.8
-
-29.9 & 30
-
-SatDO
-
-8.3
-
-8.2
-
-8.2
-
-8.2
-
-8.2
-
-8.2
-
-8.2
-
-8.1
-
-8.1
-
-8.1
-
-8.1
-
-8.1
-
-8.1
-
-8
-
-8
-
-8
-
-8
-
-8
-
-8
-
-7.9
-
-7.9
-
-7.9
-
-7.9
-
-7.9
-
-7.9
-
-7.9
-
-7.8
-
-7.8
-
-7.8
-
-7.8
-
-7.8
-
-7.8
-
-7.8
-
-7.7
-
-7.7
-
-7.7
-
-7.7
-
-7.7
-
-7.7
-
-7.7
-
-7.7
-
-7.7
-
-7.6
-
-7.6
-
-7.6
-
-7.6
-
-7.6
-
-7.6
-
-Figure 26. Figure 26. The relationship between the water temperature and the oxygen level at saturation.The relationship between the water temperature and the oxygen level at saturation (source: ?source:
-
-?o??r?es? ???ro??e???? ?ro?uc?s? Fondriest Environmental Products).Products.
-
-Catfish diseases
-
-Chlorine
+## Chlorine
 
 Chlorine is a highly toxic chemical which is used for disinfecting materials and systems at the farm. It kills all the germs. But it is also used to disinfect the drinking water by
 
@@ -5201,9 +3800,7 @@ available in Nigeria, but they do exist.
 
 What does chlorine do to the fish?
 
-Chlorine is an oxidizer and kills every living tissue by causing necrosis. In catfish lethal levels Chlorine is an oxidizer and kills every living tissue by causing necrosis. In catfish lethal levels
-
-of chlorine will cause the slime on the skin of the fish to disappear within 24 hours. The of chlorine will cause the slime on the skin of the fish to disappear within 24 hours. The fish will certainly die. Also, chlorine attacks the respiratory system. So, the gills and the fish will certainly die. Also, chlorine attacks the respiratory system. So, the gills and the labyrinth organ will be affected too, causing breathing difficulties.labyrinth organ will be affected too, causing to breathing difficulties.
+Chlorine is an oxidizer and kills living tissue by causing necrosis. In catfish, lethal levels of chlorine will cause the slime on the skin of the fish to disappear within 24 hours. The fish will certainly die. Also, chlorine attacks the respiratory system, so the gills and the labyrinth organ will be affected too, causing breathing difficulties.
 
 Fortunately, removing chlorine is not that difficult. Chlorine is relatively unstable in water
 
@@ -5211,61 +3808,31 @@ and will vaporise from the water by itself within 24 hours, especially if you ae
 
 sodium thiosulfate.
 
-pH and alkalinity of water
+## pH and alkalinity of water
 
-The pH of pure water is 7. In general, water with a pH lower than 7 is considered acidic,
+The pH of pure water is 7. In general, water with a pH lower than 7 is considered acidic, and water with a pH higher than 7 is considered basic. The normal pH range in surface water and groundwater is between 6 and 8.5. This is also considered to be a good pH range for fish to thrive in. The complete pH scale ranges from 0 to 14. A pH lower than 6 or higher than 8.5 is dangerous for the well-being of fish. In both cases the slime on the skin and the gills themselves are affected. The slime on the skin actually dissolves. In addition, when the pH is high the ammonia-ammonium ratio is shifted towards the very toxic ammonia.
 
-and water with a pH higher than 7 is considered basic. The normal range
+Alkalinity refers to the property of water to neutralize acid; it is an expression of the buffering capacity. For fish farming the alkalinity of the water should not be less than 25 mg/l equivalent calcium carbonate (CaCO3). Farming in extensive earthen ponds creates an environment that enhances natural production. When the water is acidic and the alkalinity is low (less than 25 mg/l), the buffer capacity of the water should be enhanced. In Nigeria this is usually carried out by adding lime to the water or onto the bottom of the pond. The dosage is about 300 kg per 1000 m² of pond.
 
-## of the pH in
+In a low-pH environment, when the soil is acidic (around pH 6), the water will not have enough buffer capacity and you will have to add limestone, which is calcium carbonate, in order to increase the pH, the buffering of the water and the availability of nutrients from the soil. This way algae can grow and the natural cycle of phytoplankton to zooplankton is triggered. Catfish thrive better in a pond with an algal bloom than in a clear-water environment. When the pH of the soil and the water is already above 7.5 at the end of the day, there is no need for additional liming.
 
-surface water and ground water is between 6 and 8.5. This is also considered to be a
+New ponds which have just been constructed need lime to make them fertile: 2000 kg for sandy soil and 4000 kg for clay soil per ha. This can be carried out in an empty pond before filling it with water. The lime also disinfects the soil and enhances mineralisation of the mud. One or two months after the ponds have been filled, you can test the total alkalinity with a test kit available in Nigeria. It should be more than 25 mg/l. If the alkalinity is less than 25 mg/l, you can add another 200 kg of limestone/ha, and repeat this as long as necessary (source: FAO, pond conditioning through liming).
 
-good pH for fish to thrive in. The complete pH-scale ranges from 0 to 14. A pH lower than 6 and higher than 8.5 is dangerous for the well-being of fish. In both cases the slime on the skin and the gills themselves are affected. The slime on the skin actually dissolves. In addition, when the pH is high the ammonia-ammonium ratio is shifted towards the very
+## Heavy metals such as copper, zinc, cadmium and lead
 
-toxic ammonia.
+Some heavy metals, in small quantities, are a necessity for growing fish. They are part of the essential micronutrients which are even added to the feed. But when they occur in the water, even at low concentrations, they will be toxic to the fish and should be avoided by all means.
 
-Alkalinity refers to the property of water to neutralize acid; it's an expression of the buffering Alkalinity refers to the property of water to neutralize acid; it's an expression of the buffering capacity. For fish farming the alkalinity of the water should not be less than 25 capacity. For fish farming the alkalinity of the water should not be less than 25 mg/l equivalent calcium carbonate (CaCO3). Farming in extensive earthen ponds, creates an environment mg/l equivalent calcium carbonate $ \mathrm{(C a C O_{3})} $ . Farming in extensive earthen ponds, creates
+Normally in groundwater you will not have problems with heavy metals, but when you are using copper or galvanised pipes, you certainly will elevate the levels of copper, zinc and cadmium in the water. This will be devastating for the results of your hatchery. If you use river water, you will not usually have problems with these heavy metals, but when a river passes heavy industrial or urban areas, you have to be cautious. Fish can become chronically sick and susceptible to diseases or die directly from this type of pollution. Most of these pollutants damage the internal organs and eventually this will lead to mortality. Fish eaten from polluted rivers are even dangerous for human health. The natural food for river fish is polluted as well, and the fish will deposit these heavy metals in their organs and fat.
 
-which enhances the natural production. When the water is acidic and the alkalinity is low an environment which enhances the natural production of calcium carbonate. In a low
+## Concrete
 
-(less than 25 mg/l), the buffer capacity of the water should be enhanced. In Nigeria this is pH-environment, when the soil is acidic (pH 6), the water will not have this buffer capacity and you will have to add limestone, which actually is calcium carbonate in order to increase usually carried out by adding lime to the water or onto the bottom of the pond. The dosage is 300 kg per 1000 mthe pH, the buffering of the water and the availability of nutrients from the soil. This way of the pond.
+Newly built concrete ponds filled with water will elevate the pH of the water for some weeks, but after this period the pH will be adjusted to the pH of the incoming water. So, it is advisable to leave a pond at least one or two weeks filled with water without fish in order to neutralize the effect of concrete. After two weeks it is usually safe to stock fish in it, but flush the water first and refill.
 
-algae can grow and the natural cycle of phytoplankton to zooplankton is triggered. Catfish This way algae can grow and the natural cycle of phytoplankton to zooplankton is triggered.
+## Water temperature
 
-Catfish thrive better in a pond with an algal bloom than in a clear water environment. When thethrive better in a pond with an algal bloom than in a clear water environment. When the
+Catfish are tropical fish which cannot survive in cold water. The water temperature should be between 25 and 30 $ ^{\circ} $C for good growth and health. The optimum temperature is 28 $ ^{\circ} $C. A short period of one or two hours at 12 $ ^{\circ} $C will not cause the catfish to die. If the water temperature increases gradually after the short cold period, they will just wake up again with little problem. However, longer periods of cold water might initiate fungal growth on the skin, resulting in quick death. Temperatures above 34 $ ^{\circ} $C are also dangerous for catfish, because this temperature comes close to the level at which proteins in their body start to denature. Crucial enzymes and metabolic processes are especially irreversibly damaged, leading to mortality as well.
 
-## Chapter 9
-
-pH of the soil and the water is already above 7.5 at the end of the day, there is no need forpH of the soil and the water is already above 7.5 at the end of the day, there is no need for additional liming! New ponds, which just have been constructed, need lime to make them additional liming! New ponds which just have been constructed, need lime to make them fertile: 2000 kg for sandy soil and 4000 kg for clay soil per ha. This can be carried out in
-
-an empty pond before filling it with water. The lime also disinfects the soil and enhances
-
-mineralisation of the mud. One or two months after the ponds have been filled, you can test the total alkalinity with a test kit available in Nigeria. It should be more than 25 mg/l. If the alkalinity is less than 25 mg/l, you can add another 200 kg of limestone/ha, and repeat this as long as necessary (source: FAO, pond conditioning through liming).
-
-Heavy metals such as copper, zinc, cadmium, leadHeavy metals such as copper, zinc, cadmium, lead
-
-Some heavy metals, in small quantities though, are a necessity for growing fish. They are Some heavy metals, in small quantities though, are a necessity for growing fish. They are part of the essential micronutrients which are even added to the feed. But when they part of the essential micro nutrients which are even added to the feed. But when they occur in the water, even at low concentrations, they will be toxic to the fish and should be occur in the water, even at low concentrations, they will be toxic to the fish and should be avoided by all means. avoided by all means.
-
-Normally in groundwater you will not have problems with heavy metals, but when you Normally in groundwater you will not have problems with heavy metals, but when you are are using copper or galvanised pipes, you certainly will elevate levels of copper, zinc and using copper or galvanised pipes, you certainly will elevate the levels of copper, zinc and cadmium in the water. This will be devastating for the results of your hatchery. If you use cadmium in the water. This will be devastating for the results of your hatchery. If you use river water, you will not usually have problems with these heavy metals, but when a river river water, you will not usually have problems with these heavy metals, but when a river passes heavy industrial or urban areas, you have to be cautious. Fish can become chronically passes heavy industrial or urban areas, you have to be cautious. Fish can become chronically sick and get susceptible to diseases or die directly from this type of pollution. Most of these sick and get susceptible to diseases or die directly from this type of pollution. Most of these pollutants damage the internal organs and eventually this will lead to mortality. Fish eaten pollutants damage the internal organs and eventually this will lead to mortality. Fish eaten from polluted rivers are even dangerous for human health. The natural food for river fish is from polluted rivers are even dangerous for human health. The natural food for river fish is polluted as well, and the fish will deposit these heavy metals in their organs and fat.polluted as well, and the fish will deposit these heavy metals in their organs and fat.
-
-## ConcreteConcrete
-
-Newly built concrete ponds filled with water, will elevate the pH (basic) of the water for Newly built concrete ponds filled with water, will elevate the pH (basic) of the water for some weeks, but after this period the pH will be
-
-adjusted to the pH of the incoming water. some weeks, but after this period the pH will be adjusted to the pH of the incoming water. So, it is advisable to leave a pond at least one or two weeks filled with water without fish So, it is advisable to leave a pond at least one or two weeks filled with water without fish in order to neutralize the effect of concrete. After two weeks it's usually safe to stock fish in order to neutralize the effect of concrete. After two weeks it's usually safe to stock fish in it, but flush the water first and refill.in it, but flush the water first and refill.
-
-## Water temperatureWater temperature
-
-Catfish are tropical fish which cannot survive in cold water. The water temperature should Catfish are tropical fish which cannot survive in cold water. The water temperature should be between 25-30 $ ^{\circ} $ C for good growth and health. The optimum temperature is 28 $ ^{\circ} $ C. be between 25-30 $ ^{\circ} $ C for good growth and health. The optimum temperature is 28 $ ^{\circ} $ C. A short period of one or two hours of 12 $ ^{\circ} $ C will not cause the catfish to die. If the water A short period of one or two hours of 12 $ ^{\circ} $ C will not cause the catfish to die. If the water temperature increases gradually after the short cold period, they will just wake up again temperature increases gradually after the short cold period, they will just wake up again with little problem. However, longer periods of cold water might initiate fungal growth with little problem. However, longer periods of cold water might initiate fungal growthon the skin, resulting in a quick death. Temperatures above 34 $ ^{\circ} $ C are also dangerous on the skin, resulting in a quick death. Temperatures above 34 $ ^{\circ} $ C are also dangerous for catfish, because this temperature comes close to the level at which proteins in their for catfish, because this temperature comes close to the level at which proteins in their
-
-Catfish diseases
-
-body start to denature. Crucial enzymes and metabolic processes especially are irreversibly
-
-damaged leading to mortality as well.
-
-Monitoring the water quality
+## Monitoring the water quality
 
 In order to find out if the levels of ammonium-nitrogen, nitrite, pH, iron, hardness, temperature etcetera are within limits for growing fish, you need to have several test kits or all of them combined in one box (Photo 38).
 
@@ -5275,133 +3842,57 @@ These test kits are very simple to use and have a very good instruction manual. 
 
 been especially developed for fish farmers and owners of ornamental fishes.
 
-Feed-related deficiency
+## Feed-related deficiency
 
-If the fish at your farm are completely dependent on the feed you are providing,the feed
-
-should provide all the requirements for the fish. So the levels of protein, fat, ash, minerals
-
-and vitamins should be balanced in order to allow the fish to obtain optimal health and optimal growth. Depending on the growth stage, the requirements change and should be adjusted. If the feed contains too little of a certain requirement, this will immediately be shown by retarded growth and limited feed intake. It becomes even worse if some
-
-requirements are completely missing, such as vitamin C. This will cause the fish to develop
+If the fish at your farm are completely dependent on the feed you are providing, the feed should provide all the requirements for the fish. So the levels of protein, fat, ash, minerals and vitamins should be balanced in order to allow the fish to obtain optimal health and optimal growth. Depending on the growth stage, the requirements change and should be adjusted. If the feed contains too little of a certain requirement, this will immediately be shown by retarded growth and limited feed intake. It becomes even worse if some requirements are completely missing, such as vitamin C. This will cause the fish to develop
 
 <div style='text-align: center;'><img src='images/img_103.png' alt='OCR图片'/></div>
 
-Chapter 9
+a vitamin deficiency called "broken head disease" and they will eventually die from it, if not taken care of.
 
-a vitamin deficiency called 'broken head disease' and they will eventually die from it, if not a vitamin deficiency called 'broken head disease' and they will eventually die from it, if not
-
-taken care of.taken care of.
-
-If you don't make your own feed, there is not much to worry about, as long as you are buying If you don't make your own feed, there is not much to worry about, as long as you
-
-the feed from a respected feed mill with a proven track record. As already mentioned earlier, are buying the feed from a respected feed mill with a proven track record. As already
-
-I don't believe in making your own feed. That's why I will not go into this subject in detail.mentioned earlier, I don't believe in making your own feed. That's why I will not go into this subject in detail.
+If you do not make your own feed, there is not much to worry about, as long as you are buying the feed from a respected feed mill with a proven track record. As already mentioned earlier, I do not believe in making your own feed. That is why I will not go into this subject in detail.
 
 ## 9.3 CATFISH AS A HOST
 
-## 9.3 CATFISH AS A HOST
+The quality and condition of the fish you stock in your ponds or tanks are two underestimated factors in the prevention of diseases. Strong, healthy fish can put up with a lot. When you buy fish from hatcheries to stock them in your grow-out ponds, you will find that fish from different hatcheries yield different results. First of all, the growth is different, which means that the health of the fish varies too. Are the fish well fed and given the best feed at the hatchery? Has the broodstock been selected well and also given the best feed? The genetics of the fish also play a part. Well-domesticated lines of catfish will adapt better in a captive environment and will not feel as stressed as wild, undomesticated catfish.
 
-The quality and the condition of the fish you stock in your ponds or tanks, are two underestimated factors in prevention of diseases. Strong healthy fish can put up with a lot! When you buy fish The quality and the condition of the fish you stock in your ponds or tanks, are two underestimated factors in prevention of diseases. Strong healthy fish can put up with a lot! from hatcheries to stock them in your grow-out ponds, you will find out that fish from different hatcheries will yield different results. First of all, the growth is different, which means that also When you buy fish from hatcheries to stock them in your grow-out ponds, you will find
+The fry stage is crucial when it comes to development of the intestinal system and bone formation. When developmental problems arise, they will not fade away, but remain until the fish are harvested at table size. It is like building a house on a good or bad foundation. Some hatcheries use antibiotics preventively during the entire growth cycle. This will definitely weaken the immune system of the fish.
 
-the health of the fish varies too. Are the fish well fed and given the best feed at the hatchery? out that fish from different hatcheries will yield different results. First of all, the growth
+## Probiotics in fish feed
 
-is different, which means that also the health of the fish varies too. Are the fish well fed Has the brood stock been selected well and also given the best feed? The genetics of the fish also play a part. Well-domesticated lines of catfish will adapt better in a captive environment and and given the best feed at the hatchery? Has the brood stock been selected well and also given the best feed? The genetics of the fish also play a part. Well-domesticated lines will not feel so stressed as wild undomesticated catfish. The fry stage is crucial when it comes to development of the intestinal system and bone formation. When developmental problems of catfish will adapt better in a captive environment and will not feel so stressed as wild
+In the future, diseases will undoubtedly become more problematic. Strains of pathogenic bacteria are becoming resistant to the most commonly used drugs. So, increasing the health status of the fish is a good approach in order to avoid diseases, and it is also environmentally friendly. Probiotics applied to feed to enhance general health are already common practice for land-based animals, but have only recently been introduced in aquaculture.
 
-arise, they will not fade away, but remain till the fish are harvested at table size. It's like building a undomesticated catfish. The fry stage is crucial when it comes to development of the
+Probiotics are harmless bacteria which contribute to the intestinal microbial balance. They operate in several ways:
 
-house on a good or a bad foundation. Some hatcheries are using antibiotics preventively during intestinal system and bone formation. When developmental problems arise, they will not fade away, but remain till the fish are harvested at table size. It's like building a house on the entire growth cycle. This will definitely weaken the immune system of the fish.
-
-a good or a bad foundation. Some hatcheries are using antibiotics preventively during the entire growth cycle. This will definitely weaken the immune system of the fish. Probiotics in fish feed
-
-In the future diseases will undoubtedly become more problematic. Strains of pathogenic
-
-Probiotics in fish feedbacteria are becoming resistant to the most commonly used drugs. So, increasing the health status of the fish is a good approach in order to avoid diseases and it is also In the future diseases will undoubtedly become more problematic. Strains of pathogenic environmentally friendly. Probiotics applied to feed to enhance the general health is already bacteria are becoming resistant to the most commonly used drugs. So, increasing the health status of the fish is a good approach in order to avoid diseases and it is also common practice for land-based animals, but are recently also introduced in aquaculture. Probiotics are harmless bacteria which contribute to the intestinal microbial balance. They environmentally friendly.
-
-Probiotics applied to feed to enhance the general health is already common practice for operate in several ways:
-
-land-based animals, but recently also introduced in aquaculture.
-
-- Competition between these 'friendly bacteria' and pathogenic bacteria, stabilises
-
-- the intestinal tract. Probiotics are harmless bacteria which contribute to the intestinal microbial
-
-- Probiotics produce compounds which inhibit the growth of pathogenic bacteria.balance. They operate in several ways: competition between these 'friendly
-
-. Probiotics enhance the immune system of the fish.bacteria' and pathogenic bacteria, stabilises the intestinal tract.
-
+- Competition between these "friendly bacteria" and pathogenic bacteria stabilises the intestinal tract.
 - Probiotics produce compounds which inhibit the growth of pathogenic bacteria.
+- Probiotics enhance the immune system of the fish.
 
-The use of and ways to incorporate probiotics in fish feed are relatively new and more. Probiotics enhance the immune system of the fish.
+The use of probiotics in fish feed and the ways to incorporate them are relatively new, and more research is needed to be sure they are beneficial to the species of fish they are given to. This development is certainly promising and worth mentioning.
 
-research is needed to be sure they are beneficial to the species of fish they are given to.
+## 9.4 PATHOGENS
 
-This development is certainly promising and worth mentioning.The use of and ways to incorporate probiotics in fish feed is relatively new and more
+Like humans and other animals, fish suffer from diseases too. The fish's defences against diseases are specific and non-specific. Non-specific defences include skin and scales, as well as the slime layer secreted by the skin, which traps microorganisms and inhibits their growth. If pathogens breach these defences, fish develop inflammatory responses that increase the flow of blood to the infected areas, resulting in the delivery of white blood cells which attack the pathogens.
 
-Catfish diseases
+Stressed or sick fish can often be recognized by abnormal behaviour, such as decreased appetite, nervous or unsteady swimming, remaining in a vertical position at the surface of the water, or by clinical symptoms such as mutilated barbels or fins, dropsy, white or red-brown spots on the skin, pop-eyes etcetera. However, keep in mind that these symptoms are not specific, so further laboratory tests may have to be conducted.
 
-9. 4 PATHOGENSresearch is needed to be sure they are beneficial to the species of fish they are given to.
+At the farm you should monitor daily for diseases, especially during feeding when catfish usually swim up to the surface of the water. For proper diagnosis of bacterial, fungal and parasitical diseases, swab preparations of the skin, gill filaments, intestines etcetera should be made and examined under a microscope with appropriate magnification.
 
-This development is certainly promising and worth mentioning.
+When a swab does not show any parasites, you most likely have bacterial problems to deal with. In this case, you should try to culture them on an agar plate and run an antibiotic sensitivity test. After diagnosis, specific therapy may be administered. Since most farmers have no laboratory facilities to culture bacteria, they just decide to apply a broad-spectrum antibiotic. It takes time to get results after setting up a culture and in the meantime your fish are dying. So, you are also under time pressure to use the right antibiotic to get a quick improvement in the health of your fish.
 
-Like humans and other animals, fish suffer from diseases too. The fish's defences against
+Diseases can be caused by three types of pathogens:
 
-diseases are specific and non-specific. Non-specific defences include skin and scales, as
-
-9. 4 PATHOGENS well as the slime layer secreted by the skin, which traps microorganism and inhibits their growth. If pathogens breach these defences, fish develop inflammatory responses that Like humans and other animals, fish suffer from diseases too. The fish's defences against increase the flow of blood to the infected areas, resulting in the delivery of white blood cells which attack the pathogens.diseases are specific and non-specific. Non-specific defences include skin and scales, as
-
-well as the slime layer secreted by the skin, which traps microorganism and inhibits their
-
-Stressed or sick fish can often be recognized by abnormal behaviour, such as decreased growth. If pathogens breach these defences, fish develop inflammatory responses that increase the flow of blood to the infected
-
-areas, resulting in the delivery of white blood appetite, nervous or unsteady swimming, remaining in a vertical position at the surface of the water, or by clinical symptoms, such as mutilated barbels or fins, dropsy, white or red-cells which attack the pathogens.brown spots on the skin, pop-eyes etcetera. However, keep in mind that these symptoms
-
-are not specific, so, further laboratory tests may have to be conducted.Stressed or sick fish can often be recognized by abnormal behaviour, such as decreased
-
-appetite, nervous or unsteady swimming, remaining in a vertical position at the surface of the water or by clinical symptoms, such as mutilated barbels or fins, dropsy, white or red-At the farm you should be monitoring daily for diseases, especially during feeding when catfish usually swim up to the surface of the water. For proper diagnoses of bacterial, brown spots on the skin, pop-eyes etcetera. However, keep in mind that these symptoms are not specific, so, further laboratory tests may have to be conducted.fungal and parasitical diseases, swab preparations of the skin, the gill filaments, intestines
-
-etcetera should be made and examined under a microscope with appropriate magnification.
-
-When a swab does not show any parasites, you most likely have bacterial problems to deal The growth system should be monitored daily for diseases, especially during feeding when catfish usually swim up to the surface of the water. For proper diagnoses of bacterial, with. In this case, you should try to culture them on an agar plate and run an antibiotic sensitivity test. After diagnosis, specific therapy may be administered. Since most farmers fungal
-
-and parasitical diseases, swab preparations of the skin, the gill filaments intestines etcetera should be made and examined under a microscope with appropriate magnification. have no laboratory facilities to culture bacteria, they just decide to apply a broad-spectrum
-
-When a swab does not show any parasites, you most likely have bacterial problems to deal antibiotic. It takes time to get results after setting up a culture and in the meantime your
-
-fish are dying. So, you are also under time pressure to use the right antibiotic to get a quick with. In this case, you should try to culture them on an agar plate and run an antibiotic sensitivity test. After diagnosis, specific therapy may be administered. Since most farmers improvement in the health of your fish.
-
-have no laboratory facilities to culture bacteria, they just decide to apply a broad-spectrum antibiotic. It takes time to get results after setting up a culture and in the meantime your Diseases can be caused by 3 types of pathogens:
-
-fish are dying. So, you are also under time pressure to use the right antibiotic to get a quick Bacteria
-
-improvement in the health of your fish. Parasites
-
+- Bacteria
+- Parasites
 - Viruses
-
-Diseases can be caused by 3 types of pathogens:
-
-This handbook does not cover all the possible diseases in fish, but focuses on those diseases. Bacteria
-
-which usually occur in African catfish. Parasites
-
-Viruses
 
 This handbook does not cover all the possible diseases in fish, but focuses on those diseases which usually occur in African catfish.
 
 ## 9.4.1 BACTERIAL DISEASES
 
-The majority of bacteria which cause diseases in catfish, are normally present on the surface or The majority of bacteria which cause diseases in catfish are normally present on the surface or
+The majority of bacteria which cause diseases in catfish are normally present on the surface or in the gut of the fish, or in the water of their culture environment. They cause diseases when the catfish are stressed.
 
-in the gut of the fish, or in the water of their culture environment They cause diseases when in the gut of the fish, or in the water of their culture environment. They cause diseases when
-
-the catfish are stressed.the catfish are stressed.
-
-When you carry out a bacterial examination on a fish with a bacterial disease, in many cases When you carry out a bacterial examination on a fish with a bacterial disease, in many cases you will find out that the disease is multi-bacterial and that the disease is caused by many you will find out that the disease is multi-bacterial and that the disease is caused by many different bacterial species. The signs of different bacterial diseases in fish are also non-specific. different bacterial species. The signs of different bacterial diseases in fish are also non-specific.
-
-So, to be sure about which bacterial species has caused the problem is almost impossible either So, to be sure about which bacterial species has caused the problem, is almost impossible either
-
-after a physical examination or after culturing the bacteria in a laboratory.after a physical examination or after culturing the bacteria in a laboratory.
+When you carry out a bacterial examination on a fish with a bacterial disease, in many cases you will find out that the disease is multi-bacterial and that the disease is caused by many different bacterial species. The signs of different bacterial diseases in fish are also non-specific. So, to be sure about which bacterial species caused the problem is almost impossible either after a physical examination or after culturing the bacteria in a laboratory.
 
 This is a Gram-negative aerobic bacterium which causes infections on the mouth, barbels and
 
@@ -5419,7 +3910,7 @@ In a green water system, as I discussed in chapter 8, it is not likely that catf
 
 The disease can be treated with industrial salt at a dosage of 6 kg/m $ ^{3} $ as a bath treatment. This
 
-can also be combined with oxytetracycline (OTC) at a dosage of 30 g/mL The OTC and salt treatment should be repeated after the second day, if the concentration of salt has significantly been reduced by flushing.
+can also be combined with oxytetracycline (OTC) at a dosage of 30 g/m $ ^{3} $. The OTC and salt treatment should be repeated after the second day, if the concentration of salt has significantly been reduced by flushing.
 
 It is important to start the treatments as soon as you notice the first signs of the disease. If you
 
@@ -5427,7 +3918,7 @@ don't, you will be dealing with a virulent strain of Flexibacter columnaris whic
 
 ## Aeromonas hydrophila
 
-Aeromonas hydrophila is a heterotrophic, Gram-negative bacterial species, mainly found in Aeromonas hydrophila is a heterotrophic Gramnegative bacterial species, mainly found inwarm climates. The disease is known as 'ulcer disease' or 'red sore disease'. It causes lesions on
+Aeromonas hydrophila is a heterotrophic, Gram-negative bacterial species, mainly found in warm climates. The disease is known as "ulcer disease" or "red sore disease". It causes lesions on
 
 the body, and can also cause septicaemia by invading the organs of the fish.
 
@@ -5435,13 +3926,7 @@ The bacteria primarily affect freshwater fish such as catfish, tilapia and many 
 
 fish. Other symptoms are lack of appetite, swimming abnormally, pale gills and a bloated
 
-hydrophila, run a laboratory test by taking swabs from organs and lesions and grow them on a blood agar. A sensitivity testby taking swabs from organs and lesions and grow them on a blood agar. A sensitivity test for various available antibiotics to enable application of the most effective ones, can also be for various available antibiotics to enable application of the most effective ones, can also be
-
-Catfish diseases
-
-included. Aeromonas hydrophila can thrive in low and high oxygen water and prefers organic included. Aeromonas hydrophila can thrive in low and high oxygen water and prefer organic
-
-## polluted water.polluted water.
+hydrophila, run a laboratory test by taking swabs from organs and lesions and grow them on blood agar. A sensitivity test for various available antibiotics to enable application of the most effective ones can also be included. Aeromonas hydrophila can thrive in low- and high-oxygen water and prefers organically polluted water.
 
 Catfish are not usually affected by this bacterial species, but at an increased stress level caused by poor handling, bad water quality, poor feeding, temperature fluctuations etcetera, it might
 
@@ -5457,7 +3942,7 @@ Treatment can be applied in the same way you treat a disease caused by Flexibact
 
 ## Potential concern for human health
 
-An Aeromonas hydrophila infection can be spread from fish to humans and vice versa. If youare healthy, it will not be likely to happen, but small children and people with an immunedeficient system can get infected. The symptoms, such as diarrhoea, are the same as in cholera.
+An Aeromonas hydrophila infection can be spread from fish to humans and vice versa. If you are healthy, it is not likely to happen, but small children and people with an immunodeficient system can get infected. The symptoms, such as diarrhoea, are the same as in cholera.
 
 I always recommend fish farmers to feed the fish with a spoon or a basket and not by hand,
 
@@ -5487,7 +3972,7 @@ ran a sensitivity test which indicated that Trimethoprim as a bath treatment at 
 
 g/m $ ^{3} $ performed well. It can also be used in the feed at a dosage of 30 g/ton of fish in a period
 
-of 7 days. Trimethoprim is also considered a broad-spectrum antibiotic
+of 7 days. Trimethoprim is also considered a broad-spectrum antibiotic.
 
 Gram-negative bacteria: what does it mean?
 
@@ -5903,15 +4388,13 @@ on a timely basis.it on a timely basis.
 
 ## 10
 
-FISH FARM MANAGEMENT
+## FISH FARM MANAGEMENT
 
-10. 1 INTRODUCTION
+## 10.1 INTRODUCTION
 
-10. 2 HOW TO MAKE A PRODUCTION PLAN: CASE STUDY
+## 10.2 HOW TO MAKE A PRODUCTION PLAN: CASE STUDY
 
-10. 3 CHECK POINTS FOR THE MANAGER
-
-Chapter 10
+## 10.3 CHECK POINTS FOR THE MANAGER
 
 ## 10.1 INTRODUCTION
 
@@ -5923,87 +4406,60 @@ important; they show the progress of the farm and whether you are on track to re
 
 your targets.
 
-10. 2 HOW TO MAKE A PRODUCTION
-
-PLAN: CASE STUDY
+## 10.2 HOW TO MAKE A PRODUCTION PLAN: CASE STUDY
 
 Let us start with an example of a catfish farm with a flow-through system. I'll take you through the necessary calculations to estimate the production and the inputs needed.
 
 Quantify the facility:
 
-- 50 concrete tanks of 50 m each
-
-## 174
-
-15 tanks for pre on-growing, 11 m $ _{2} $ each Hatchery with a capacity of 1,000,000 juveniles Borehole of 5 m $ _{3} $ /hour
-
-Intake from the river with a capacity of 200 m $ ^{3} $ /hour
-
-100 kVA generator and 11 kVA generator
+- 50 concrete tanks of 50 m³ each
+- 15 tanks for pre on-growing, 11 m² each
+- Hatchery with a capacity of 1,000,000 juveniles
+- Borehole of 5 m³/hour
+- Intake from the river with a capacity of 200 m³/hour
+- 100 kVA generator and 11 kVA generator
 
 Growth cycle and production figures:
 
 - Hatchery producing juveniles: 2 months
+- Pre on-growing producing post-juveniles: 45 days
+- On-growing producing table-sized fish: 150 days
+- Density in pre on-growing: 500 pieces/m²
+- Density in on-growing: 100 pieces/m³
+- Water usage: 1.4 m³/kg of feed
+- FCR (feed conversion rate) for pre on-growing: 0.7
+- FCR for on-growing: 1.25
+- Target: table-sized catfish in the range of 1.5 to 2.0 kg
 
-Pre on-growing producing post-juveniles: 45 days On-growing producing table-sized fish: 150 days Density in pre on-growing: 500 pieces/m $ _{3} $
+## Calculation
 
-Density in on-growing: 100 pieces/m $ _{3} $
-
-Water usage: 1.4 m $ ^{3} $ /kg of feed
-
-FCR (feed conversion rate) for pre on-growing: 0.7
-
-FCR for on-growing: 1.25
-
-Target: table-sized catfish in the range of 1.5 to 2.0 kg
-
-Calculation
-
-We will start with calculating the maximum production for the ongrowing stage. Then we will calculate if the facilities for the pre on-growing
-
-stage and the hatchery stage are sufficient to provide the fish needed for the on-growing stage.
-
-Fish farm management
+We will start by calculating the maximum production for the on-growing stage. Then we will calculate whether the facilities for the pre on-growing stage and the hatchery stage are sufficient to provide the fish needed for the on-growing stage.
 
 Each tank in the on-growing system can provide a minimum of 2 cycles/ year: 365/150=2.4 cycles, but we reduce it to 2, since the tanks will be empty for some time before restocking and in case the sales of the table sized fish are delayed a bit. It is always good
 
 to allow yourself some space to manoeuvre. Be realistic.
 
-Production capacity in the on-growing system
+## Production capacity in the on-growing system
 
 50 $ m_{3} $ (volume of pond) x 100 fish/$ m_{3} $ (density) x 1.75 kg (average weight) x 2 (number of cycles/annum) x 50 (number of ponds) = 875,000 kg of table-sized catfish per annum.
 
-In practice, you will sell 2 ponds every week with only a 2 week's break! The production
+In practice, you will sell 2 ponds every week with only a 2-week break. The production of each pond is 8,750 kg.
 
-Post juveniles needed from pre on-growing per annum:Post juveniles needed from pre on-growing per annum:
+Post-juveniles needed per annum:
 
-of each pond is 8,750 kg.
-
-Post-juveniles needed per annum: 100 x 5000 x 1.1 (+/- 10% mortality during 150 days) Post-juveniles needed per annum: 100 x 5000 x 1.1 (+/- 10% mortality during 150 days)
+100 fish/m³ x 50 m³ x 50 tanks x 2 cycles x 1.1 (+/- 10% mortality during 150 days) = 550,000 post-juveniles per annum.
 
 Water needed per annum:
 
-1. 4 $ \mathrm{m_{3}}/$ kg feed x 1.25 (FCR) x 875,000 kg (total production) = 1,531,250 $ \mathrm{m_{3}} $ or 4,200
+1.4 m³/kg feed x 1.25 (FCR) x 875,000 kg (total production) = 1,531,250 m³, or about 4,200 m³/day.
 
-stocking density at the endof the growth stage is 500 pieces/m $ _{2} $ and the tank is 11 m $ _{2} $ ; so, we can harvest 5,500
+## Advice
 
-## m3/day.
+The intake pump provides 200 m³/hour. In order to supply 4,200 m³/day, it has to pump for 21 hours. However, if the pump fails, you actually do not have any backup in the reservoir. If you want to have a backup water supply for 1 day, the reservoir should have a volume of at least 4,200 m³ and the pump should have a capacity of 400 m³/hour. After one full day of pumping, you will have served the need for one day and have obtained about 4,200 m³ extra for the following day. If your reservoir is already full, you only need to pump approximately 11 hours a day to keep it that way.
 
-Advice
+## Production capacity in the pre on-growing system
 
-The intake pump provides 200 m/hour. In order to supply 4,200 m/day, it has to pumpfor 21 hours. However, if the pump fails, you actually do not have any back-up in thereservoir. If you want to have a back-up water supply for 1 day, the reservoir should
-
-have a volume of at least 4,200 m $ ^{3} $ and the pump should have a capacity of 400 m $ ^{3} $ /
-
-hour. After one full day of pumping, you will have served the need for one day and have obtained circa 4,200 m $ ^{3} $ extra for the following day. If your reservoir is already full, you only need to pump approximately 11 hours a day to keep it that way.
-
-Production capacity in the pre on-growing system
-
-We have 15 tanks for the pre on-growing which takes 45 days. We can do 365/45 cycles a year = 8 cycles a year but practically we would count on having 7 cycles a year, because of delay by stocking, cleaning etcetera. The
-
-pieces per cycle. The production capacity of 1 pre on-growing tank is 7 x 5,500 pieces
-
-= 37,500 pieces.
+We have 15 tanks for the pre on-growing stage, which takes 45 days. We can do 365/45 cycles a year = 8 cycles a year, but practically we would count on having 7 cycles a year because of delays in stocking, cleaning etcetera. The stocking density at the end of the growth stage is 500 pieces/m² and the tank is 11 m², so we can harvest 5,500 pieces per cycle. The production capacity of 1 pre on-growing tank is therefore 7 x 5,500 pieces = 38,500 pieces.
 
 The total capacity of the pre on-growing to serve the on-growing is 15 x 37,500 pieces = 577,500 post-juveniles. We need 550,000 post-juveniles, so the capacity should be
 
@@ -6025,23 +4481,19 @@ By stocking small fish in a big pond, the pond is not utilized efficiently. This
 
 Stocked juveniles of 5 g need grading after 45 days, because there will still be
 
-shooters and runts around. If you don't take them out, you will end up with a varied batch of fish, more cannibalism and a few catfish which don't grow but still consume feed. The feed conversion rate will be negatively affected by it. In the stage of growing juveniles to post-juveniles from 5 g to 80 g, the fish In the stage of growing juveniles to post juveniles from 5 g to 80 g, the fish
-
-are still sensitive and can fall sick. Treatment in a small tank, especially a bath are still sensitive and can fall sick. Treatment in a small tank, especially a bath
-
-treatment, is easier and cheaper compared to a large tank.treatment, is easier and cheaper compared to a large tank.
+shooters and runts around. If you don't take them out, you will end up with a varied batch of fish, more cannibalism and a few catfish which don't grow but still consume feed. The feed conversion rate will be negatively affected by it. In the stage of growing juveniles to post-juveniles from 5 g to 80 g, the fish are still sensitive and can fall sick. Treatment in a small tank, especially a bath treatment, is easier and cheaper compared to a large tank.
 
 The juveniles from the hatchery have been raised in borehole water and have to be weaned to river water, especially during the rainy season when the river water is muddy. So, the supply of pre on-growing has two sources of water:
 
 river water and borehole water.
 
-The hatchery
+## The hatchery
 
 The capacity of the hatchery has been estimated at 1,000,000 juveniles. For growing table-sized fish, you need to take out only 660,000 juveniles of 5 g. So, the capacity of
 
 the hatchery is enough and even allows you to sell some young fish to other farmers.
 
-10. 3 CHECK POINTS FOR THE MANAGER
+## 10.3 CHECK POINTS FOR THE MANAGER
 
 8 points for the manager to check:
 
@@ -6073,9 +4525,7 @@ correspond with each other, and are not based on the examples given before
 
 in this chapter.
 
-## 1. Check the stocks of fish in number and in weight on a weekly
-
-basis
+## 1. Check the stocks of fish in number and in weight on a weekly basis
 
 Every week you should have the following information available for each tank, and also
 
@@ -6086,8 +4536,6 @@ For each tank:
 Example 17. How to calculate the fish size based on the feed gift and FCR?
 
 Number of fish: preferably adjust for mortality during the week.
-
-of fish.
 
 Week 21:
 
@@ -6153,7 +4601,9 @@ number of fish to sell during the coming months because your target is age 180 d
 
 fish that is 150 days old or older can be sold the next month. Never base your sales on the size of the fish but always on age, whether they are big or small. By doing so, you have a clear and stable growth cycle which makes it possible to predict and forecast results.
 
-2. Check the feed gift per tank on a daily basis with a weekly summary For every tank make a feeding list which should be filled in during the week. It shows the weight in kg and the particle size in mm of the feed used. The progress of feeding already provides an indication of the performance of the fish. Every day there should be an increase of feed (0.5 kg or 1 kg). Since the fish are growing on a daily basis, they should get more
+## 2. Check the feed gift per tank on a daily basis with a weekly summary
+
+For every tank make a feeding list which should be filled in during the week. It shows the weight in kg and the particle size in mm of the feed used. The progress of feeding already provides an indication of the performance of the fish. Every day there should be an increase of feed (0.5 kg or 1 kg). Since the fish are growing on a daily basis, they should get more
 
 feed every day. A reduction of the feed given each day during the week, is a result of
 
@@ -6185,173 +4635,17 @@ a result of bad 3
 
 recording, incorrect weighing out the feed or theft. 4
 
-Example 18. Daily feed gift per fish tank or pond 5
+Example 18. Daily feed gift per fish tank or pond
 
-Daily feed gift per tank in kg 6
+Daily feed gift per tank in kg
 
-Size of feed in mm 7
+Size of feed in mm
 
-Farm: Aqua garden 8
+Farm: Aqua garden
 
 <table border="1"><tr><td>Pond no</td><td>Size of Feed (mm)</td><td>Monday</td><td>Tuesday</td><td>Wednesday</td><td>Thursday</td><td>Friday</td><td>Saturday</td><td>Sunday</td><td>Total(kg)</td></tr><tr><td>1</td><td>6.0</td><td>61</td><td>62</td><td>63</td><td>64</td><td>65</td><td>66</td><td>67</td><td>448</td></tr><tr><td>2</td><td>4.5</td><td>40</td><td>41</td><td>42</td><td>42</td><td>42</td><td>43</td><td>44</td><td>294</td></tr><tr><td>3</td><td>4.5</td><td>38</td><td>39</td><td>40</td><td>41</td><td>42</td><td>43</td><td>44</td><td>287</td></tr><tr><td>4</td><td>4.5</td><td>46</td><td>47</td><td>48</td><td>49</td><td>30</td><td>31</td><td>32</td><td>283</td></tr><tr><td>5</td><td>Empty</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>6</td><td>Empty</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7</td><td>2.0</td><td>20</td><td>20.5</td><td>21</td><td>21.5</td><td>22</td><td>22.5</td><td>23</td><td>150.5</td></tr><tr><td>8</td><td>2.0</td><td>20</td><td>20.5</td><td>21</td><td>21.5</td><td>22</td><td>22.5</td><td>23</td><td>150.5</td></tr><tr><td>9</td><td>8.0</td><td>70</td><td>71</td><td>72</td><td>73</td><td>74</td><td>75</td><td>76</td><td>511</td></tr><tr><td>10</td><td>8.0</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td><td>80</td><td>560</td></tr><tr><td>11</td><td>6.0</td><td>61</td><td>62</td><td>63</td><td>64</td><td>65</td><td>66</td><td>67</td><td>448</td></tr><tr><td>12</td><td>4.5</td><td>40</td><td>41</td><td>41</td><td>42</td><td>42</td><td>43</td><td>44</td><td>293</td></tr><tr><td>Total(kg)</td><td></td><td>476</td><td>484</td><td>491</td><td>498</td><td>484</td><td>492</td><td>500</td><td>3425</td></tr></table>
 
-Pond Size of no Feed (mm)
-
-Emp
-
-2.0
-
-2.0
-
-8.0
-
-8.0
-
-6.0
-
-4.5
-
-Mo
-
-61
-
-40
-
-38
-
-46
-
-20
-
-20
-
-70
-
-80
-
-61
-
-Empty 40
-
-2.0 476
-
-2.0 62
-
-8.0 41
-
-8.0 39
-
-6.0 47
-
-4.5
-
-Monday Tuesday 20.5
-
-61 20.5
-
-40 71
-
-38 80
-
-46 62
-
-41
-
-20 484
-
-20
-
-70
-
-80 acce
-
-61 Wed
-
-| | | |
-
-| :--- | :--- | :--- |
-
-| 63 | 21.5 | |
-
-| 42 | 21.5 | |
-
-| 40 | 73 | |
-
-| 48 | 80 | |
-
-| | 64 | |
-
-| 21 | 42 | |
-
-| 21 | 498 | |
-
-| 72 | | 65 |
-
-| 80 | | 42 |
-
-| 63 | | 42 |
-
-| 41 | | 30 |
-
-| 491 | | |
-
-| Thursday Friday | | 22 |
-
-| | 64 | 22 |
-
-| | 42 | 74 |
-
-| | 41 | 80 |
-
-| | 49 | 65 |
-
-| | | 42 |
-
-484 32
-
-Saturday
-
-66 23
-
-43 23
-
-43 76
-
-31 80
-
-67
-
-22.5 44
-
-22.5 500
-
-75 Total (kg)
-
-80 448
-
-66 294
-
-43 287
-
-492 283
-
-Sunday
-
-67 150.5
-
-44 150.5
-
-44 511
-
-560 there is easy
-
-448
-
-293
-
-3425
-
-3. Check the feed stocks on a weekly basis
+## 3. Check the feed stocks on a weekly basis
 
 Checking the feed stocks can be carried out by taking physical stock every week. In order
 
@@ -6377,105 +4671,13 @@ Suppose the daily feed gift is 3,000 kg
 
 Example 20. Format for keeping feed stock records
 
-Feed stocks: Aqua garden's weekly physical stock taken at Monday morning
-
-## before feeding
+Feed stocks: Aqua garden's weekly physical stock taken on Monday morning before feeding
 
 <table border="1"><tr><td>Feed size (mm)</td><td colspan="2">Previous stock</td><td>Present stock</td><td>Actual consumption</td><td>Consumption according tank report</td></tr><tr><td>Product</td><td>kg</td><td>received kg</td><td>kg</td><td>kg</td><td>kg</td></tr><tr><td>0.5</td><td>50</td><td>0</td><td>30</td><td>20</td><td>20</td></tr><tr><td>0.7</td><td>20</td><td>100</td><td>55</td><td>65</td><td>60</td></tr><tr><td>1</td><td>30</td><td>150</td><td>80</td><td>100</td><td>100</td></tr><tr><td>2</td><td>350</td><td>250</td><td>300</td><td>300</td><td>300</td></tr><tr><td>3</td><td>1500</td><td>1000</td><td>915</td><td>1585</td><td>1570</td></tr><tr><td>4.5</td><td>4005</td><td>3000</td><td>4500</td><td>2505</td><td>2490</td></tr><tr><td>6</td><td>3015</td><td>6000</td><td>7470</td><td>1545</td><td>1560</td></tr><tr><td>Total</td><td>8970</td><td>10500</td><td>13350</td><td>6120</td><td>6100</td></tr></table>
 
-Feed size
+The records in the table show a discrepancy of just 20 kg. According to the physical stock taken, the farm consumed 6,120 kg, but according to the tank reports only 6,100 kg was used. The conclusion is that 20 kg is missing, which can be due to mistakes in stock taking, a mistake in weighing out the feed, or theft. Twenty kilograms is nothing to worry about on a total consumption of 6,000 kg, but if it happens regularly and becomes 100 kg or more, action should be taken.
 
-Product
-
-(mm)
-
-0. 5
-
-2 received kg
-
-3 0
-
-4.5 100
-
-6 150
-
-Total 250
-
-1000
-
-180 3000
-
-Previous stock 6000
-
-kg 10500
-
-50 Present stock
-
-20 kg
-
-30 30
-
-350 55
-
-1500 80
-
-4005 300
-
-3015 915
-
-8970 4500
-
-7470 60
-
-13350 100
-
-Actual 300
-
-consumption 1570
-
-kg 2490
-
-20 1560
-
-65 6100
-
-100
-
-The records in the table show a discrepancy of just
-
-20 kg. According to the physical stock
-
-1585
-
-taken, the farm consumed 6,120 kg, but according
-
-to the fish farm manager he took only
-
-2505
-
-1545
-
-Fish farm management
-
-6120
-
-Consumption according
-
-tank report
-
-6,100 kg. The conclusion is that 20 kg is missing, which can be due to
-
-mistakes in stock taking, a mistake in weighing out the feed or 20 kg has
-
-been stolen. 20 kg is nothing to worry about on a total consumption of
-
-6,000 kg, but if it happens regularly and becomes
-
-kg 100 kg or more, action should be taken.
-
-20
-
-4. Check your staff clock in and out
+## 4. Check your staff clock in and out
 
 If you want to create discipline with your staff, you have to start an attendance list where
 
@@ -6487,19 +4689,13 @@ During the day, the staff should remain on the farm or have written permission t
 
 If the farm is small, it is the personal responsibility of the staff to remain at the farm and carry out the work which has to be done. But the moment a farm becomes big, many workers believe that if they are not doing their job, somebody else will do it.
 
-Workers who are at the farm during the night should by no means go out.Because, if
+Workers who are at the farm during the night should by no means go out. Because if
 
 anything happens at the farm, such as robbery, theft or any other criminal offence, the
 
 people who have left the farm illegally, are the first suspects!
 
-## the list clearly shows the days worked by
-
-The attendance list shows the manager the loyalty of each staff member which can be used
-
-each worker and their corresponding salaries. As a manager you should keep a clear-cut distinction between you and your staff. You can be friendly to them and interested in their well-being, but you should not become emotionally attached to them, in order to keep a clear unbiased eye on each of them.
-
-for decisions about future bonuses. But primarily
+The attendance list shows the manager the loyalty of each staff member, which can be used for decisions about future bonuses. But primarily, the list clearly shows the days worked by each worker and their corresponding salaries. As a manager you should keep a clear-cut distinction between you and your staff. You can be friendly to them and interested in their well-being, but you should not become emotionally attached to them, in order to keep a clear unbiased eye on each of them.
 
 Example 21. Format for an attendance list for both day time and night time workers
 
@@ -6508,8 +4704,6 @@ Example 21. Format for an attendance list for both day time and night time worke
 No I.D. Name Function Morning Evening
 
 <div style='text-align: center;'><img src='images/img_115.png' alt='OCR图片'/></div>
-
-## Chapter10
 
 ## 5. Check and budget for petty cash on a weekly basis
 
@@ -6523,81 +4717,15 @@ take the budget from the sales activities, it will become very blurry and diffic
 
 records of expenses and turnover.
 
-to pay by bank transfer. The fewer cash transactions the better; if the sausage is close to
-
-It is best to have a limited number of suppliers which provide you with credit or allow you
-
-the dog, the dog will get tempted and eventually eat it, regardless the level of training! A large income of cash attracts criminals and it is very difficult to handle these kinds of situations.
+It is best to have a limited number of suppliers which provide you with credit or allow you to pay by bank transfer. The fewer cash transactions the better; if the sausage is close to the dog, the dog will get tempted and eventually eat it, regardless of the level of training. A large income of cash attracts criminals and it is very difficult to handle these kinds of situations.
 
 Example 22. Format for a weekly financial report and budget request (cash)
 
-## Farm: Aqua garden
+Farm: Aqua garden
 
 <table border="1"><tr><td></td><td></td><td></td><td>week9</td><td>week10</td></tr><tr><td>S/N</td><td>Item description</td><td>Previous request(N)</td><td>Cash expenses(N)</td><td>Next request(N)</td></tr><tr><td>1</td><td>Fuel</td><td>20000</td><td>15000</td><td>21000</td></tr><tr><td>2</td><td>Spare parts</td><td>0</td><td>0</td><td>4000</td></tr><tr><td>3</td><td>Antibiotics</td><td>16000</td><td>16000</td><td>0</td></tr><tr><td>4</td><td>Water test kit</td><td>4000</td><td>4000</td><td>0</td></tr><tr><td>5</td><td>Plumbing materials</td><td>35000</td><td>25000</td><td>7000</td></tr><tr><td>6</td><td>Electrical materials</td><td>0</td><td>0</td><td>8000</td></tr><tr><td>7</td><td>Medical expenses</td><td>4000</td><td>3000</td><td>0</td></tr><tr><td>8</td><td>Stationary,computer</td><td>11000</td><td>10000</td><td>0</td></tr><tr><td>9</td><td>Transport</td><td>3000</td><td>3000</td><td>3000</td></tr><tr><td>10</td><td>Canteen,beverages</td><td>2000</td><td>2000</td><td>2000</td></tr><tr><td>11</td><td>Fish feed</td><td>15000</td><td>13000</td><td>15000</td></tr><tr><td>12</td><td>Others</td><td>5000</td><td>0</td><td>5000</td></tr><tr><td></td><td>Total</td><td>115000</td><td>91000</td><td>65000</td></tr><tr><td></td><td>Total available on site</td><td></td><td>24000</td><td></td></tr><tr><td></td><td>Total transferred to site</td><td></td><td></td><td>41000</td></tr></table>
 
-| | | |
-
-| :--- | :--- | :--- |
-
-| 0 | | 4000 |
-
-| 16000 | | 25000 |
-
-| 4000 | | 0 |
-
-| 35000 | | 3000 |
-
-| 0 | | 10000 |
-
-| 4000 | | 3000 |
-
-| 11000 | | 2000 |
-
-| 3000 | | 13000 |
-
-| 2000 | | 0 |
-
-| 15000 | | 91000 |
-
-| 5000 | | 24000 |
-
-| 115000 | | week 10 |
-
-| | week 9 | Next request (N) |
-
-| Cash expenses (N) | | 21000 |
-
-| | 15000 | 4000 |
-
-| | 0 | 0 |
-
-| | 16000 | 0 |
-
-7000
-
-8000
-
-0
-
-0
-
-3000
-
-2000
-
-15000
-
-5000
-
-65000
-
-41000
-
-Fish farm management
-
-6. Check the diesel stocks for the generator and the service
-
-programme on a daily basis
+## 6. Check the diesel stocks for the generator and the service programme on a daily basis
 
 In some farms the cost of diesel exceeds the cost of labour! So, it's obvious that the diesel
 
@@ -6609,7 +4737,7 @@ Depending on the size of the generator and farm, you should have a calibrated ta
 
 has been consumed by the various machines per day. If the generator is small, you can
 
-work with 50-1 jerry cans. The moment you fuel the generator tank, you note the volume and check its running hours. What you want to find out is the consumption per hour of the generator. If you know this, you can be aware of changes in the consumption of the generator per hour, and you are also able to predict the consumption for a period of time.
+work with 50-l jerry cans. The moment you fuel the generator tank, you note the volume and check its running hours. What you want to find out is the consumption per hour of the generator. If you know this, you can be aware of changes in the consumption of the generator per hour, and you are also able to predict the consumption for a period of time.
 
 Always refill the generator till the brim. Running a generator on a low level of diesel in the
 
@@ -6621,19 +4749,17 @@ When you combine a generator with electricity from the PHCN, you should have an 
 
 system for when the PHCN-electricity goes off or comes back, in order not to overuse the
 
-## generator or have unnoticed power outages.
+generator or have unnoticed power outages.
 
 Some farmers keep very low stocks of diesel or petrol and fail to have constant power for pumping water or for running their hatchery; don't be surprised that you don't get
 
-good results at your farm. Minimising the cost of energy is actually penny wise and pound
-
-## foolish!
+good results at your farm. Minimising the cost of energy is actually penny wise and pound foolish.
 
 Servicing the generator, either a petrol or diesel one, is of utmost importance if you don't want any nasty surprises; make a servicing programme and follow it. Servicing is different
 
 from fixing the generator when it gets faulty.
 
-The consumption of a generator depends on the load. The table in Figure 30 shows the The consumption of a generator depends on the load. The table below in Figure 30 shows the consumption of diesel per hour in relation to the load and the size of the generator.consumption of diesel per hour in relation to the load and the size of the generator.
+The consumption of a generator depends on the load. The table below in Figure 30 shows the consumption of diesel per hour in relation to the load and the size of the generator.
 
 <div align="center">
 
@@ -6811,27 +4937,21 @@ The staff should be educated that working safely and keeping the environment cle
 
 ## 11
 
-CATFISH MARKETING
-
-11. 1 INTRODUCTION
-
-11. 2 PRODUCT FORMS
-
-11. 3 PRICING
+## CATFISH MARKETING
 
 ## 11.1 INTRODUCTION
 
-Most farmers have no idea how to sell fish when they start farming. They believe Most farmers have no idea how to sell fish when they start farming. They believe that
+## 11.2 PRODUCT FORMS
 
-that catfish will sell anyway and that there are never enough of them in the market. catfish will sell anyway and that there are never enough of them in the market. Yes,
+## 11.3 PRICING
 
-globally this is correct; Nigeria still imports a lot of fish, but that doesn't mean that all Yes, globally this is correct; Nigeria still imports a lot of fish, but that doesn't mean that all imported fish can be replaced by farmed Nigerian catfish. Many Nigerians imported fish can be replaced by farmed Nigerian catfish. Many Nigerians also like to eat sea fish such as shrimps and tilapia, fish products such as Titus, and other canned also like to eat seafish, shrimps, tilapia, fish products such as Titus, and other canned fish products. So, to be successful in fish farming requires a plan and an innovative fish products. So, to be successful in fish farming requires a plan and an innovative
+## 11.1 INTRODUCTION
 
-approach to the marketapproach to the market.
+Most farmers have no idea how to sell fish when they start farming. They believe that catfish will sell anyway and that there are never enough of them in the market. Yes, globally this is correct; Nigeria still imports a lot of fish, but that does not mean that all imported fish can be replaced by farmed Nigerian catfish. Many Nigerians also like to eat sea fish such as shrimps and tilapia, fish products such as Titus, and other canned fish products. So, to be successful in fish farming requires a plan and an innovative approach to the market.
 
-Wholesalers
+## Wholesalers
 
-The easiest way to sell fish is by contacting the wholesalers or highvolume buyers who buy all your fish at once. If you are producing large quantities of fish, in principle you
+The easiest way to sell fish is by contacting wholesalers or high-volume buyers who buy all your fish at once. If you are producing large quantities of fish, in principle you
 
 have to work with buyers who are able to distribute the fish to the markets in Nigeria.
 
@@ -6843,11 +4963,11 @@ profitable for you to venture into selling to them, since your cost price is rel
 
 because you don't farm at the ideal economic scale.
 
-Niche markets
+## Niche markets
 
 As a small-scale farmer, you should look at markets which are smaller and closer to
 
-your farm: these are called niche markets. This way, you 'll become a marketer and in some cases even a retailer, alongside being a fish farmer. It takes time to analyse and develop these niche markets but you have more control over the sales price and it will be higher.
+your farm: these are called niche markets. This way, you will become a marketer and in some cases even a retailer, alongside being a fish farmer. It takes time to analyse and develop these niche markets, but you have more control over the sales price and it will be higher.
 
 ## Plan and planning
 
@@ -6859,11 +4979,7 @@ will grow bigger and are at the farm longer than necessary. This way more farm s
 
 drastically.
 
-190
-
 ## Target size
-
-Catfish marketing
 
 Another inadvisable way of selling is by top cropping. Top cropping means grading the big
 
@@ -6879,25 +4995,21 @@ rapidly anymore. Sometimes you have to reduce the price in order to keep the sta
 
 constant and the production going.
 
-Good and bad prices
+## Good and bad prices
 
 In general, the price you get for your catfish, should not be calculated based on one month,
 
 but on a production cycle of one year. You will have good and bad prices, but it will balance
 
-out. Many farmers are discouraged to buy juveniles when the table-sized fish price is low, which is a big mistake. The time of excess fish is actually
+out. Many farmers are discouraged to buy juveniles when the table-sized fish price is low, which is a big mistake. The time of excess fish is actually the best time to buy juveniles because the market will be strong in six months' time. However, the best approach to marketing is to produce as efficiently as possible and have a constant production at the lowest cost price.
 
 ## Competition
 
-As already said, catfish are not the only fish eaten in Nigeria. There is a lot of competition from river fish and sea fish. Frozen fish imported from Europe, has been very popular, but it has become expensive since the government introduced import regulations to protect the
-
-the best time to buy juveniles because the market will be strong in six months' time. However, the best approach to marketing is to produce as efficiently as possible and have a constant production at the lowest cost price.
+As already said, catfish are not the only fish eaten in Nigeria. There is a lot of competition from river fish and sea fish. Frozen fish imported from Europe has been very popular, but it has become expensive since the government introduced import regulations to protect the Nigerian fishing and aquaculture industry. Also, the fishermen's supply varies during the year.
 
 Most fish are caught during the dry season from January to April and these supplies certainly compete with the farmed fish.
 
-The number of catfish that are produced varies too; the supply is highest at the beginning of the dry season and lowest when the rains start. Catfish normally sell easily from March to
-
-Nigerian fishing and aquaculture industry. Also, the fishermen's supply varies during the year.
+The number of catfish that are produced varies too; the supply is highest at the beginning of the dry season and lowest when the rains start. Catfish normally sell easily from March to April.
 
 <div style='text-align: center;'><img src='images/img_119.png' alt='OCR图片'/></div>
 
@@ -6906,8 +5018,6 @@ April. The variable supply of catfish is due to the rainfall. Many farmers are a
 more fish during the rainy season but have problems keeping the fish in the ponds during the dry season and therefore want to sell by any possible means during this period. The middle men take advantage of this situation. The 'rainwater-farmers', who must plan their production in relation to the rainwater availability, have a big disadvantage in comparison to
 
 farmers who do not have to rely on this water source.
-
-## Chapter 11
 
 ## 11.2 PRODUCT FORMS
 
@@ -6919,9 +5029,9 @@ easily kept alive with a little water and customers love to buy live fish especi
 
 where the so-called cold chain is not well developed.
 
-The optimum proof of freshness is a fish that is still alive and moving. Roadside catfish
+## Live catfish
 
-Live catfish
+The optimum proof of freshness is a fish that is still alive and moving. Roadside catfish
 
 sellers know this very well and shake the catfish in order to draw attention to the traffic passing by and to show the fish are still alive!
 
@@ -6941,7 +5051,7 @@ wants customers to come back and pay a good price, he needs to be aware of this.
 
 With product forms which have a package, the package reveals the source of the product and can advertise for itself.
 
-The following quality aspects should be taken into consideration when selling live
+The following quality aspects should be taken into consideration when selling live catfish:
 
 The gut of the fish must be completely empty, so no feeding 36 hours before selling. If not, the fish will vomit and deposit their waste in the water which will make the water and fish start to smell bad in no time.
 
@@ -6955,43 +5065,21 @@ The female fish should not be full of eggs with a bloated belly. Some people lik
 
 the eggs, but most people don't.
 
-Catfish marketing
-
-The catfish should not have a lot of belly fat, because it is not eaten and
-
-feed is very high. The energy will be stored as mesenteric fat and will not be used for growth.
+The catfish should not have a lot of belly fat, because it is not eaten and indicates that the energy in the feed is very high. The energy will be stored as mesenteric fat and will not be used for growth.
 
 Fish which are ready to be sold, should be graded by size.
 
-Catfish transport
+## Catfish transport
 
-Marketers buy fish and load their vans and cars with plastic bowls covered with sacks. Marketers buy fish and load their vans and cars with plastic bowls covered with sacks.
+Marketers buy fish and load their vans and cars with plastic bowls covered with sacks.
 
-Each bowl contains 25 kg of catfish and 10 to 15 l of water. The sack is made of a woven Each bowl contains 25 kg of catfish and 10 to 15 l of water. The sack is made of a woven
+Each bowl contains 25 kg of catfish and 10 to 15 l of water. The sack is made of a woven material which allows air to pass through. In order to avoid foaming, they put a bit of palm oil in the water by using a 5-ml cap of an ordinary plastic bottle. Planks between the bowls are used to support them. In this way a van can carry over 40 bowls filled with 1000 kg of fish. If the car is moving, open windows will provide enough ventilation. But if the car is stationary, the bowls with fish become overheated and the accumulation of carbon dioxide in the water can easily weaken the fish or even kill them.
 
-material which allows air to pass through. In order to avoid foaming, they put a bit of material which allows air to pass through. In order to avoid foaming, they put a bit of
+Carbon dioxide gas is heavier than air, so the accumulated gas will remain right above the surface of the water in the bowl. As a result, the fish will suffocate. Retailers will know that the fish have been struggling to stay alive, because when you cook these catfish, their meat is not firm anymore. Also, the end-users who eat them will not enjoy the meat, because its texture has become mushy. That is why retailers should also consider how to store the catfish in order to maintain good quality. Almost all retailers use bathtubs, but they should cover them in order to allow ventilation. Change the water once or twice a day, but never use city council water because of the added chlorine.
 
-palm oil in the water by using a 5-ml cap of an ordinary plastic bottle. Planks between the palm oil in the water by using a 5-ml cap of an ordinary plastic bottle. Planks between the bowls are used to support them. In this way a van can carry over 40 bowls filled with 1000 bowls are used to support them. In this way a van can carry over 40 bowls filled with 1000 kg of fish. If the car is being driving, open windows will provide enough ventilation. But, kg of fish. If the car is being driving, open windows will provide enough ventilation. But, if the car is stationary, the bowls with fish become overheated and the accumulation of if the car is stationary, the bowls with fish become overheated and the accumulation of
+## Smoked catfish
 
-carbon dioxide in the water can easily weaken the fish or even kill them. Carbon dioxide carbon dioxide in the water can easily weaken the fish or even kill them. Carbon dioxide
-
-gas is heavier than air, so the accumulated gas will remain right above the surface of the gas is heavier than air, so the accumulated gas will remain right above the surface of the water in the bowl. As a result, the fish will suffocate. Retailers will know that the fish have water in the bowl. As a result, the fish will suffocate. Retailers will know that the fish have
-
-been struggling to stay alive, because when you cook these catfish, their meat is not firm been struggling to stay alive, because when you cook these catfish, their meat is not firm anymore. Also, the end-users, who eat them will not enjoy the meat, because its texture anymore. Also, the end-users who eat them will not enjoy the meat, because its texture
-
-has become mushy. That is why the retailers should also consider how to store the catfish has become mushy. That is why the retailers should also consider how to store the catfish
-
-in order to maintain good quality. Almost all retailers use bathtubs, but they should not in order to maintain good quality. Almost all retailers use bathtubs, but they should cover them in order to allow ventilation. Change the water once or twice a day, but never use cover them in order to allow ventilation. Change the water once or twice a day, but never use city council water because of the added chlorine.city council water because of the added chlorine.
-
-Smoked catfish
-
-## 1.
-
-Smoked for a short period of time, provides the catfish with its particular smoke taste
-
-## 2.
-
-and preparation, but the fish have not yet been dried. They should preferably be eaten
+Smoked for a short period of time, the catfish has its particular smoke taste and preparation, but the fish has not yet been dried. It should preferably be eaten
 
 the same day they are bought or they should be kept in the fridge.
 
@@ -7003,33 +5091,23 @@ the fish will have lost a lot of weight. Therefore, most of the smoked fish in t
 
 are sold without knowing the weight but by eye!
 
-Smoking fish can be carried out in an oven or kiln with charcoal, wood, electricity or gas
-
-## Chapter 11
+Smoking fish can be carried out in an oven or kiln with charcoal, wood, electricity or gas.
 
 <div style='text-align: center;'><img src='images/img_120.png' alt='OCR图片'/></div>
 
-a farmer smoke the fish yourself, you can develop a brand if the fish are properly packaged. Some fishmongers smoke sick or dead catfish, because the smoking process camouflages the freshness of the fish. This is a bad development. Therefore, I advise you to package and
-
-brand your catfish, when you smoke them yourself.
+If you, as a farmer, smoke the fish yourself, you can develop a brand if the fish are properly packaged. Some fishmongers smoke sick or dead catfish, because the smoking process camouflages the freshness of the fish. This is a bad development. Therefore, I advise you to package and brand your catfish when you smoke them yourself.
 
 <div style='text-align: center;'><img src='images/img_121.png' alt='OCR图片'/></div>
 
 Photo 39. An oven or kiln for smoking catfish.
 
-Catfish fillets
+## Catfish fillets
 
-Another catfish product which is not yet very popular in Nigeria, is catfish fillets. The catfish industry in the USA, Vietnam and Europe, relies on
-
-them either fresh on ice in insulated Styrofoam boxes or frozen in sealed plastic bags.
+Another catfish product which is not yet very popular in Nigeria is catfish fillets. The catfish industry in the USA, Vietnam and Europe relies on them either fresh on ice in insulated Styrofoam boxes or frozen in sealed plastic bags.
 
 Value can be added by marinating the fillets with different flavours. Catfish fillets are quite neutral in taste which can be adjusted with herbs to the consumer's preference. By filleting the fish, the product has become consumer-friendly; they just have to fry the fish fillets to eat them. African consumers spend less and less time cooking and
 
-are more willing to buy convenience products. With regard to the increasing middle-
-
-## filleting the fish and packaging
-
-class population in Nigeria, I believe that boneless fillets could also be distributed and marketed via supermarkets all over the country. Be aware that by filleting the catfish you will lose 55% of the initial weight. The waste from filleting, such as the catfish heads, can be sold to local markets.
+are more willing to buy convenience products. With regard to the increasing middle-class population in Nigeria, I believe that boneless fillets could also be distributed and marketed via supermarkets all over the country. Be aware that by filleting the catfish you will lose 55% of the initial weight. The waste from filleting, such as the catfish heads, can be sold to local markets.
 
 ## 11.3 PRICING
 
@@ -7039,13 +5117,10 @@ willing to pay. The real price you will get for your fish will be something in b
 
 Factors influencing the price of your fish:
 
-Where in the market do you position your product?
-
-Who are your customers? Are they consumers pepper soup joints, supermarkets,
-
-## What are your competitors offering?
-
-Do you have something unique to sell? Or can you differentiate your product or service from other farmers?
+- Where in the market do you position your product?
+- Who are your customers? Are they consumers, pepper-soup joints, supermarkets, or wholesalers?
+- What are your competitors offering?
+- Do you have something unique to sell, or can you differentiate your product or service from other farmers?
 
 ## Competitive pricing
 
@@ -7061,25 +5136,17 @@ is not limitless. You can also see it as an introductory price. When you are alr
 
 business, a discounted price can be given as an incentive for buying large quantities at once or to very loyal customers. Discounts can also be given if customers pay in advance which can be useful if you have cash flow problems.
 
-In general, different prices for individual buyers will give you a lot of problems. Your In general, different prices for individual buyers will give you a lot of problems. Your
-
-customers will not be able to keep their prices secret and you will soon have big arguments. customers will not be able to keep their prices secret and you will soon have big arguments. Some farmers think they are smart by keeping the prices the same for everyone, except for Some farmers think they are smart by keeping the prices the same for everyone, except for a selected group of customers to whom they give away, for example 1 bowl of 25 kg for a selected group of customers, to whom they give away, for example 1 bowl of 25 kg for every 500 kg they buy. Even this cannot work, because the buyers are clever enough to find every 500 kg they buy. Even this cannot work, because the buyers are clever enough to find
+In general, different prices for individual buyers will give you a lot of problems. Your customers will not be able to keep their prices secret and you will soon have big arguments. Some farmers think they are smart by keeping the prices the same for everyone, except for a selected group of customers to whom they give away, for example, 1 bowl of 25 kg for every 500 kg they buy. Even this cannot work, because the buyers are clever enough to find
 
 <div style='text-align: center;'><img src='images/img_122.png' alt='OCR图片'/></div>
 
-11
+out the real prices. My advice is to keep the prices the same for everybody except when you have a good reason, such as higher volumes or advanced payments.
 
-out the real prices! My advice is to keep the prices the same for everybody except when out the real prices! My advice is to keep the prices the same for everybody except when
-
-you have a good reason, such as higher volumes, advanced payments etcetera.you have a good reason, such as higher volumes, advanced payments etcetera.
-
-Non-price factors
+## Non-price factors
 
 Pricing the fish differently or pricing them higher because you want to promote your fish
 
 on non-price factors, such as healthy fish, grown in clean water, good quality fish feed,
-
-## Chapter11
 
 does not work in the Nigerian market because, as already stated before, the moment the fish are put in a basket, they become anonymous. People don't believe much in these factors, although a significant group of Nigerian consumers believe that catfish from the
 
@@ -7091,7 +5158,7 @@ Fish farmers generally do not collaborate. They will never tell their colleague 
 
 cannot sell at these prices your competitor can! It's obvious, it is because he is selling for a lower price than the price he tells you.
 
-Most farmers have limited knowledge of the market situation. Is the market flooded with Most farmers have limited knowledge of the market situation. Is the market flooded with fish or is there a shortage? They don't know. The wholesalers take advantage of this fish or is there a shortage? They don't know. The wholesalers take advantage of this situation and quickly buy from farmers who are isolated from the real market situation, situation and quickly buy from farmers who are isolated from the real market situation, telling them the market is dull and fish is barely moving, while in fact the opposite is true! telling them the market is dull and fish is barely moving, while in fact the opposite is true! By the time these farmers find out the truth, they have already sold most of their table-By the time these farmers find out the truth, they have already sold most of their tablesized stocks. Figure 31 shows the prices for catfish in 2018 from a farm in Abuja.sized stocks. Figure 31 shows the prices for catfish in 2018 from a farm in Abuja.
+Most farmers have limited knowledge of the market situation. Is the market flooded with fish or is there a shortage? They do not know. The wholesalers take advantage of this situation and quickly buy from farmers who are isolated from the real market situation, telling them the market is dull and fish is barely moving, while in fact the opposite is true. By the time these farmers find out the truth, they have already sold most of their table-sized stocks. Figure 31 shows the prices for catfish in 2018 from a farm in Abuja.
 
 <div style='text-align: center;'><img src='images/img_123.png' alt='OCR图片'/></div>
 
@@ -7125,7 +5192,7 @@ society. Most Nigerians want a free ride. That's why general promotion happens o
 
 the grace of reporters, books, medical staff, teachers etcetera. It is not coordinated at all.
 
-## Advertise channels
+## Advertising channels
 
 The most common way to promote your own product is by personal communication. This
 
@@ -7137,23 +5204,17 @@ leaves on horseback!
 
 <div style='text-align: center;'><img src='images/img_124.png' alt='OCR图片'/></div>
 
-magazines, handbills, flyers and Other advertising channels include radio, newspapers, TV, magazines, handbills, flyers and
+Other advertising channels include radio, newspapers, TV, magazines, handbills, flyers and posters. The promotional message must be clear, to the point and focused.
 
-posters. The promotional message must be clear, to the point and focused.posters. The promotional message must be clear, to the point and focused.
+When you visit the bigger fish markets in town, you will recognize your potential customers straight away. In some areas they specialise in smoked fish, and you will notice your potential customers there as well. You can hand out flyers to them or try to convince them to visit your farm to show them your fish.
 
-When you visit the bigger fish markets in town, you will recognize your potential customers When you visit the bigger fish markets in town, you will recognize your potential customers straight away. In some areas, they specialise in smoked fish, and you will notice your straight away. In some areas they specialise in smoked fish, and you will notice your potential customers there as well. You can hand out flyers to them or try to convince them potential customers there as well. You can hand out flyers to them or try to convince them to visit your farm to show them your fish.to visit your farm to show them your fish.
-
-to big offices Other places to sell fish, are retail shops, road side markets, locations close to big offices and fairs and festivals. It just depends on how inventive you are and how much time you and fairs and festivals. It just depends on how inventive you are and how much time you want to spend marketing your fish.want to spend marketing your fish.
+Other places to sell fish are retail shops, roadside markets, locations close to big offices and fairs and festivals. It just depends on how inventive you are and how much time you want to spend marketing your fish.
 
 ## Delivery of fish
 
 Sales which include delivery can be very tricky, because the moment you arrive at the customer's place, he is the one who is in charge; you want to sell your perishable product, but if he does not mean well, he can take advantage of this. Delivery of fish can only be
 
-done in mutual understanding with the buyer and when you are sure he is a fair business
-
-Chapter 11
-
-man.
+done in mutual understanding with the buyer and when you are sure he is a fair businessman.
 
 Also, be aware that a sale has only been carried out successfully after payment has been fulfilled!
 
@@ -7223,10 +5284,6 @@ Cost (₹)
 
 25
 
-17
-
-12.5
-
 20/piece. Mortality rate from juvenile to table size: 20% due to cannibalism, diseases, birds etcetera.
 
 When you buy good quality juveniles and grow them to table size, you will still lose 20% due to mortality, mainly at the beginning of the growth cycle. So, if you sell them at 1 kg average, you 'll need to purchase 1.25 juvenile for each kg. If the cost price for juveniles
@@ -7241,87 +5298,17 @@ As you can see, the size you sell your fish at, matters a lot when it comes to t
 
 more complicated, the feed conversion rate also changes with the selling size. Big fish
 
-Economics of catfish farming
-
-have a higher FCR than smaller fish. Another factor which varies, is the selling price for the different sizes of fish. Normally bigger fish will fetch a
-
-<div align="center">
-
-higher price per kg. The FCR varies from 1 for 500 g fish, to 1.38 for 2000 g fish (Figure 33).
-
-</div>
+have a higher FCR than smaller fish. Another factor which varies is the selling price for the different sizes of fish. Normally bigger fish will fetch a higher price per kg. The FCR varies from 1 for 500 g fish, to 1.38 for 2000 g fish (Figure 33).
 
 <table border="1"><tr><td>Selling Size of Fish(g)</td><td>Cost of Juveniles(N)</td><td>FCR</td><td>Feed Cost(N)</td><td>Feed cost to produce1kg</td><td>Cost price to produce1kg(N)</td><td>Sales price(N)</td><td>Gross margin(N)</td></tr><tr><td>500</td><td>50</td><td>1</td><td>380</td><td>380</td><td>430</td><td>590</td><td>160</td></tr><tr><td>1000</td><td>25</td><td>1.15</td><td>370</td><td>426</td><td>451</td><td>650</td><td>199</td></tr><tr><td>1500</td><td>17</td><td>1.25</td><td>370</td><td>463</td><td>480</td><td>720</td><td>240</td></tr><tr><td>2000</td><td>12.5</td><td>1.38</td><td>360</td><td>497</td><td>510</td><td>740</td><td>230</td></tr></table>
 
-<div align="center">
+Figure 33. Relationship between the size of the fish and the gross margin. The figures have been obtained from a farm in Abuja at the end of 2018.
 
-Selling Size of Fish (g)
-
-</div>
-
-500
-
-1000
-
-1500
-
-2000
-
-Cost of Juveniles (N)
-
-50
-
-25
-
-17
-
-12. 5
-
-12 426
-
-463
-
-497
-
-Maintenance
-
-Miscellaneous
-
-Cost price to produce 1 kg (¥)
-
-FCR 430
-
-1 451
-
-1.15 480
-
-1.25 510
-
-1.38 Sales price (¥)
-
-Feed 590
-
-Cost (¥) 650
-
-380 720
-
-370 740
-
-370 Gross margin (¥)
-
-360 160
-
-Feed cost to produce 1 kg 199
-
-380 240
-
-from a farm in Abuja at the end of 2018.Figure 33. Relationship between the size of the fish and the gross margin. The figures have been obtained
-
-From the figures of a farm in Abuja, shown in Figure 33, you can conclude form the gross margin that the selling size of 1.5 kg is most profitable. However, there are other factors which have to be taken into consideration; for instance, the market demand for this fish
+From the figures of a farm in Abuja, shown in Figure 33, you can conclude from the gross margin that the selling size of 1.5 kg is most profitable. However, there are other factors which have to be taken into consideration; for instance, the market demand for this fish
 
 size. Actually, the farm in Abuja is targeting at 1.5 kg fish because the competition with
 
-local small farmers is less for bigger fish sizes than for sizes of 1 kg or less.Many farmers
+local small farmers is less for bigger fish sizes than for sizes of 1 kg or less. Many farmers
 
 don't have the financial capacity to grow bigger sized fish.
 
@@ -7329,19 +5316,20 @@ don't have the financial capacity to grow bigger sized fish.
 
 Indirect costs are costs that are not directly accountable for the production of fish. These costs are less variable and can even be fixed. Such costs are:
 
-Administration
-
-Security
+- Administration
+- Security
+- Energy
+- Marketing
+- Labour
+- Interest
+- Maintenance
+- Miscellaneous
 
 In principle, the direct costs for all the farms are the same, while the indirect costs vary a
 
-lot from farm to farm. The location,the facilities and the capacity of the farm matter a lot.
+lot from farm to farm. The location, the facilities and the capacity of the farm matter a lot.
 
 <div style='text-align: center;'><img src='images/img_125.png' alt='OCR图片'/></div>
-
-Energy Marketing Labour
-
-## Chapter 12
 
 For instance, do you have a steady access to the supply of PHCN or does your farm run on a generator most of the time? Is the accessibility of your farm good enough when it comes to marketing, transport and even the sales price of the fish? Has the farm been built with
 
@@ -7361,69 +5349,32 @@ Example 26. How to calculate the break-even point?
 
 The farm has a capacity of 100 tons per annum and the fish are sold at the average
 
-price of N 720/kg.The direct costs (see Figure 33) are N 480/kg.Gross margin = 720
+price of N 720/kg. The direct costs (see Figure 33) are N 480/kg. Gross margin = 720 - 480 = N 240/kg.
 
--480=N240/kg.
+The following indirect costs per annum are applicable and estimated in naira:
 
-The following indirect costs per annum are applicable per annum and estimated in
+- Energy - 2,600,000
+- Marketing - 1,000,000
+- Labour - 2,000,000
+- Administration - 500,000
+- Security - 500,000
+- Interest (financed through own resources) - 0
+- Maintenance - 500,000
+- Miscellaneous - 500,000
 
-Energy-2,600,000
+Total: N 7,600,000.
 
-Marketing-1,000,000
+The break-even point represents the amount of production that is necessary to pay for the running cost of N 7,600,000:
 
-Interest (financed through own resources)
-
-Maintenance-500,000
-
-Miscellaneous-500,000
-
-10 ton/annum
-
-31. 7 ton/annum
-
-Total: N7,600,000.
-
-The break-even point represents the amount of production that is necessary to pay for the running cost of 7,600,000:7,600,000/240 $ /kg = 31,666 kg.
-
-## Economics of catfish farming
+7,600,000 / 240 per kg = 31,666 kg.
 
 <table border="1"><tr><td>Achieved production</td><td>Gross profit(N)</td><td>Costs of running the farm(N)</td><td>Net profit(N)</td></tr><tr><td>10 ton/annum</td><td>2,400,000</td><td>7,600,000</td><td>Loss5,200,000</td></tr><tr><td>31.7 ton/annum</td><td>7,600,000</td><td>7,600,000</td><td>No gain no loss</td></tr><tr><td>50 ton/annum</td><td>1,200,000</td><td>7600000</td><td>Profit</td></tr><tr><td></td><td></td><td></td><td>6,400,000</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>75 ton/annum</td><td>18,000,000</td><td>7,600,000</td><td>Profit</td></tr><tr><td></td><td></td><td></td><td>10,400,000</td></tr><tr><td>100 ton/annum</td><td>24,000,000</td><td>7,600,000</td><td>Profit</td></tr><tr><td></td><td></td><td></td><td>16,400,000</td></tr></table>
 
-50 ton/annum
+## 12.4 FARM SIZE VERSUS PROFITABILITY
 
-75 ton/annum
+Figure 34. Calculation of profits in relationship to the amount of production.
 
-## Prices for catfish during the year
-
-The prices for catfish fluctuate during the year depending on availability and demand. Apart from this, inflation plays a part. Normally the price should increase because of it. During the rainy season, the price of fish tends to increase. This is an annual trend.
-
-You can derive from Figure 31 in chapter 11, that fish smaller than 1 kg are always sold
-
-at a lower price. This is partly due to the fact that many farmers sell small fish and few
-
-100 ton/annum 12.4 FARM SIZE VERSUS PROFITABILITY
-
-Gross profit (N) Net profit (N)
-
-2,400,000 Loss 5,200,000
-
-7,600,000 No gain no loss
-
-1,200,000 Profit
-
-18,000,000
-
-24,000,000 10,400,000
-
-Costs of running the farm (N) Profit
-
-7,600,000 16,400,000
-
-7600,000 Figure 34. Calculation of profits in relationship to the amount of production.
-
-When you put the figures in an Excel sheet you can play with them by changing the
-
-,7600,000 selling price, the FCR, the feed price or the labour cost. You will immediately see the changes in gross profit and net profit of the farm. Also, the break-even point will change.
+When you put the figures in an Excel sheet you can play with them by changing the selling price, the FCR, the feed price or the labour cost. You will immediately see the changes in gross profit and net profit of the farm. Also, the break-even point will change.
 
 The example shown in Figure 34 comes from a financially healthy farm; even when the
 
@@ -7449,17 +5400,13 @@ lives.
 
 Large farms: over 100,000 kg per annum
 
-Large farms are usually located in areas where there is enough space and water to facilitate
-
-a massive production of fish. The owner can live anywhere in Nigeria or even outside
-
-## Nigeria.
+Large farms are usually located in areas where there is enough space and water to facilitate a massive production of fish. The owner can live anywhere in Nigeria or even outside Nigeria.
 
 Statistics about the number of farms in Nigeria and their productions are either not available or not reliable, but I believe that Nigeria has over 100,000 small-scale farms while there are
 
 up to 20,000 medium sized and up to 300 large farms.
 
-Differences in profitability
+## Differences in profitability
 
 The capacity of the farm and its actual production are in most cases not in line with each other.
 
@@ -7469,25 +5416,13 @@ even less than 10% of their capacity and they should in fact be categorised as s
 
 farms, but without the benefits of a small farm.
 
-The small sized and the medium sized farms especially show very big differences in profitability within their categories. At large farms the way of farming has been harmonised to the best
+The small sized and the medium sized farms especially show very big differences in profitability within their categories. At large farms the way of farming has been harmonised to the best farming practice and therefore the range in profitability between these farms is not as much as in the other categories. Large farms are large for a reason: they do well and have the correct infrastructure and a good market.
 
-farming practice and therefore the range in profitability between these farms is not as much as
-
-in the other categories. Large farms are large for a reason: they do well and have the correct
-
-Medium sized farms face the biggest problems in my opinion. The ambition of medium sized
-
-infrastructure and a good market.
-
-farms is bigger than what they can handle.Most of the time they face lack of good management
+Medium sized farms face the biggest problems in my opinion. The ambition of medium sized farms is bigger than what they can handle. Most of the time they face lack of good management
 
 and security, lack of finance and lack of good infrastructure, such as the availability of water. They are too small to hire good staff and are not able to build good infrastructure. Finally, the set-up of a medium sized farm is too big for the farmer to handle. Most of the time the locations where the farms are situated, are too far away for proper supervision and therefore
 
-206
-
 the farms are only checked at the weekend, in the evening or by phone.
-
-Economics of catfish farming
 
 The smaller farm's set up is not ambitious but smart; they don't pretend to make a lot of money but at least the majority of them make a profit. The quantities of fish produced can even be sold to retailers and these farms will get a better average price than the medium
 
@@ -7501,21 +5436,19 @@ soldier come, barrack remains the same!
 
 <div style='text-align: center;'><img src='images/img_127.png' alt='OCR图片'/></div>
 
-## C
-
 ## 13
 
-INTEGRATED FISH FARMING
+## INTEGRATED FISH FARMING
 
-13. 1 INTRODUCTION
+## 13.1 INTRODUCTION
 
-13. 2 3 METHODS OF INTEGRATED FISH FARMING
+## 13.2 3 METHODS OF INTEGRATED FISH FARMING
 
-13. 3 CATFISH AND CHICKEN SLAUGHTER WASTE
+## 13.3 CATFISH AND CHICKEN SLAUGHTER WASTE
 
-13. 4 USING FISH EFFLUENT FOR IRRIGATION PURPOSES
+## 13.4 USING FISH EFFLUENT FOR IRRIGATION PURPOSES
 
-13. 6 COMBINING RICE AND CATFISH FARMING
+## 13.6 COMBINING RICE AND CATFISH FARMING
 
 ## 13.1 INTRODUCTION
 
@@ -7523,19 +5456,15 @@ A farm in the middle of Ibadan, used recirculation systems and had a big settlin
 
 tank for the waste water in order to keep the gutters and the public drainage
 
-system free from its solids. Each year the sludge from this tank was used for the polo felds as a preparation for the polo tournament in January. A big tanker was used to transport the sludge and distribute it over the polo feld. However, the horses were so happy with the abundance of grass on the feld that they refused to
+system free from its solids. Each year the sludge from this tank was used for the polo fields as a preparation for the polo tournament in January. A big tanker was used to transport the sludge and distribute it over the polo field. However, the horses were so happy with the abundance of grass on the field that they refused to
 
 run but instead enjoyed the grazing!!
 
 Integrated fish farming is a system of fish production in combination with other agricultural/livestock farming operations close to the fish pond. The farming sub-systems, for instance fish, crop and livestock, are linked to each other in such a way that the byproducts and wastes from one sub-system become valuable inputs for another sub-
 
-system and thus ensures total utilization of the land and water resources
+system and thus ensures total utilization of the land and water resources of the farm, resulting in a maximum and diversified farm output on minimum overheads and labour costs.
 
-of the farm, resulting in a maximum and diversified farm output on minimum overheads and labour
-
-costs.
-
-13. 2 3 METHODS OF INTEGRATED FISH FARMING
+## 13.2 3 METHODS OF INTEGRATED FISH FARMING
 
 1. The waste (water and nutrients) of the fish are collected and become a source of
 
@@ -7551,19 +5480,9 @@ source of fish feed.
 
 3. A combination of the first 2 options.
 
-In Nigeria integrated fish farming is rare, but in Asia, for the small-scale farmer especially, In Nigeria integrated fish farming is rare, but in Asia for the small-scale farmer especially it's a beneficial way of farming and therefore popular. Farmers use the manure of live-it's a beneficial way of
+In Nigeria integrated fish farming is rare, but in Asia, for the small-scale farmer especially, it is a beneficial way of farming and therefore popular. Farmers use the manure of livestock, such as cattle, chickens or pigs, to fertilise the water; in some cases, the pen of the animals is situated above the fish ponds and the droppings fall directly into the pond. The ponds are also relatively big: 0.5 to 1.0 ha. The fish species used in this type of farming are tilapia and several species of carp, either in monoculture or in polyculture. These fish directly consume a little part of the manure but in general the natural production of the fish pond is increased because the manure fertilises the water. The natural food for the fish is algae, zooplankton and benthos.
 
-farming and therefore popular. Farmers use the manure of live- stock, such as cattle, chickens or pigs, to fertilise the water; in some cases, the pen of the stock, such as cattle, chickens or pigs, to fertilise the water; in some cases, the pen of the animals is situated above the fish ponds and the droppings fall directly into the pond. The animals is situated above the fish ponds and the droppings fall directly into the pond. The
-
-ponds are also relatively big: 0.5 to 1.0 ha.The fish species used in this type of farming ponds are also relatively big: 0.5 to 1.0 ha.The fish species used in this type of farming
-
-are tilapia and several species of carp, either in monoculture or in polyculture. These fish are tilapia and several species of carp, either in monoculture or in polyculture. These fish directly consume a little part of the manure but in general the natural production of the directly consume a little part of the manure but in general the natural production of the fish pond is increased because the manure fertilises the water. The natural food for the fish pond is increased because the manure fertilises the water. The natural food for the fish is algae, zooplankton and benthos.fish is algae, zooplankton and benthos.
-
-natural production as other fish species do, because they are carnivorous and not omnivorous or herbivorous, such as
-
-Integrated fish farming
-
-carp and tilapia. Fish production with integrated farming is rather extensive and, in most
+natural production as other fish species do, because they are carnivorous and not omnivorous or herbivorous, such as carp and tilapia. Fish production with integrated farming is rather extensive and, in most
 
 cases, not more than 5000 kg per hectare per year. In Nigeria land is too expensive to use it extensively. All farms use complete feed or at least additional feed to grow catfish in densities which allow a production of at least 50,000 to 100,000 kg per ha per year.
 
@@ -7587,15 +5506,13 @@ If you are a farmer without a slaughter house and you still intend to use slaugh
 
 this could be difficult. Logistics, availability and competition for the raw materials can make it unprofitable to use these products, apart from the effort needed to keep them fresh till feeding time!
 
-13. 4 USING FISH EFFLUENT FOR IRRIGATION PURPOSES
+## 13.4 USING FISH EFFLUENT FOR IRRIGATION PURPOSES
 
-In principle the waste water of fish ponds is good for fertilising and watering crops, but it has its restrictions. First of all, the nutrients in the water are available in very low
-
-Chapter 13
+In principle the waste water of fish ponds is good for fertilising and watering crops, but it has its restrictions. First of all, the nutrients in the water are available in very low concentrations.
 
 Researchers in Sagana Institute in Kenya found out that fish water effluent can contribute at most 20% of the nutrients required. After all, you cannot flood the crops in order to push the nutrients out.
 
-To supply the water to the crops or the orchard is another hassle Normally, a good method is drip irrigation. A small polyethylene hose with small holes 50 cm apart is supplied with effluent under a pressure of only 0.5 bar and dispenses the water in small quantities to the crops efficiently. Also, there will not be much evaporation. The problem
+To supply the water to the crops or the orchard is another hassle. Normally, a good method is drip irrigation. A small polyethylene hose with small holes 50 cm apart is supplied with effluent under a pressure of only 0.5 bar and dispenses the water in small quantities to the crops efficiently. Also, there will not be much evaporation. The problem
 
 with fish farm effluent though, is that the water has been contaminated with a lot of
 
@@ -7615,7 +5532,7 @@ because it will be much less contaminated. The sludge can be pumped out of the s
 
 tank and used to improve the amount of organic matter in the soil and increase its nutrient levels. In many parts of Nigeria, the level of organic matter in the soil is low, because it contains mostly sand. When the sludge is added to the soil, it will become more fertile.
 
-13. 6 COMBINING RICE AND CATFISH FARMING
+## 13.6 COMBINING RICE AND CATFISH FARMING
 
 Rice farming has become increasingly popular in Nigeria since the government has
 
@@ -7623,11 +5540,7 @@ promoted rice culture and banned the import of rice. This offers the opportunity
 
 combine rice and fish culture; this way not only carbohydrates are produced, but also the so much needed proteins. This type of farming is very popular in Asia and we can learn from them. Already many trials are conducted in Nigeria. In most cases the combination of rice and fish is more profitable than rice or fish separately.
 
-212
-
 Fish culture in rice fields can be done in 2 ways:
-
-Integrated fish farming
 
 1. Simultaneous culture: both at the same time
 
@@ -7643,19 +5556,13 @@ screens, in order to keep the water at the right level and avoid fish coming in 
 
 ditches are shelters for the fish where they can hide when they are not foraging between the rice plants. When it is time to harvest, the water level is reduced so that the fish can only remain in the ditches and are relatively easy to catch.
 
-Many fish species can be cultured in rice fields. They should be specifically tolerant to high water Many fish species can be cultured in rice fields. They should be specifically tolerant to high water
-
-temperatures (35 $ ^{\circ} \mathrm{C} $), low oxygen levels and high turbidity. In Asia the most common species to temperatures (35 $ ^{\circ} \mathrm{C} $), low oxygen levels and high turbidity. In Asia the most common species to be cultured in combination with rice are Asian carp, rohu, common carp, milkfish and catfish be cultured in combination with rice are Asian carp, rohu, common carp, milkfish and catfish species. The African catfish can also be cultured in rice fields, since it tolerates these conditions.species. The African catfish, can also be cultured in rice fields, since it tolerates these conditions.
+Many fish species can be cultured in rice fields. They should be specifically tolerant to high water temperatures (35 $ ^{\circ} \mathrm{C} $), low oxygen levels and high turbidity. In Asia the most common species to be cultured in combination with rice are Asian carp, rohu, common carp, milkfish and catfish species. The African catfish can also be cultured in rice fields, since it tolerates these conditions.
 
 ## Procedure
 
 Five days after the rice seedlings have been transplanted from the nursery site to the pond, catfish juveniles are stocked at a ratio of 4000 per ha and are given supplemental feeding. The fish can grow during the entire period the rice is growing. Approximately 120 days are needed to grow rice from seedling to harvest. In this period the fish can grow up to 500 g (smoking
 
-size); depending on the quantity and quality of the
-
-## supplements fed, the fish might be smaller
-
-or bigger.
+size); depending on the quantity and quality of the supplements fed, the fish might be smaller or bigger.
 
 Advantages of simultaneous culture:
 
@@ -7673,21 +5580,15 @@ becoming infected by one of these diseases.
 
 <div style='text-align: center;'><img src='images/img_128.png' alt='OCR图片'/></div>
 
-The major limitations when cultivating rice and fish simultaneously, are the use of
+The major limitations when cultivating rice and fish simultaneously are the use of agrochemicals to control weeds and insects. Most of those agrochemicals are toxic for fish.
 
-agrochemicals to control weeds and insects. Most of those agrochemicals are toxic for fish.
-
-can use the herbicides and pesticides needed to control weeds and pests. And, during the culture of fish, you can have a higher water level which is more favourable for the catfish. The sludge at the bottom of the pond is an excellent fertilizer for rice.
-
-## Chapter 13
-
-Rotational culture
+## Rotational culture
 
 <div style='text-align: center;'><img src='images/img_129.png' alt='OCR图片'/></div>
 
 With the rotational culture of rice and fish, after the pond has been used for fish culture,
 
-it is converted into a rice paddy. The main advantage is that during the culture of rice you
+it is converted into a rice paddy. The main advantage is that during the culture of rice you can use the herbicides and pesticides needed to control weeds and pests. And, during the culture of fish, you can have a higher water level which is more favourable for the catfish. The sludge at the bottom of the pond is an excellent fertilizer for rice.
 
 <div style='text-align: center;'><img src='images/img_130.png' alt='OCR图片'/></div>
 
@@ -7921,8 +5822,6 @@ Cash flow forecast for a 100 tons per annum production capacity catfish farm sel
 
 This appendix shows you in facts and figures that stocking all the fish at once is not desirable, since you have a very high demand before selling. Apart from this, there are many other reasons not to stock all the fish at the same time:
 
-220
-
 Selling all the fish in one month will be difficult and you cannot actually build a customer base this way.
 
 When things go wrong at the farm; all your fish are at stake! Your standing stock at the point of selling is 2 times higher than when you sell the fish on a monthly
@@ -7941,283 +5840,13 @@ See the table on the next page.
 
 Note. Interest and depreciation are not included.
 
-Marketing costs are applicable when you are getting the fish ready for sales in June and July. After that period sales activity and associated costs are not included for 6 months. The juveniles are bought in bulk, so you can
+Marketing costs are applicable when you are getting the fish ready for sales in June and July. After that period sales activity and associated costs are not included for 6 months. The juveniles are bought in bulk.
 
-<table border="1"><tr><td>Costs/Month</td><td>January</td><td>February</td><td>March</td><td>April</td><td>May</td><td>June</td><td>July</td><td>August</td><td>September</td><td>October</td><td>November</td><td>December</td><td>January</td></tr><tr><td>Farm staff and ads</td><td>170000
-
-<table><tr><td>rya nu Ja</td><td>ht n Mo\ st s Co</td></tr><tr><td>r bem ec De</td><td>00 00 71</td></tr><tr><td>r bem e No v</td><td>00 00 71</td></tr><tr><td>r beo t Oc</td><td></td></tr><tr><td>r bem et p Se</td><td>00 00 71</td></tr><tr><td>ts gu Au</td><td>00 00 71</td></tr><tr><td>ly Ju</td><td>00 00 71</td></tr><tr><td>en Ju</td><td>00 00 71</td></tr><tr><td>May</td><td>00 00 71</td></tr><tr><td>li r Ap</td><td>00 00 71</td></tr><tr><td>hc r Ma</td><td>00 00 71</td></tr><tr><td>rya br u Fe</td><td></td></tr><tr><td>rya nu Ja</td><td>00 00 71</td></tr></table>
-
-00 00 71 00 00 8
-
-00 00 71 00 00 8
-
-00 00 71 00 00 8
-
-Le 00 00 8
-
-in 00 00 80
-
-ff 00 00 8
-
-at 00 00 8
-
-s 00 00 8
-
-minr m Fa da 00 00 8
-
-00 00 8
-
-00 00 8 tyir uc Se
-
-00 00 22
-
-00 00 8
-
-00 00 22
-
-00 00 8
-
-00 00 22
-
-00 00 22 lin
-
-00 00 22
-
-lin
-
-00 00 22
-
-lin
-
-00 00 22
-
-00 00
-
-00 00 22
-
-00 00
-
-00 00 22
-
-lin
-
-00 00 8 lin
-
-00 00 8
-
-lin
-
-lin
-
-lin
-
-s
-
-lea 00 00 4
-
-s 00 00 4
-
-g 00 00 4
-
-in y tg 00 00 4
-
-r k 00 00 4
-
-e e r En M
-
-a 00 00 4
-
-00 00 4 00 00 4
-
-00 00 4 00 00 4
-
-00 00 4 00 00 4
-
-00 00 4 00 00 4
-
-00 00 4 00 00 4
-
-00 00 4 00 00 4
-
-00 00 4 00 00 4
-
-00 00 4 00 00 52 2
-
-00 00 4 00 00 00 1
-
-00 00 4 00 00 05 6
-
-00 00 4 00 00 52 5
-
-00 00 4 00 00 05 4
-
-ec 00 00 57 3
-
-n nea 00 00 52 2
-
-n es te er in 00 00 00 1
-
-Ma
-
-fo de Fe
-
-Un 00 00 69
-
-00 00 00 1
-
-00 00 05 6 lin
-
-00 00 52 5 lin
-
-00 00 05 4
-
-00 00 57 3 lin
-
-li n 00 00 31 7
-
-00 00 08 5
-
-li n 00 00 50 5
-
-00 00 69 00 00 03 4
-
-00 00 08 2
-
-li n 00 00 95 2
-
-00 00 3 71
-
-li n 00 00 08 5
-
-li n 00 00 50 5
-
-li n 00 00 03 4
-
-00 00 08 2
-
-li n 00 00 15 2
-
-se sn ep xe
-
-00 00 69 l ta To
-
-00 00 00 63
-
-s lei ne v Ju
-
-00 00 95 2
-
-00 00 00 63 00 00 15 2-
-
-00 00 5 14 1
-
-00 00 62 9 1-)H
-
-00 00 3 12 1(
-
-)0
-
-00 00 33 6-(H
-
-w
-
-00 00 82 1-s fl
-
-00 00 20 3o H l
-
-00 00 825 e h) s(S
-
-a Ca
-
-00 00 95 72ev
-
--
-
-h
-
-00 00 64 02u a o y l nl
-
--
-
-iw he u w Yo y
-
-00 00 66 4 1,
-
-00 00 16 9-l r. J
-
-00 00 13 5-u alle i y t t yx
-
-Maen Ja tr
-
-m he ot in tas in uo a y
-
-fry ga ly
-
-ra in u an kc Ju t
-
-J o in
-
-g a ae in s
-
-ivt is ous
-
-a s le
-
-l y as n r W te
-
-g e en as be tx l he f A
-
-le in w he wt 0.
-
-flod n.i 0 ga0 a 0,0
-
-h an sa 7,
-
-c fa 2 he N t is
-
-ina in s h le fi
-
-heg s as o t ns
-
-a t r y,e r v a o u l n la fir
-
-t o im k fl
-
-bu t r h do ir w as h m e
-
-ll 0 t u e
-
-it 0 im
-
-d 0 v h
-
-de 0 e
-
-, t
-
-ee 00 i
-
-n 4, it r x s
-
-l 1 Ma
-
-ta #i o f o p l
-
-p fa l
-
-c o a es
-
-g
-
-in 221
-
-we
+[UNCLEAR OCR: Appendix 3 cash-flow table and explanatory text largely unrecoverable]
 
 <div style='text-align: center;'><img src='images/img_132.png' alt='OCR图片'/></div>
 
-Appendices
-
-APPENDIX 4
+## APPENDIX 4
 
 Fish farm from plan to completion in 12 photos
 
@@ -8275,13 +5904,7 @@ Photo 12A. A view of the gutter and the drainage.
 
 <div style='text-align: center;'><img src='images/img_147.png' alt='OCR图片'/></div>
 
-## Bill of quantities (BOQ) of a concrete pond and a block pond of 10 x
-
-<div align="center">
-
-5 x 1.3 m (length x width x height)
-
-</div>
+## Bill of quantities (BOQ) of a concrete pond and a block pond of 10 x 5 x 1.3 m (length x width x height)
 
 <div align="center">
 
@@ -8295,8 +5918,6 @@ Sample BOQ - Concrete Pond
 
 <div style='text-align: center;'><img src='images/img_148.png' alt='OCR图片'/></div>
 
-## Appendices
-
 <div align="center">
 
 Sample BOQ - Block Pond
@@ -8309,57 +5930,13 @@ Sample BOQ - Block Pond
 
 <div style='text-align: center;'><img src='images/img_149.png' alt='OCR图片'/></div>
 
-Appendices
-
-## APPENDIX 7APPENDIX 6
+## APPENDIX 6
 
 Examples of ranges in feed sizes and their composition
 
 Starter feeds are usually high in proteins with high levels of fish meal and fish oil. Feed conversion rates below 1 are obtainable and can even be as low as 0.6.
 
 <table border="1"><tr><td>Sizes(mm)</td><td>Protein(%)</td><td>Fat(%)</td><td>Crude fibre(%)</td><td>Ash(%)</td><td>Crumbles</td></tr><tr><td>0.2-0.3</td><td>56</td><td>15</td><td>0.1</td><td>12</td><td>sinking</td></tr><tr><td>0.3-0.5</td><td>56</td><td>15</td><td>0.1</td><td>12</td><td>sinking</td></tr><tr><td>0.5-0.8</td><td>56</td><td>15</td><td>0.1</td><td>12</td><td>sinking</td></tr><tr><td>0.8-1.2</td><td>56</td><td>15</td><td>0.1</td><td>12</td><td>sinking</td></tr><tr><td>1.2-1.5</td><td>56</td><td>15</td><td>0.1</td><td>12</td><td>sinking</td></tr></table>
-
-Sizes (mm)
-
-0. 2-0.3
-
-0. 3-0.5
-
-232 15
-
-Protein (%) 15
-
-56 Crude fibre (%)
-
-56 0.1
-
-56 0.1
-
-56 0.1
-
-56 0.1
-
-0.1
-
-Ash (%)
-
-12
-
-12
-
-12
-
-12
-
-40 12
-
-Fat (%) Crumbles
-
-15 sinking sinking sinking
-
-15 sinking
-
-15
 
 Starter feeds in particle sizes of 1 mm and 1.8 mm can also be produced as mini pellets. 8.8
 
@@ -8375,261 +5952,46 @@ Out-grow feeds are produced in different ranges of quality. They have been given
 
 <table border="1"><tr><td>Sizes(mm)</td><td>Protein(%)</td><td>Fat(%)</td><td>Crude fibre(%)</td><td>Ash(%)</td><td>Pellet</td></tr><tr><td>3</td><td>48</td><td>13</td><td>1.4</td><td>9.6</td><td>floating</td></tr><tr><td>3</td><td>42</td><td>13</td><td>2.6</td><td>6.7</td><td>floating</td></tr><tr><td>4.5</td><td>42</td><td>13</td><td>2.6</td><td>6.7</td><td>floating</td></tr><tr><td>4.5</td><td>37</td><td>10</td><td>2.4</td><td>7.1</td><td>floating</td></tr><tr><td>6</td><td>40</td><td>10</td><td>2.5</td><td>7.2</td><td>floating</td></tr><tr><td>8</td><td>40</td><td>10</td><td>2.5</td><td>7.2</td><td>floating</td></tr></table>
 
-Protein (%)
-
-42 Ash (%)
-
-37 9.6
-
-40 6.7
-
-Fat (%) 6.7
-
-13 7.1
-
-13 7.2
-
-13 7.2
-
-10 Pellet
-
-10 floating floating floating floating
-
-10 floating
-
-Crude fibre (%)
-
 Repro feed is feed for brood stock to optimise the egg development and the survival rate
 
 1.4
 
 2.6 of the fry. 40 mg/kg Astaxanthin has been added to the feed.
 
-2.6
+## APPENDIX 7
 
-Appendices
-
-2.4
-
-2.5
-
-APPENDIX 7APPENDIX 6
-
-Simplified feeding schedule for African catfish based on good quality Simplified feeding schedule for African catfish based on good quality feed and optimum water qualityfeed and optimum water quality
+Simplified feeding schedule for African catfish based on good quality feed and optimum water quality
 
 - Feeding schedule for juveniles of 10 g growing to 1500 g in 180 days
 
-- Stocking at day 1: 5000 pieces of 10 g·Feeding in kgFeeding schedule for juveniles of 10 g growing to 1500 g in 180 days
-
-Day Stocking at day 1: 5000 pieces of 10 g. Feed gift Day Feed gift Day Feed gift Day Feed gift Day Feed gift Day Feed gift
-
-2 Feeding in kg91 11.5 61 27.5 91 49.75 121 68 151 91
-
-stocking at day 1. 5000 pieces of 70 g
-
+- Stocking at day 1: 5000 pieces of 10 g
 - Feeding in kg
 
 <table border="1"><tr><td>Day</td><td>Feed gift</td><td>Day</td><td>Feed gift</td><td>Day</td><td>Feed gift</td><td>Day</td><td>Feed gift</td><td>Day</td><td>Feed gift</td><td>Day</td><td>Feed gift</td></tr><tr><td>1</td><td>2</td><td>31</td><td>11.5</td><td>61</td><td>27.5</td><td>91</td><td>43.75</td><td>121</td><td>68</td><td>151</td><td>91</td></tr><tr><td>2</td><td>2.5</td><td>32</td><td>12</td><td>62</td><td>28</td><td>92</td><td>44.5</td><td>122</td><td>69</td><td>152</td><td>92</td></tr><tr><td>3</td><td>2.6</td><td>33</td><td>12.5</td><td>63</td><td>28.5</td><td>93</td><td>45.25</td><td>123</td><td>70</td><td>153</td><td>93</td></tr><tr><td>4</td><td>2.7</td><td>34</td><td>13</td><td>64</td><td>29</td><td>94</td><td>46</td><td>124</td><td>71</td><td>154</td><td>94</td></tr><tr><td>5</td><td>2.8</td><td>35</td><td>13.5</td><td>65</td><td>29.5</td><td>95</td><td>46.75</td><td>125</td><td>72</td><td>155</td><td>95</td></tr><tr><td>6</td><td>3</td><td>36</td><td>14</td><td>66</td><td>30</td><td>96</td><td>47.5</td><td>126</td><td>73</td><td>156</td><td>95</td></tr><tr><td>7</td><td>3.2</td><td>37</td><td>14.5</td><td>67</td><td>30.5</td><td>97</td><td>48.25</td><td>127</td><td>74</td><td>157</td><td>95</td></tr><tr><td>8</td><td>3.4</td><td>38</td><td>15</td><td>68</td><td>31</td><td>98</td><td>49</td><td>128</td><td>75</td><td>158</td><td>95</td></tr><tr><td>9</td><td>3.6</td><td>39</td><td>15.5</td><td>69</td><td>31.5</td><td>99</td><td>49.25</td><td>129</td><td>76</td><td>159</td><td>95</td></tr><tr><td>10</td><td>3.8</td><td>40</td><td>16</td><td>70</td><td>32</td><td>100</td><td>50</td><td>130</td><td>77</td><td>160</td><td>95</td></tr><tr><td>11</td><td>4</td><td>41</td><td>16.5</td><td>71</td><td>32.5</td><td>101</td><td>50.75</td><td>131</td><td>78</td><td>161</td><td>95</td></tr><tr><td>12</td><td>4.3</td><td>42</td><td>17</td><td>72</td><td>33</td><td>102</td><td>51.5</td><td>132</td><td>79</td><td>162</td><td>95</td></tr><tr><td>13</td><td>4.6</td><td>43</td><td>17.5</td><td>73</td><td>33.5</td><td>103</td><td>52.25</td><td>133</td><td>80</td><td>163</td><td>95</td></tr><tr><td>14</td><td>4.9</td><td>44</td><td>18</td><td>74</td><td>34</td><td>104</td><td>53</td><td>134</td><td>81</td><td>164</td><td>95</td></tr><tr><td>15</td><td>5.2</td><td>45</td><td>18.5</td><td>75</td><td>34.5</td><td>105</td><td>53.75</td><td>135</td><td>82</td><td>165</td><td>95</td></tr><tr><td>16</td><td>5.5</td><td>46</td><td>19</td><td>76</td><td>35</td><td>106</td><td>54.5</td><td>136</td><td>83</td><td>166</td><td>95</td></tr><tr><td>17</td><td>5.8</td><td>47</td><td>19.5</td><td>77</td><td>35.5</td><td>107</td><td>55.25</td><td>137</td><td>84</td><td>167</td><td>95</td></tr><tr><td>18</td><td>6.1</td><td>48</td><td>20</td><td>78</td><td>36</td><td>108</td><td>56</td><td>138</td><td>85</td><td>168</td><td>95</td></tr><tr><td>19</td><td>6.4</td><td>49</td><td>20.5</td><td>79</td><td>36.5</td><td>109</td><td>56.75</td><td>139</td><td>86</td><td>169</td><td>95</td></tr><tr><td>20</td><td>6.7</td><td>50</td><td>21</td><td>80</td><td>37</td><td>110</td><td>57.5</td><td>140</td><td>87</td><td>170</td><td>95</td></tr><tr><td>21</td><td>7.1</td><td>51</td><td>22.5</td><td>81</td><td>37.5</td><td>111</td><td>58.25</td><td>141</td><td>88</td><td>171</td><td>95</td></tr><tr><td>22</td><td>7.5</td><td>52</td><td>23</td><td>82</td><td>38</td><td>112</td><td>59</td><td>142</td><td>89</td><td>172</td><td>95</td></tr><tr><td>23</td><td>7.9</td><td>53</td><td>23.5</td><td>83</td><td>38.5</td><td>113</td><td>60</td><td>143</td><td>90</td><td>173</td><td>95</td></tr><tr><td>24</td><td>8.3</td><td>54</td><td>34</td><td>84</td><td>39</td><td>114</td><td>61</td><td>144</td><td>90</td><td>174</td><td>95</td></tr><tr><td>25</td><td>8.7</td><td>55</td><td>24.5</td><td>85</td><td>39.5</td><td>115</td><td>62</td><td>145</td><td>90</td><td>175</td><td>95</td></tr><tr><td>26</td><td>9.1</td><td>56</td><td>25</td><td>86</td><td>40</td><td>116</td><td>63</td><td>146</td><td>90</td><td>176</td><td>95</td></tr><tr><td>27</td><td>9.5</td><td>57</td><td>25.5</td><td>87</td><td>40.75</td><td>117</td><td>64</td><td>147</td><td>90</td><td>177</td><td>95</td></tr><tr><td>28</td><td>9.9</td><td>58</td><td>26</td><td>88</td><td>41.5</td><td>118</td><td>65</td><td>148</td><td>90</td><td>178</td><td>95</td></tr><tr><td>29</td><td>10.4</td><td>59</td><td>26.5</td><td>89</td><td>42.25</td><td>119</td><td>66</td><td>149</td><td>90</td><td>179</td><td>95</td></tr><tr><td>30</td><td>10.9</td><td>60</td><td>27</td><td>90</td><td>43</td><td>120</td><td>67</td><td>150</td><td>90</td><td>180</td><td>95</td></tr></table>
 
-<table><tr><td>5</td><td>108</td></tr><tr><td>6</td><td>11910</td></tr><tr><td>7</td><td>12114.34</td></tr><tr><td>8</td><td>13124.64.3</td></tr><tr><td>Day2.5 Feed gift32 Day 12Feed gift 62Day</td><td>3.433.63.23.83.443.63.8</td></tr><tr><td>1</td><td>14134.94.6</td></tr><tr><td>2</td><td>15145.24.9</td></tr><tr><td>3</td><td>16155.55.2</td></tr><tr><td>4</td><td>17165.85.5</td></tr><tr><td>5</td><td>18176.15.8</td></tr><tr><td>6</td><td>19186.46.120196.76.421207.16.722217.57.123227.97.524237.9248.38.32525</td></tr><tr><td>2.62</td><td>8.78.726269.19.1</td></tr><tr><td>2.72.5</td><td>27279.59.5</td></tr><tr><td>2.82.6</td><td>28289.99.9</td></tr><tr><td>32.7</td><td>292910.410.4</td></tr><tr><td>3.22.8</td><td></td></tr><tr><td>97</td><td></td></tr></table>
-
-30 30 10.910.9 4847
-
-.. 4948 5049 51 50 52 51 53 52 545354 5555 5656
-
-.. 5757
-
-.. 5858
-
-.. 5959
-
-.. 6060
-
-.. 12.511.5
-
-.. 1312
-
-.. 13.512.5
-
-33 31 1413
-
-3432 14.513.5
-
-3533 1514 15.514.5 1615 16.515.516 1716.5 17.517
-
-3634 1817.5
-
-3735 18.518
-
-3836 3937 4038 41 3940 4241 4342 1918.5
-
-4443 19.519
-
-4544 2019.5 20.520 2120.5 22.521 2322.5 23.523 3423.534 24.524.5 2525
-
-4645 25.525.5
-
-4746
-
-2626 28Feed gift
-
-26.526.5 28.527.5
-
-2727 2928
-
-6361 29.528.5
-
-6462 3029
-
-6563 30.529.5
-
-6664 3130 31.530.5 3231 32.531.532 3332.5 33.533
-
-6765 3433.5
-
-6866 6967 7068 716970 7271 7372 34.534
-
-7473 3534.5
-
-7574 35.535
-
-7675 3635.5 36.536 3736.5 37.537 3837.5 38.538 3938.539 39.539.5 4040
-
-7776 Day92
-
-7877 9193
-
-7978 8079 8180 8281 8382 848384 8585 8686 9294
-
-8787 9395
-
-8888 9496 9597 9698 97 9899100
-
-8989 99 100101 102101 102103
-
-9090
-
-103104 4343
-
-104105 117117
-
-105106 118118
-
-106107 119119
-
-107108 108109 109110 110111111112 120120
-
-112 113113114 Feed gift44.5 Day122 Feed gift69
-
-114 115115 116116 43.7545.25
-
-44.546
-
-Total feed: 8723.65Total feed: 8723.65 kg 45.2546.75
-
-Feed conversion rate: 1.25Feed conversion rate: 1.25 4647.5 46.7548.25 47.549 48.25 4949.2550
-
-Growth: 6978.92 kgGrowth: 6978.92 kg 49.25 5050.75 51.550.75 51.552.25
-
-Total biomass: 6978.92 + 50 = 7028.92 kg 52.2553
-
-Harvest: 4700 piecesTotal biomass: 6978.92 + 50 = 7028.92 kgHarvest: 4700 pieces 5353.75
-
-Average weight: 1.5 kgAverage weight: 1.5 kg 53.7554.5
-
-40.7540.75 55.2556
-
-41.541.5 5656.75 56.7557.5 57.5 58.2558.2559
-
-42.2542.25 59 606061
-
-6464 149149 9090
-
-6565 150150 9090
-
-6666 Day152Feed gift92
-
-6767 15115391
-
-121123 6870 15215492
-
-122124 6971 15315593
-
-123125 7072 15415694 15515795 15615895 15715995 15816095 15916195 160 95 16116295 16216395
-
-124126 7173 125127 7274 126128 7375 127129 74 128 76130 75 129 77131 76 130 7778 16316495
-
-131132 7879 132133 7980 16416595
-
-133134 8081 16516695
-
-134135 8182 16616795
-
-135136 8283 16716895 16816995 16917095 17017195 17117295 17217395 17317495 174 95 17517595 17617695
-
-136137 8384 17817895
-
-137138 8485 138139 8586 139140 8687 140141 87 141 88142 88 142 89143 89 143 90144 90 17917995
-
-144 9090 145145 9090 146146 9090 18018095
-
-147147 9090 93
-
-95
-
-95
-
-95
-
-95
-
-95
-
-95
-
-95
-
-95
-
-95
-
-If you start with a different number of fish you divide the feed gift by 5000 and multiply by the number of If you start with a different number of fish you divide the feed gift by 5000 and multiply by the number of fish you have stocked and repeat this calculation for all days. Feeding tables are always an advice and should fish you have stocked and repeat this calculation for all days. Feeding tables are always an advice and should be a guideline. If the fish cannot eat this amount reduce according to their appetite.be a guideline. If the fish cannot eat this amount reduce according to their appetite!
+If you start with a different number of fish you divide the feed gift by 5000 and multiply by the number of fish you have stocked and repeat this calculation for all days. Feeding tables are always advice and should be a guideline. If the fish cannot eat this amount, reduce according to their appetite.
 
 <div style='text-align: center;'><img src='images/img_150.png' alt='OCR图片'/></div>
 
-Appendices
-
 ## APPENDIX 8
 
-How to hatch brine shrimp (Artemia salina) cystsHOW TO HATCH BRINE SHRIMP (ARTEMIA SALINA) CYSTS
+How to hatch brine shrimp (Artemia salina) cysts
 
 (Source: Brine Shrimp Direct)
 
-Introduction and storage
+## Introduction and storage
 
-The hatchlings of brine shrimp (Artemia salina) cysts are excellent feed for catfish swim The hatchlings of brine shrimp (Artemia salina) cysts are excellent feed for catfish swim
+The hatchlings of brine shrimp (Artemia salina) cysts are excellent feed for catfish swim-up fry. They are called nauplii and are of the same growth stage as catfish yolk-sac fry.
 
-up-fry. They are called naupplii and are of the same growth stage as catfish yolk sac-fry.up-fry. They are called naupplii and are of the same growth stage as catfi sh yolk sac fry.
+Adult shrimps in nature can produce live nauplii immediately, but in adverse circumstances they produce capsulated cysts. When the situation gets better the cysts will hatch, even after a period of many months. The cysts float on the water and can be scooped, cleaned, dried and canned for aquaculture purposes.
 
-Adult shrimps in nature can produce live nauplii immediately, but in adverse circumstances Adult shrimps in nature can produce live nauplii
+Purchased packaged brine shrimp cysts should always be kept under dark, dry and cool conditions. When the cysts are stored for months, it is better to put them in a freezer. Brine shrimp cysts which are used immediately or in the upcoming weeks should be separated from the main stock.
 
-immediately, but in adverse circumstances they produce capsulated cysts. When the situation gets better the cysts will hatch, even they produce capsulated cysts. When the situation gets better the cysts will hatch, even after a period of many months. The cysts float on the water and can be scooped, cleaned, after a period of many months. The cysts float on the water and can be scoped, cleaned,
+## Hatching of Artemia cysts
 
-dried and canned for aquaculture purposes.dried and canned for aquaculture purposes.
+## Salt and pH
 
-Purchased packaged brine shrimp cysts should always be kept under dark, dry and cool Purchased packaged brine shrimp cysts should always be kept under dark, dry and cool conditions. When the cysts are stored for months, it is better to put them in a freezer! Brine conditions. When the cysts are stored for months, it is better to put them in a freezer. Brine shrimp cysts, which are used immediately or in the upcoming weeks, should be separated shrimp cysts, which are used immediately or in the upcoming weeks, should be separated
-
-from the main stock from the main stock.
-
-Hatching of Artemia cysts
-
-Salt and pH
-
-Artemia cysts start hatching when they are put in a saline solution of 25 g/l; the water Artemia cysts start hatching when they are put in a saline solution of 25 g/l; the water
-
-should be aerated so that the cysts remain in suspension. Preferably, the salt used forshould be aerated so that the cysts remain in suspension. Preferably, the salt used for the incubation should be sea salt or industrial salt. Don't use salt which is processed and the incubation should be sea salt or industrial salt. Don't use salt which is processed and enriched with iodine and chemicals which avoid clumping of the salt. If the pH of the enriched with iodine and chemicals which avoid clumping of the salt. If the pH of the solution is 8 or below, it should be elevated to a level above 8 with sodium bicarbonate solution is 8 or below, it should be elevated to a level above 8 with sodium bicarbonate
-
-(NaHCO(NaHCO $ _{3/3} $)..
+Artemia cysts start hatching when they are put in a saline solution of 25 g/l; the water should be aerated so that the cysts remain in suspension. Preferably, the salt used for the incubation should be sea salt or industrial salt. Do not use salt which is processed and enriched with iodine and chemicals which avoid clumping of the salt. If the pH of the solution is 8 or below, it should be elevated to a level above 8 with sodium bicarbonate (NaHCO3).
 
 ## Light
 
@@ -8639,25 +6001,19 @@ first few hours of incubation. For an optimal hatching rate, it is advisable to 
 
 on for the entire incubation period.
 
-Temperature
+## Temperature
 
-hours.
-
-The incubation time is depending on the water temperature; 26-28 $ ^{\circ} \mathrm{C} $ is optimal. At this temperature hatching of Artemia cysts will take about 24
+The incubation time depends on the water temperature; 26-28 $ ^{\circ} \mathrm{C} $ is optimal. At this temperature hatching of Artemia cysts will take about 24 hours.
 
 ## Aeration
 
-234
-
-Appendices
-
 Aeration is necessary to keep the cysts in suspension and to keep at least 3 mg/l oxygen in the water.
 
-Stocking density of the cysts
+## Stocking density of the cysts
 
 The best stocking density for the cysts is 1 g/l. Higher stocking densities result in a lower hatching rate.
 
-Containers
+## Containers
 
 Funnel shaped containers are best for hatching Artemia cysts (Photo 13A).
 
@@ -8665,15 +6021,15 @@ Funnel shaped containers are best for hatching Artemia cysts (Photo 13A).
 
 Photo 13A. A locally made incubator for Artemia cysts.
 
-Harvest and feeding
+## Harvest and feeding
 
-from their shells. After several minutes the shells will float on the surface while the nauplii
+After hatching, the nauplii can be separated from their shells. After several minutes the shells will float on the surface while the nauplii
 
 will be at the bottom. The bottom of the container has a valve with a fine meshed sieve
 
 (see Photo 31, chapter 8). Harvesting can begin now.
 
-Rinse the harvested nauplii with fresh water before feeding them to the catfi sh swim
+Rinse the harvested nauplii with fresh water before feeding them to the catfish swim
 
 up-fry, because the hatching medium is dirty and contains a lot of bacteria. The best way
 
@@ -8687,11 +6043,7 @@ time to consume them.
 
 <div style='text-align: center;'><img src='images/img_152.png' alt='OCR图片'/></div>
 
-## C
-
-Glossary
-
-238
+## Glossary
 
 Aerobic process: a biological process which requires oxygen.
 
@@ -8703,11 +6055,9 @@ a diet in order to make it complete.
 
 Anaerobic process: a biological process which takes place in the absence of
 
-oxygen. Antifungal additives: additives that inhibit the growth of fungus, which
+oxygen.
 
-important to increase the shelf life of products like fish feed. During the rainy
-
-season especially, when humidity is high and the environment is favourable for fungus.
+Antifungal additives: additives that inhibit the growth of fungus, which are important to increase the shelf life of products like fish feed, especially during the rainy season when humidity is high and the environment is favourable for fungus.
 
 Arborescent organ: this organ absorbs oxygen directly from the atmosphere. It consists of cauliflower-like structures situated on the gills supported by cartilage
 
@@ -8765,9 +6115,7 @@ Essential nutritional factors: vital compounds that the body can't make by itsel
 
 and are therefore essential for food to prevent diseases and ensure growth and
 
-Extruder:Extruder: a machine by which a set of mixed ingredients is forced through an a machine by which a set of mixed ingredients is forced through an opening in a perforated plate or die. In fish feed milling the pellet produced in an opening in a perforated plate or die. In fish feed milling, the pellet produced in an extruder, expands when it leaves the die and causes the feed to float, since air has extruder, expands when it leaves the die and causes the feed to float, since air has
-
-been incorporated into the pellet.been incorporated into the pellet.
+Extruder: a machine by which a set of mixed ingredients is forced through an opening in a perforated plate or die. In fish feed milling, the pellet produced in an extruder expands when it leaves the die and causes the feed to float, since air has been incorporated into the pellet.
 
 Facultative anaerobic organism: a single-celled organism which can live with or without oxygen.
 
@@ -8779,7 +6127,7 @@ producing fish for the purpose of providing human food.
 
 Gaussian distribution: the continuous probability distribution shown in a chart. Normally a bell-shaped curve. A higher curve implies that your efforts towards your target are being increasingly met.
 
-Gill filaments: the red, fleshy part of the gills. These filaments absorb the oxygen
+Gill filaments: the red, fleshy part of the gills. These filaments absorb oxygen.
 
 Gill rakers: bony structures for filtering particles or food out of the water. They don't have a respiratory function.
 
@@ -8811,7 +6159,11 @@ Hammer mill: in a fish feed plant this is a machine used for crushing raw materi
 
 such as maize and soya, into powder by repeated blows of small hammers.
 
-Harmattan: a season on the West African subcontinent, from early December until mid-March, with a dry dusty north-east wind which originates from the Sahara Desert.mid-March, with a dry dusty north-east wind, which originates from the Sahara Desert. Hypoxia: not enough oxygen in the tissues to sustain normal body functions. Invertebrates: animals that lack a vertebral column or backbone.
+Harmattan: a season on the West African subcontinent, from early December until mid-March, with a dry dusty north-east wind which originates from the Sahara Desert.
+
+Hypoxia: not enough oxygen in the tissues to sustain normal body functions.
+
+Invertebrates: animals that lack a vertebral column or backbone.
 
 Locomotory: ability to move from one place to another.
 
@@ -8829,11 +6181,7 @@ produce themselves.
 
 Micropyle: a small opening in the fish egg, through which sperm cells can enter.
 
-MSS-222:MSS-22: tricaine mesylate is a sedation chemical for catfish which consists of a white tricaine mesylate is a sedation chemical for catfish which is a white
-
-powder. At a dosage of 2 g/101 water, the catfish will be sedated after a few powder. At a dosage is 2 g/101 of water, the catfish will be sedated after a few
-
-minutes.minutes.
+MSS-222: tricaine mesylate is a sedation chemical for catfish which consists of a white powder. At a dosage of 2 g/10 l of water, the catfish will be sedated after a few minutes.
 
 NAFDAC: National Agency for food and drug administration and control.
 
@@ -8879,39 +6227,29 @@ SOP: standard operating procedure.
 
 Standing stock: at the fish farm this is the quantity or mass of fish which is responsible for the continuous growth of fish to the selling size.
 
-Stocking density:SWOT analysis: technique for understanding strengths and weaknesses and the number of fish in a certain area usually expressed as number of fish/midentifying opportunities and treats of a business idea or plan.2.
+Stocking density: the number of fish in a certain area, usually expressed as number of fish per square metre or cubic metre.
 
-which is the total amount of nitrogen in water in
+SWOT analysis: technique for understanding strengths and weaknesses and identifying opportunities and threats of a business idea or plan.
 
-the forms of NHthe forms of $ \mathrm{N H_{3}} $ and $ \mathrm{N H}_{+ + 3} $ and $ \mathrm{N H}_{+ + 4} $ ..
+TAN: total ammonia nitrogen, which is the total amount of nitrogen in water in the forms of $ \mathrm{NH_3} $ and $ \mathrm{NH_4^+} $.
 
-Trematode:Trematode: a fluke which has the ability to attach itself to a host with anchors. a fluke which has the ability to attach itself to a host with anchors.
+Trematode: a fluke which has the ability to attach itself to a host with anchors.
 
-Urbanisation:Urbanisation: the shift of a population from farm areas to town areas. the shift of a population from farm areas to town areas.
+Urbanisation: the shift of a population from farm areas to town areas.
 
-Urogenital:Urogenital: related to both the urinary and the genital organs related to both the urinary and the genital organs.
+Urogenital: related to both the urinary and the genital organs.
 
-Ventral fins:Ventral fins:a pair of fins which start after the pectoral fins before the urogenital a pair of fins which start after the pectoral fins before the urogenital
+Ventral fins: a pair of fins which start after the pectoral fins before the urogenital system.
 
-system.system.
-
-VitellogenesisVitellogenesis:: the production of yolk in the egg. the production of yolk in the egg.
-
-TAN:TAN: total ammonia nitrogen, which is the total amount of nitrogen in water in total ammonia nitrogen,
+Vitellogenesis: the production of yolk in the egg.
 
 <div style='text-align: center;'><img src='images/img_154.png' alt='OCR图片'/></div>
-
-## C
 
 ## WORD OF THANKS
 
 Word of thanks
 
-A word of thanks to all the people who have helped me to realize this book. In particular I A word of thanks to all the people who have helped me to realize this book. In particular I want to mention Mr. Steve Elias of SCC Ltd. who motivated me to start writing this book. want to mention Mr. Steve Elias of S.C.C. Ltd. who motivated me to start writing this book. As well I want to thank my friends Adama Enyojo and Iyodo Dominic for helping me with As well I want to thank my friends Adama Enyojo and Iyodo Dominic for helping me with
-
-all the illustrations in the book aiming to make it practical and easily readable, and my wife all the illustrations in the book aiming to make it practical and easily readable, and my wife
-
-Mercy for stimulating me to finish this huge task.Mercy for stimulating me to finish this huge task.
+A word of thanks to all the people who have helped me to realize this book. In particular I want to mention Mr. Steve Elias of S.C.C. Ltd. who motivated me to start writing this book. As well I want to thank my friends Adama Enyojo and Iyodo Dominic for helping me with all the illustrations in the book, aiming to make it practical and easily readable, and my wife Mercy for stimulating me to finish this huge task.
 
 Last but not least I want to have a special word of thanks to Heleen van der Maas for her important editing role without changing the context. Certainly she underestimated the
 
@@ -8927,7 +6265,7 @@ Willy Fleuren (58) has been involved in fish farming in Nigeria since 1998. He p
 
 My interest in aquaculture and fi sheries is why I took the time to read the manual. It is a handbook that anyone can enjoy. It will be useful for students, start-up and established entrepreneurs, researchers, input suppliers, colleges, universities and government offi cials. I highly recommend this interesting and educational handbook to all persons interested in fi sheries and aquaculture. It is an excellent guide and must have reference material.
 
-Born in the Netherlands, where Willy Fleuren started fish farming to complete his MSC degree in Aquaculture in 1984, he has been living in Nigeria since 2009. Presently Mr Fleuren lives in Abuja with his wife and children.
+Born in the Netherlands, where Willy Fleuren started fish farming to complete his MSc degree in Aquaculture in 1984, he has been living in Nigeria since 2009. Presently Mr. Fleuren lives in Abuja with his wife and children.
 
 Foluke O Areola,
 
@@ -8935,28 +6273,4 @@ Former Federal Director (Fisheries, Fisheries & Aquaculture, Quarantine)
 
 First Female & Past National President, Fisheries Society of Nigeria (FISON).
 
-**Albanian career-oriented** handbook is a practical handbook written by Milya Furman from a background in mathematics in terms of sequence in the precise measurement of values, fitness and in different production systems. It is filled with interesting parts and targets of interest for a successful career in farming in Albania, the author presents points in the sample more understandable and salient from.
-
-<div style='text-align: center;'><img src='images/img_157.png' alt='OCR图片'/></div>
-
-Vark Regeneration has been mentioned in this lecture in India since late 1958, the introduction and establishment of the restorative degenerative System in India. A detailed inerting transfer, termed the rest of cell Nissin anneal, and the weakened anneal with him in the midst of the system. The restorative degenerative wave acceptance of the system through the rest of cell anneal approach.
-
-The interns in aquarium and greenhouse take the time to learn the manual
-
-of the hardware and service manuals will be useful for equipment, that up and
-
-establish communication, memorandums, time updates, reports, interviews,
-
-and equipment allow the interns to develop and implement knowledge of
-
-person involved in fisheries and aquaculture. It is an excitation, quiet and
-
-mindful environment.
-
-Borinne van Rooftersma, Wally Lefteri earned her training to compete in the 1992 Olympics in Ankara in 1992, for the team living in Mexico since 2002. Presently Mr Lefteri lives in Algea with his wife and children.
-
-Fidela N. Avelo
-
-Former General, Structure Fidelaan Finances N. Bacau (Newcastle).
-
-Former Female & Bok National Presidency, Fidelaan Univsity of Nigeria (NIGU).
+[UNCLEAR OCR: trailing endorsement text after img_157 removed as nonsensical OCR corruption]
