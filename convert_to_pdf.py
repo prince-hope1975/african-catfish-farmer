@@ -5,7 +5,7 @@ import markdown
 import os
 from weasyprint import HTML
 
-INPUT_MD = "merged_handbook_local.md"
+INPUT_MD = "merged_handbook_local.cleaned.md"
 OUTPUT_PDF = "African_Catfish_Farmers_Handbook.pdf"
 BASE_DIR = os.path.abspath(".")
 
