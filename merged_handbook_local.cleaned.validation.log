@@ -1,0 +1,37 @@
+VALIDATION REPORT
+============================================================
+
+Chunk 213 [FAIL] ## Bill of quantities (BOQ) of a concrete pond and a block pond of 10 x
+  - Similarity: 36.7%
+  - MISSING 1 IMAGES: ['images/img_148.png'] — keeping original
+
+Chunk 214 [FAIL] ## Appendices
+  - Similarity: 29.3%
+  - MISSING 1 IMAGES: ['images/img_149.png'] — keeping original
+
+Chunk 215 [FAIL] ## APPENDIX 7APPENDIX 6
+  - Similarity: 12.9%
+  - MISSING 1 IMAGES: ['images/img_150.png'] — keeping original
+
+Chunk 216 [PASS] ## APPENDIX 8
+  - Similarity: 61.7%
+  - Images OK (0 preserved)
+
+Chunk 217 [PASS] ## Light
+  - Similarity: 95.1%
+  - Images OK (0 preserved)
+
+Chunk 218 [PASS] ## Aeration
+  - Similarity: 98.5%
+  - Images OK (2 preserved)
+
+Chunk 219 [FAIL] ## C
+  - Similarity: 27.4%
+  - MISSING 2 IMAGES: ['images/img_154.png', 'images/img_153.png'] — keeping original
+
+Chunk 221 [FAIL] ## WORD OF THANKS
+  - Similarity: 30.6%
+  - MISSING 1 IMAGES: ['images/img_157.png'] — keeping original
+
+
+Summary: 3 passed, 5 failed, 1 skipped, 0 kept original
